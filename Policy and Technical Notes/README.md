@@ -12,10 +12,11 @@ This folder contains all working notes, technical notes, and policy notes produc
 |:-:|:---------|:------|:-----|:------------|
 | 1 | Note_MH_1952_1953.md | El Salvador's Fiscal Landscape, 1952–1953 | Mar 2026 | Working note synthesizing the 1952 and 1953 Memorias de Hacienda: budget modernization, revenue structure, expenditure composition, public debt, economic context. |
 | 2 | Technical_Note_Fiscal_Diagnostic_1952_1953.docx | Fiscal Diagnostic and Vulnerability Assessment, 1952–1953 | Mar 2026 | IMF-style fiscal diagnostic: revenue concentration risk, expenditure rigidity, debt sustainability, dual-budget problem, vulnerability matrix with traffic-light indicators. |
-| 3 | Note_MH_1954.docx | El Salvador: Fiscal Year 1954 — Evidence from the Memoria de Hacienda | Mar 2026 | Working note on the 1954 Memoria: political context (Osorio), revenue surge, expenditure composition, public debt. |
-| 4 | Note_MH_1955.docx | El Salvador: Fiscal Year 1955 — Evidence from the Memoria de Hacienda | Mar 2026 | Working note on the 1955 Memoria: final Osorio year, revenue dynamics, expenditure, debt. |
+| 3 | Note_MH_1954.docx | El Salvador: Fiscal Year 1954 — Evidence from the Memoria de Hacienda | Mar 2026 | Working note on the 1954 Memoria: political context (Osorio), revenue surge, Pleites tax instruments (Decreto 836, 1951 income tax reform), consolidated security spending, personnel footprint baseline, debt at historic low. |
+| 4 | Note_MH_1955.docx | El Salvador: Fiscal Year 1955 — Evidence from the Memoria de Hacienda | Mar 2026 | Working note on the 1955 Informe Financiero: first year of biennial, revenue dynamics, expenditure, debt. |
 | 5 | Technical_Note_Fiscal_Diagnostic_1954.docx | Fiscal Diagnostic and Vulnerability Assessment, 1954 | Mar 2026 | Fiscal diagnostic for 1954: revenue apex of the Osorio administration, income tax constraints, expenditure rigidity, debt position. |
 | 6 | Technical_Note_Fiscal_Diagnostic_1954_1955.docx | Fiscal Diagnostic and Vulnerability Assessment, 1954–1955 | Mar 2026 | Combined diagnostic covering the shift from "low debt, low stress, high vulnerability" to "low debt, moderate stress, high vulnerability" as revenue peaked and declined. |
+| 7 | Note_MH_1955_1956.docx | El Salvador: Fiscal Years 1955–1956 — Evidence from the Informe Complementario Constitucional (Biennial) | Mar 2026 | Policy note on the biennial 1955–1956: Osorio-to-Lemus transition, first revenue decline (1955), Pleites tax instruments, consolidated security spending, personnel footprint, debt reversal (IBRD Carretera del Litoral), 1922 Empréstito (34 years), comparative 1952–1956 trajectory. |
 
 ### Notes produced but not yet filed (pending reconstruction)
 
