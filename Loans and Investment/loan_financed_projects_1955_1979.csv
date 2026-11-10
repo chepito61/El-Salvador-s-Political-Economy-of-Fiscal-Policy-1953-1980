@@ -53,3 +53,24 @@ year,project,legal_basis,lender_or_donor,instrument,item,amount_colones,source,v
 1963,Programa Nacional de Carreteras,D. 258,,spending,Spending,958813.90,MH 1963 p. 59,yes
 1963,Programa Nacional de Carreteras,D. 258,,commitment,Commitments at end-1963,9218644.52,MH 1963 p. 59,yes
 1963,Acuerdo sobre Productos Agrícolas (PL-480),D. 58,,spending,Spending in year (cumulative 1843090.97 less 1635128.72),207962.25,MH 1963 p. 57,yes
+1964,Carretera del Litoral,,IBRD,debt service,Principal (main road 3690000.00 + access roads 837500.00),4527500.00,MH 1964 Estado VII-2,yes
+1964,Carretera del Litoral,,IBRD,debt service,Interest paid (main road 480672.28 + access roads 628241.30),1108913.58,MH 1964 Estado VII-2,yes
+1964,Carretera del Litoral,,General Fund,counterpart,Capital transfer (Obras Públicas) to cover obligations from access-road construction contracts,1000000.00,MH 1964 Estado II-7 (PDF p. 77),yes
+1964,Aeropuerto de Ilopango,D. 487,AID,loan,Disbursement in year (balance 6034772.80 less 3066166.65),2968606.15,MH 1964 Estado VII-1,yes
+1964,Aeropuerto de Ilopango,D. 487,Eximbank,loan,Disbursement in year (balance 5180121.78 less 1919573.85),3260547.93,MH 1964 Estado VII-1,yes
+1964,Aeropuerto de Ilopango,,AID,debt service,Principal,199855.90,MH 1964 Estado VII-2,yes
+1964,Programa Nacional de Carreteras,D. 258,IDA,loan,Disbursement in year (balance 2494179.38 less 474450.00),2019729.38,MH 1964 Estado VII-1,yes
+1964,Programa Nacional de Carreteras,D. 258,General Fund,counterpart,Capital transfer (Obras Públicas),400000.00,MH 1964 Estado II-7 (PDF p. 77),yes
+1964,Crédito Supervisado y Equipamiento ABC,AID loan 18 Sep 1963,AID,loan,"Disbursement in year (on-budget, Ingresos de Capital)",4173995.43,MH 1964 Estado VII-1,yes
+1964,Crédito Supervisado y Equipamiento ABC,,General Fund,spending,"Loan to Administración de Bienestar Campesino (Agricultura, desembolsos financieros)",4200000.00,MH 1964 Estado II-7 (PDF p. 71),yes
+1964,Mejoramiento Ganadero (MAG),AID loan 18 Sep 1963,AID,loan,Disbursement in year (on-budget),979284.55,MH 1964 Estado VII-1,yes
+1964,Mejoramiento Ganadero (MAG),,General Fund,spending,Capital transfer to Fondo Especial para Mejoramiento Ganadero,979284.55,MH 1964 Estado II-7 (PDF p. 71),yes
+1964,Conservación e Irrigación de Suelos,AID loan,AID,loan,Disbursement in year (on-budget),1346120.58,MH 1964 Estado VII-1,yes
+1964,Conservación e Irrigación de Suelos,,General Fund,spending,Capital transfer to Fondo Especial para Conservación e Irrigación de Suelos,1346120.58,MH 1964 Estado II-7 (PDF p. 71),yes
+1964,Crédito Industrial INSAFI,AID loan 18 Sep 1963,AID,loan,Disbursement in year (on-budget),500000.00,MH 1964 Estado VII-1,yes
+1964,Crédito Industrial INSAFI,,General Fund,spending,Loan to INSAFI (Economía),500000.00,MH 1964 Estado II-7 (PDF p. 67),yes
+1964,Construcciones Escolares,AID loan 18 Sep 1963,AID,loan,Disbursement in year (on-budget),750000.00,MH 1964 Estado VII-1,yes
+1964,PL-480 / Crédito Supervisado ABC (US Government),,US Government,debt service,Principal,652770.90,MH 1964 Estado VII-2,yes
+1964,"ANDA water and sewerage (IDB, guaranteed)",,General Fund,counterpart,Capital transfer (Obras Públicas) to ANDA,3500000.00,MH 1964 Estado II-7 (PDF p. 77),yes
+1964,"IVU housing (IDB, guaranteed)",,General Fund,counterpart,Capital transfer (Obras Públicas) to IVU,2025133.90,MH 1964 Estado II-7 (PDF p. 77),yes
+1964,All on-budget AID programme loans,,AID,loan,Préstamos directos del sector externo (Ingresos de Capital),7749400.56,MH 1964 Estado II-5,yes
