@@ -102,3 +102,14 @@ year,project,legal_basis,lender_or_donor,instrument,item,amount_colones,source,v
 1966,All on-budget AID programme loans,,AID,loan,Préstamos directos obtenidos (Ingresos de Capital),8160000.00,"MH 1966 narrative p. 21 (millions, 2 decimals)",yes
 1966,Carretera del Litoral,,IBRD,debt service,"Principal, final payment (balance 4032500.00 to zero)",4032500.00,MH 1966 Estado VII-1,yes
 1966,Fondo Especial de Inversiones para el Desarrollo Económico y Social,"D.L. 555, 25 Mar 1966",General Fund,spending,"Initial capital lent to IVU, ANDA, IRA, ICR, Feria and municipalities",6000000.00,MH 1966 p. 31,yes
+1967,Programa Nacional de Carreteras,D. 258,IDA,loan,Drawings in year,3610000.00,"MH 1967 p. 40 (millions, 2 dec.)",yes
+1967,Crédito Industrial INSAFI,AID,AID,loan,Drawings in year,2900000.00,MH 1967 p. 40,yes
+1967,Erradicación de la Malaria,AID 29 Oct 1966,AID,loan,Drawings in year (treated as current revenue in narrative),1250000.00,MH 1967 p. 40,yes
+1967,Unidades y Puestos de Salud,AID,AID,loan,Drawings in year,800000.00,MH 1967 p. 40,yes
+1967,Desarrollo Agropecuario,AID,AID,loan,Drawings in year,460000.00,MH 1967 p. 40,yes
+1967,Construcciones Escolares,AID 18 Sep 1963,AID,loan,Drawings in year,40000.00,MH 1967 p. 40,yes
+1967,Carretera del Litoral,"D.L. 1702, 1954",General Fund,counterpart,Cumulative General Fund contribution 1955-1964,53240000.00,MH 1967 p. 34,yes
+1967,Carretera del Litoral,"D.L. 1702, 1954",IBRD,loan,Cumulative IBRD financing,40250000.00,MH 1967 p. 34,yes
+1967,Programa Nacional de Carreteras,D. 258,General Fund,counterpart,Cumulative General Fund contribution 1963-1966,13750000.00,MH 1967 p. 35,yes
+1967,Programa Nacional de Carreteras,D. 258,IDA,loan,Cumulative drawings to end-1967,17210000.00,MH 1967 p. 35,yes
+1967,Aeropuerto de Ilopango,D. 487,General Fund,counterpart,"Cumulative General Fund contribution (1962, 1963, 1966, 1967)",299000.00,MH 1967 p. 35,yes
