@@ -118,7 +118,7 @@ These hypotheses need BCR data on import values, coffee export volumes and price
 
 ### 2.4 The income tax
 
-The income and road tax rose ₡2.02M (+11.9%) to ₡19.08M, close to its 1959 peak (₡19.71M), and explained 52.1% of all revenue increases. The rise preceded the income-tax reform of the Directorio Cívico Militar (D. 300, 18 September 1961), which raised marginal rates to a maximum of 76.5% for individuals and 15% for companies and taxed undistributed profits (Pleites, pp. 202–203). Since the tax was assessed on the previous year's income, the reform's yield would appear from 1962. A second law (D. 442, 6 December 1961) then exempted reinvested industrial profits (Pleites, p. 205).
+Within it, the income tax proper (code 041) was ₡15.41M (₡13.44M in 1960, +14.7%) and the road tax on capital (Vialidad Serie "A", code 045) ₡3.67M (₡3.62M) (Estado 3). The Memoria does not split the income tax between individuals and companies; that requires the Dirección General de Contribuciones Directas or the BCR. The income and road tax together rose ₡2.02M (+11.9%) to ₡19.08M, close to its 1959 peak (₡19.71M), and explained 52.1% of all revenue increases. The rise preceded the income-tax reform of the Directorio Cívico Militar (D. 300, 18 September 1961), which raised marginal rates to a maximum of 76.5% for individuals and 15% for companies and taxed undistributed profits (Pleites, pp. 202–203). Since the tax was assessed on the previous year's income, the reform's yield would appear from 1962. A second law (D. 442, 6 December 1961) then exempted reinvested industrial profits (Pleites, p. 205).
 
 ---
 

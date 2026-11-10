@@ -106,7 +106,19 @@ Trade taxes fell below half of revenue (from 56.4% in 1960). The change came fro
 | 1961 | 19.08 | +11.9% |
 | 1962 | 26.80 | **+40.5%** |
 
-*Source: MH 1962, p. 23.* The ₡7.7M rise came in the first year after Decree 300 (18 September 1961), which raised top marginal rates to 76.5% for individuals and 15% for companies and taxed undistributed profits (Pleites, pp. 202–203). It exceeded the budget estimate by ₡2.3M (₡26.8M against ₡24.5M). The income tax was now the third-largest tax, behind import duties and consumption taxes and ahead of coffee export duties.
+*Source: MH 1962, p. 23.*
+
+**Income tax proper versus the road tax (Estado 3):**
+
+| ₡M | 1960 | 1961 | 1962 | Change 1961–62 |
+|:--|--:|--:|--:|--:|
+| 041 Impuesto sobre la Renta | 13.44 | 15.41 | 23.11 | +50.0% |
+| 045 Impuesto de Vialidad (Serie "A", on capital) | 3.62 | 3.67 | 3.69 | +0.5% |
+| **040 Renta y Vialidad** | **17.05** | **19.08** | **26.80** | **+40.5%** |
+
+*Sources: MH 1961, Estado 3; MH 1962, Estado 3 (p. 69), verified on the page image. Interest and surcharges on late payment are recorded separately (Renta ₡0.43M, Vialidad ₡0.16M in 1962).* The whole increase came from the income tax proper, which rose by half. **The Memorias do not split the income tax between individuals (personas naturales) and companies (sociedades).** That split must come from the Dirección General de Contribuciones Directas (annual reports or tax statistics), the BCR's *Revista mensual* or the Anuario Estadístico.
+
+The ₡7.7M rise came in the first year after Decree 300 (18 September 1961), which raised top marginal rates to 76.5% for individuals and 15% for companies and taxed undistributed profits (Pleites, pp. 202–203). It exceeded the budget estimate by ₡2.3M (₡26.8M against ₡24.5M). The income tax was now the third-largest tax, behind import duties and consumption taxes and ahead of coffee export duties.
 
 ### 2.3 The coffee channel
 
@@ -274,7 +286,7 @@ The Memoria's "Deuda Pública" does not include the ₡15.5M of *pagarés*, whic
 
 - **Teachers protected, the University line cut.** Primary-school salaries rose 13.6%, while Educación's subsidies (the line that most likely carries the University) fell ₡1.0M. Only the budget law can confirm what part of the cut fell on the University.
 - **Security flat in money, down in equipment.** Payroll held; equipment halved.
-- **The presidency grew** with ₡1.07M of *gratificaciones, subsidios y recompensas*, a class almost absent in 1961, and ₡2.50M of non-personal services. The Memoria does not explain these items.
+- **The presidency grew** with ₡1.07M of *gratificaciones, subsidios y recompensas*, a class almost absent in 1961, and ₡2.50M of non-personal services. Almost all of it is in the unit Casa Presidencial (₡4.91M; *gratificaciones* ₡1.06M, non-personal services ₡2.50M); the other unit, the new Consejo Nacional de Planificación y Coordinación Económica, spent ₡0.18M. The Memoria does not explain these items. The project author's hypothesis is that this marks the beginning of the presidency's *partidas secretas* (discretionary reserved funds). Casa Presidencial's non-personal services were already ₡2.16M under the Directorio in 1961, so the new element in 1962 is the *gratificaciones* line. Tracing Casa Presidencial by class from 1952 onward, and reading its line items in the budget laws, would test the hypothesis.
 
 ---
 

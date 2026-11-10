@@ -1,0 +1,37 @@
+year,project,legal_basis,lender_or_donor,instrument,item,amount_colones,source,verified
+1955,Carretera del Litoral,D.L. 1702 (DO 233, 20 Dec 1954),General Fund,counterpart,General Fund contribution,3000000.00,MH 1962 p. 53,yes
+1956,Carretera del Litoral,D.L. 1702,General Fund,counterpart,General Fund contribution,7890113.00,MH 1962 p. 53,yes
+1957,Carretera del Litoral,D.L. 1702,General Fund,counterpart,General Fund contribution,10504872.00,MH 1962 p. 53,yes
+1958,Carretera del Litoral,D.L. 1702,General Fund,counterpart,General Fund contribution,9734359.00,MH 1962 p. 53,yes
+1959,Carretera del Litoral,D.L. 1702,General Fund,counterpart,General Fund contribution,5171960.66,MH 1962 p. 53,yes
+1960,Carretera del Litoral,D.L. 1702,General Fund,counterpart,General Fund contribution,7200000.00,MH 1962 p. 53 (restated; MH 1961 shows 4681960.66),yes
+1961,Carretera del Litoral,D.L. 1702,General Fund,counterpart,General Fund contribution,3900000.00,MH 1962 p. 53 (restated; MH 1961 shows 8750000.00),yes
+1962,Carretera del Litoral,D.L. 1702,General Fund,counterpart,General Fund contribution,3196000.00,MH 1962 p. 53,yes
+1955-1962,Carretera del Litoral,D.L. 1702,IBRD,loan,Cumulative IBRD loan proceeds (main road + access roads),37307534.18,MH 1962 p. 53,yes
+1955-1962,Carretera del Litoral,D.L. 1702,Fines,other,Multas N.C. assigned to the fund,1413802.10,MH 1962 p. 53,yes
+1955,Carretera del Litoral,D.L. 1702,,spending,Total spending (operating + capital),2201055.17,MH 1962 p. 54,yes
+1956,Carretera del Litoral,D.L. 1702,,spending,Total spending (operating + capital),18206092.92,MH 1962 p. 54,yes
+1957,Carretera del Litoral,D.L. 1702,,spending,Total spending (operating + capital),16080645.34,MH 1962 p. 54,yes
+1958,Carretera del Litoral,D.L. 1702,,spending,Total spending (operating + capital),13721015.13,MH 1962 p. 54,yes
+1959,Carretera del Litoral,D.L. 1702,,spending,Total spending (operating + capital),10478679.04,MH 1962 p. 54,yes
+1960,Carretera del Litoral,D.L. 1702,,spending,Total spending (operating + capital),7455508.32,MH 1962 p. 54,yes
+1961,Carretera del Litoral,D.L. 1702,,spending,Total spending (operating + capital),12690015.93,MH 1962 p. 54,yes
+1962,Carretera del Litoral,D.L. 1702,,spending,Total spending (operating + capital),8492801.69,MH 1962 p. 54,yes
+1961,Carretera del Litoral,,IBRD,loan,Disbursement (access roads),3973424.58,MH 1961 p. 26,yes
+1962,Carretera del Litoral,,IBRD,loan,Disbursement (access roads),4210770.71,MH 1962 p. 47,yes
+1961,Carretera del Litoral,,IBRD,debt service,Principal (main road loan),3227500.00,MH 1961 Estado 20,yes
+1962,Carretera del Litoral,,IBRD,debt service,Principal (main road loan),3372500.00,MH 1962 Estado 20,yes
+1961,Carretera del Litoral,,IBRD,debt service,Interest paid (main road loan),931259.09,MH 1961 Estado 20,yes
+1962,Carretera del Litoral,,IBRD,debt service,Interest paid (main road loan),797268.68,MH 1962 Estado 20,yes
+1961,Carretera del Litoral,,IBRD,debt service,Interest paid (access roads loan),139045.56,MH 1961 Estado 20,yes
+1962,Carretera del Litoral,,IBRD,debt service,Interest paid (access roads loan),370096.44,MH 1962 Estado 20,yes
+1962,Aeropuerto de Ilopango,D. 487 (DO 236, 22 Dec 1961),Eximbank (US$2.65M) + DLF (US$1.6M),loan,Loan proceeds budgeted,10625000.00,MH 1962 p. 54,yes
+1962,Aeropuerto de Ilopango,D. 487,General Fund,counterpart,General Fund contribution received,125036.67,MH 1962 p. 54,yes
+1962,Aeropuerto de Ilopango,D. 487,,spending,Spending,352068.69,MH 1962 p. 55,yes
+1962,Aeropuerto de Ilopango,D. 487,,commitment,Commitments (contracts reserved),9708188.84,MH 1962 p. 55,yes
+1962,Edificios Escolares y Capacitación de Maestros,D.L. 51 (6 Apr 1962); D.L. 81 (31 May 1962),US Government (Alliance for Progress),grant,Grant authorized,5250000.00,MH 1962 p. 56,yes
+1962,Edificios Escolares y Capacitación de Maestros,D.L. 81,US Government,grant,Grant received,1013524.50,MH 1962 p. 57,yes
+1962,Edificios Escolares y Capacitación de Maestros,D.L. 81,,spending,Spending (school construction),271079.44,MH 1962 p. 57,yes
+1962,Edificios Escolares y Capacitación de Maestros,D.L. 81,,commitment,Commitments (school construction),881218.29,MH 1962 p. 57,yes
+1962,Acuerdo sobre Productos Agrícolas (PL-480),D. 283 (DO 174, 25 Sep 1961); D. 58 (13 Apr 1962),US Government,loan,Loan proceeds from sale of farm products,1462146.82,MH 1962 p. 56,yes
+1962,Acuerdo sobre Productos Agrícolas (PL-480),D. 58,,spending,Lent to Administración de Bienestar Campesino,1635128.72,MH 1962 p. 56,yes
