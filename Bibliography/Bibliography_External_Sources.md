@@ -2,7 +2,7 @@
 
 **El Salvador's Political Economy of Fiscal Policy, 1953–1980 — working bibliography (November 2026)**
 
-> **About this note.** This lists the sources outside the repository that were consulted for the 1961–1966 notes and the education series, with links and the use made of each. It also lists the primary sources identified but not yet obtained, mainly Diario Oficial decrees and the Ministries' *Memorias de Labores*. Sources already in the repository are listed in section 4 for completeness. Web addresses were checked when consulted in November 2026.
+> **About this note.** This lists the sources outside the repository that were consulted for the 1961–1967 notes, the education series and the political-economy context note, with links and the use made of each. It also lists the primary sources identified but not yet obtained, mainly Diario Oficial decrees and the Ministries' *Memorias de Labores*. Sources already in the repository are listed in section 4 for completeness. Web addresses were checked when consulted in November 2026.
 
 ---
 
@@ -19,6 +19,14 @@
 | El Diario de Hoy. "Rectores de la UES: juegos de memoria" (2025) | https://www.eldiariodehoy.com/opinion/rectores-de-la-ues-juegos-de-memoria/46407/2025/ | University rectors around 1960 (Napoleón Rodríguez Ruiz; Fabio Castillo) |
 | *Revista Minerva* (UES). "University reform in El Salvador: social and political context 1963–1980" | https://www.camjol.info/index.php/revminerva/article/view/12582 | University reform and politics, 1963–1980 |
 | EcuRed. "Mélida Anaya Montes" | https://www.ecured.cu/M%C3%A9lida_Anaya_Montes | ANDES 21 de Junio; teachers' strikes 1967–68 |
+| Library of Congress. *El Salvador: A Country Study*, "The 1969 War with Honduras" and "The 1970s: The Road to Revolt" | https://countrystudies.us/el-salvador/10.htm ; https://countrystudies.us/el-salvador/12.htm | Migrants in Honduras; 1974 land law; 1976 agrarian transformation; 1977 fraud; ORDEN; Baloyra's repression statistics (Context note) |
+| Library of Congress. *Honduras: A Country Study*, "War with El Salvador" | https://countrystudies.us/honduras/22.htm | 1969 evictions, war dates, casualties, 60,000–130,000 returnees, CACM (Context note) |
+| University of Central Arkansas, DADM Project. "El Salvador (1927–present)" | https://uca.edu/politicalscience/dadm-project/western-hemisphere-region/el-salvador-1927-present | Dated chronology of coups, elections, states of siege, 1960–1980 (Context note) |
+| Global Nonviolent Action Database (Swarthmore). "Salvadoran teachers strike for wages, 1971" | https://nvdatabase.swarthmore.edu/content/salvadoran-teachers-strike-wages-1971 | 1971 ANDES strike: demands, Decree 390, repression (Context note) |
+| Almeida, Paul D. *Waves of Protest: Popular Struggle in El Salvador, 1925–2005* (Minnesota, 2008), via reviews | https://muse.jhu.edu/book/32559 ; https://www.calstatela.edu/sites/default/files/waves_of_protest.pdf | Liberalization-then-threat model of protest waves (Context note) |
+| Stanley, William. *The Protection Racket State* (Temple, 1996), via T. D. Mason, *LARR* 34(3), 1999 | Cambridge Core (LARR) | Military protection of the agro-export elite in exchange for control of the State (Context note) |
+| Lindo-Fuentes, Héctor, and Erik Ching. *Modernizing Minds in El Salvador* (New Mexico, 2012; UCA, 2017), via UCA presentation | https://www.uca.edu.sv/mpe/wp-content/uploads/2018/05/PRESENTACION-LIBRO-HECTOR-Y-ERIK-150518.pdf | 1968 education reform; teachers turned into opposition (Context note) |
+| Durham, William H. *Scarcity and Survival in Central America* (Stanford, 1979), via National Research Council (1993), ch. 9 | https://www.nationalacademies.org/read/2211/chapter/9 | Land use, not population, behind migration to Honduras (Context note) |
 
 ### 1.2 Education
 
@@ -71,6 +79,7 @@
 | Banco Central de Reserva: national accounts, credit to government, *Revista Mensual* | 1952–1980 | GDP; monetary data (H4) |
 | Instituto Regulador de Abastecimientos: annual reports | 1953–1980 | Food subsidies (H5) |
 | Salvadoran press (*La Prensa Gráfica*, *El Diario de Hoy*) | 1960s–70s | Strikes; Salvadoran migrants in Honduras |
+| Books cited by Pleitez, Dada Hirezi and the reviews: Baloyra (1982); Colindres (1977); Guidos Véjar (1988); Montes, *El agro salvadoreño*; Sevilla (1984); Wallich and Adler (1949); White (1983); López Pérez (1984) | — | Political economy context; full list in the Context note |
 
 ---
 
@@ -86,7 +95,7 @@ The project author asked for the external sources to be uploaded to the reposito
 |:--|:--|
 | *Memorias de Hacienda/* | Ministerio de Hacienda, Memorias and Informes Complementarios Constitucionales, 1952–1979 |
 | *Turcios/* | Roberto Turcios, *Autoritarismo y modernización, 1950–1960*; *Rebelión: San Salvador 1960* |
-| *Dada Hirezi* files | Héctor Dada Hirezi on industrialization (ISI) in El Salvador |
-| *Pleites/* | Pleites, chapters 1–2 |
-| *determinants of growth el salvador IMF.pdf* | IMF study of growth determinants |
+| *Dada Hirezi* files (DH 1A, DH1B, DH1C1, DH1C2, "Dada Hirezi ISI El Salvador II") | Héctor Dada Hirezi, *La economía de El Salvador y la integración centroamericana, 1945–1960* (UCA Editores, 1978). Scanned without a text layer; OCR'd for the Context note |
+| *Pleites/* | William Pleitez, chapters 1 (agro-export model, pp. 57–186) and 2 (import substitution, pp. 187–270) of a book on El Salvador's development models; full title to be confirmed |
+| *determinants of growth el salvador IMF.pdf* | R. Armando Morales, "Determinants of Growth in an Error-Correction Model for El Salvador," IMF WP/98/104 (1998), covering 1970–1995 |
 | *Revenue Data 1952-1990/* | Revenue database, coffee prices and extraction scripts |
