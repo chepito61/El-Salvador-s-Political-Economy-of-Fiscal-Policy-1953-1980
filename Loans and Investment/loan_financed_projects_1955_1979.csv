@@ -35,3 +35,21 @@ year,project,legal_basis,lender_or_donor,instrument,item,amount_colones,source,v
 1962,Edificios Escolares y Capacitación de Maestros,D.L. 81,,commitment,Commitments (school construction),881218.29,MH 1962 p. 57,yes
 1962,Acuerdo sobre Productos Agrícolas (PL-480),D. 283 (DO 174, 25 Sep 1961); D. 58 (13 Apr 1962),US Government,loan,Loan proceeds from sale of farm products,1462146.82,MH 1962 p. 56,yes
 1962,Acuerdo sobre Productos Agrícolas (PL-480),D. 58,,spending,Lent to Administración de Bienestar Campesino,1635128.72,MH 1962 p. 56,yes
+1963,Carretera del Litoral,D.L. 1702,General Fund,counterpart,General Fund contribution,1650000.00,MH 1963 p. 55,yes
+1963,Carretera del Litoral,D.L. 1702,,spending,Total spending (operating + capital),4146012.13,MH 1963 p. 56,yes
+1963,Carretera del Litoral,,IBRD,loan,Disbursement (access roads; cumulative IBRD proceeds 39728881.72 less 37307534.18),2421347.54,MH 1963 p. 55,yes
+1963,Carretera del Litoral,,IBRD,debt service,Principal (main road + access roads loans),4322500.00,MH 1963 Estado 20,yes
+1963,Carretera del Litoral,,IBRD,debt service,Interest paid (main road + access roads loans),1224271.54,MH 1963 Estado 20,yes
+1963,Aeropuerto de Ilopango,D. 487,General Fund,counterpart,General Fund contribution received,83518.00,MH 1963 p. 56,yes
+1963,Aeropuerto de Ilopango,D. 487,Eximbank + AID,loan,Loan proceeds received (cumulative),5058116.47,MH 1963 p. 56,yes
+1963,Aeropuerto de Ilopango,D. 487,,spending,Spending in year (cumulative 5996505.13 less 352068.69),5644436.44,MH 1963 p. 56,yes
+1963,Aeropuerto de Ilopango,D. 487,,commitment,Commitments at end-1963,4373983.27,MH 1963 p. 56,yes
+1963,Edificios Escolares y Capacitación de Maestros,D.L. 81,,spending,Spending in year (cumulative 1552098.65 less 271079.44),1281019.21,MH 1963 p. 58,yes
+1963,Edificios Escolares y Capacitación de Maestros,D.L. 81,,commitment,Commitments at end-1963,956258.83,MH 1963 p. 58,yes
+1963,Programa Nacional de Carreteras,D. 161 (8 Oct 1962); D. 240 (15 Jan 1963); D. 258 (13 Feb 1963),IDA (₡20.0M) + General Fund (₡13.75M 1963-66),loan,Total financing plan,33750000.00,MH 1963 pp. 58-59,yes
+1963,Programa Nacional de Carreteras,D. 258,General Fund,counterpart,General Fund contribution received,573510.00,MH 1963 p. 59,yes
+1963,Programa Nacional de Carreteras,D. 258,General Fund,counterpart,Reserva N° 11937 in ordinary budget for contribution (commitment),1863990.00,MH 1963 p. 34,yes
+1963,Programa Nacional de Carreteras,D. 258,IDA,loan,Loan proceeds received,474450.00,MH 1963 p. 59,yes
+1963,Programa Nacional de Carreteras,D. 258,,spending,Spending,958813.90,MH 1963 p. 59,yes
+1963,Programa Nacional de Carreteras,D. 258,,commitment,Commitments at end-1963,9218644.52,MH 1963 p. 59,yes
+1963,Acuerdo sobre Productos Agrícolas (PL-480),D. 58,,spending,Spending in year (cumulative 1843090.97 less 1635128.72),207962.25,MH 1963 p. 57,yes
