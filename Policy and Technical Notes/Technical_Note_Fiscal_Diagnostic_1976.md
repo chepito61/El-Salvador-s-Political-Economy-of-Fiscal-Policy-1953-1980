@@ -29,6 +29,7 @@
   - Remunerations +30.6%.
 - **Deficit.** Commitment basis −₡218.1M (−26.9%). **Underlying −₡91.1M (−11.2%),** wider than 1975; −₡166.1M (−20.5%) if the financing programme is counted as spending.
 - **Liquidity.** Superávit Financiero ₡61.2M, **built on ₡237.0M of unsold investment-plan bonds booked as receivable.** Without them, about −₡176M. Treasury cash rose to ₡46.7M.
+- **Cash versus commitments.** On the World Bank's cash basis (May 1979, Table 5.1) the deficit narrowed, from −₡70.3M to −₡46.7M (−5.8% of revenue). On this series' commitment basis it widened. The gap is ₡222M of 1976 commitments carried into 1977 and ₡136.8M of unpaid orders: the bill was deferred, not avoided.
 - **Debt.** Direct debt +9.6% to ₡435.5M (53.8% of revenue); **guaranteed debt +76.5% to ₡470.5M** (CEL; INSAFI's Jiboa sugar mill); total public debt ₡906.0M (16.6% of GDP).
 - **Composition (credits used):** development 48.8%; security 6.5%.
 - **Agrarian reform:** ISTA received ₡36.8M; ₡110M of agrarian bonds authorized and none issued; the law amended on 20 October 1976.
@@ -56,6 +57,8 @@ Currency: US$1.00 = ₡2.50.
 | — of which unsold bonds booked as receivable | ₡83.0M | ₡144.0M | ₡237.0M |
 | Treasury cash | ₡27.13M | ₡9.34M | ₡46.74M |
 | Unpaid legalized orders | ₡44.91M | ₡78.66M | ₡136.82M |
+| *Memo: overall cash balance, World Bank (Table 5.1)* | *−₡44.7M* | *−₡70.3M* | *−₡46.7M* |
+| *Memo: consumer price inflation (BCR, via World Bank Table 9.1)* | *16.9%* | *19.0%* | *7.1%* |
 
 ¹ *Excludes loan-financed capital commitments, on-lending to public enterprises (CEL) and, in 1976, the ₡75.0M programme of loans to the public and private sectors (D. 184), committed at year-end.*
 
@@ -86,6 +89,7 @@ Currency: US$1.00 = ₡2.50.
 | — capital budget | +66.1% | +24.9% | +90.1% |
 | Gastos growth | +26.8% | +17.7% | +34.4% |
 | Remunerations growth (Cuadro 13, gastos) | +18.3% | +13.1% | +30.6% |
+| — in real terms (CPI) | +1.2% | −5.0% | +21.9% |
 | Commitments growth | +76.4% | +29.0% | +101.8% |
 | Appropriations used | 96.4% | 96.3% | 97.8% |
 | Additional credits voted during the year (₡M) | | 55.42 | 201.17 |
@@ -121,7 +125,7 @@ Currency: US$1.00 = ₡2.50.
 | Income tax accrued, not collected in cash (₡M) | | 92.6 | 108.0 |
 | Import duties / imports (Memoria) | 8.3% | 8.0% | 8.5% |
 
-*The export duty is the only instrument that captured the coffee windfall; company income tax grew 10%. Industrial exemptions are still not quantified, but the Memoria attributes the fall in the import-duty ratio (13.9% in 1972) to the incentive laws.*
+*The sugar export duty (Decree 135, 19 November 1974) applies only above US$10 per quintal, at 5–30% of the excess (Pleitez, ch. 2), so it vanished when the price fell in 1976. The export duty is the only instrument that captured the coffee windfall; company income tax grew 10%. Industrial exemptions are still not quantified, but the Memoria attributes the fall in the import-duty ratio (13.9% in 1972) to the incentive laws.*
 
 ---
 
@@ -138,7 +142,7 @@ Currency: US$1.00 = ₡2.50.
 | Current transfers to the private sector, incl. pensions (Cuadro 13, ₡M) | 22.24 | 23.47 | 23.34 | (INPEP from 1975) |
 | — memo: pensions ("clases pasivas", Estado I-6, ₡M) | | | 18.65 | |
 
-**The ratio of wages to revenue fell only because revenue jumped.** A 31% wage increase set during a windfall is a permanent claim on a temporary revenue: at the 1975 revenue level, the 1976 wage bill would have been 52% of revenue. Commitments doubled, and ₡87.8M of commitments from earlier years were still open.
+**The ratio of wages to revenue fell only because revenue jumped.** A 31% wage increase set during a windfall is a permanent claim on a temporary revenue: at the 1975 revenue level, the 1976 wage bill would have been 52% of revenue. Commitments doubled, and ₡87.8M of commitments from earlier years were still open. In real terms the 1976 wage bill rose about 22%, after a 5% real fall in 1975; over 1974–76 the teachers' line rose 12% in real terms and the University subsidy fell 8%.
 
 ---
 
@@ -168,7 +172,7 @@ Currency: US$1.00 = ₡2.50.
 
 *The direct-debt ratio fell below the 60% threshold only because revenue rose 40%. At the 1975 revenue level it would have been 75.5%. Debt service is the Deuda Pública ramo on a credits-used basis; the Memoria puts direct debt service at 6.6% of current revenue. GDP is the Memoria's estimate (₡5,454.4M).*
 
-**The debt was moved, not reduced.** Guaranteed internal bonds rose by ₡189.5M: CEL (+₡90.3M, Cerrón Grande and Ahuachapán) and INSAFI (+₡81.4M, of which ₡75.5M for the state Jiboa sugar mill). These are contingent liabilities of the Treasury; the Jiboa mill was built during a sugar boom that had already ended (the sugar duty fell 87% in 1976).
+**The debt was moved, not reduced.** Guaranteed internal bonds rose by ₡189.5M: CEL (+₡90.3M, Cerrón Grande and Ahuachapán) and INSAFI (+₡81.4M, of which ₡75.5M for the state Jiboa sugar mill). These are contingent liabilities of the Treasury. The Jiboa bonds were issued in 1976, when the sugar price boom had already ended (the sugar duty fell 87%). **The risk materialized later:** the World Bank's 1983 memorandum reports INSAFI insolvent in 1981, after very poor equity investments, with the Central Bank repaying its foreign loans.
 
 ---
 
@@ -233,7 +237,7 @@ Currency: US$1.00 = ₡2.50.
 | Revenue dependence on the coffee duty (28% of revenue) | VERY HIGH | HIGH (price fell in 1978) | ↑ NEW |
 | Permanent spending (wages +31%) financed by a temporary windfall | HIGH | REALIZED | ↑ NEW |
 | Surplus that depends on unsold bonds (₡237M) | HIGH (transparency) | REALIZED | ↑ |
-| Guaranteed debt (₡470M; Jiboa sugar mill, CEL) | HIGH (contingent) | MEDIUM | ↑ NEW |
+| Guaranteed debt (₡470M; Jiboa sugar mill, CEL) | HIGH (contingent) | MEDIUM (INSAFI later insolvent, 1981) | ↑ NEW |
 | Capital commitments (₡187M) and older commitments (₡88M) carried forward | HIGH | REALIZED | ↑ |
 | Agrarian reform withdrawn under landowner pressure | HIGH (political) | REALIZED | NEW |
 | Security apparatus growing; Defence minister chosen as candidate | HIGH (political) | REALIZED | ↑ |
@@ -268,6 +272,7 @@ Currency: US$1.00 = ₡2.50.
 - **The tax base narrowed again.** Coffee duty went from 13.5% to 28% of revenue; company income tax, the instrument that would have spread the windfall's taxation beyond the border, grew 10%.
 - **The financial surplus is less of a cushion than ever.** ₡237M of unsold bonds sit in "revenue receivable"; without them, the General Fund is about ₡176M in deficit.
 - **Debt moved off the direct balance sheet.** Direct debt slowed while guarantees rose 77%, mainly for CEL and the state sugar mill.
+- **The cash accounts flattered the year.** The World Bank, reading cash, saw 1976–77 as a period of strengthened finances; the commitment accounts show ₡222M deferred into 1977.
 - **The agrarian reform failed financially as well as politically.** The agency was funded; the land bonds never existed in practice.
 
 ### Data gaps
@@ -281,8 +286,9 @@ Currency: US$1.00 = ₡2.50.
 | Repayment of ₡25M of the coffee company loan; terms of the ₡5M balance | MH 1977; company records |
 | Fate of the Dignity bonds held by the General Fund; content of the new short-term investments (₡29.8M) | MH 1977; Central Bank |
 | Content of the Presidency's non-personal-services lump sums | Budget law 1976 |
-| CPI and real wages | BCR / DIGESTYC |
+| Real pay per worker (teachers, soldiers); the CPI used here is BCR's national index via the World Bank | Payroll and staffing data; BCR / DIGESTYC |
+| Date and effect of the tax amnesty (Decree 248) cited by the World Bank | Diario Oficial; MH 1977 |
 
 ---
 
-*Sources: Ministerio de Hacienda, Informe Complementario Constitucional 1976 (Cuadros 1–22; Estados I-6, II-1, III-9, III-10) and 1974–75. World Bank Pink Sheet in the repository file "Commodities y recaudacion.xlsx". Political context as in the working note (Ellacuría, ECA 337, 1976; Library of Congress country study; Wikipedia; Dialnet; Redalyc; UES). The analytical framework follows the IMF Fiscal Transparency Code (2019) and the IMF Debt Sustainability Framework.*
+*Sources: Ministerio de Hacienda, Informe Complementario Constitucional 1976 (Cuadros 1–22; Estados I-6, II-1, III-9, III-10) and 1974–75. World Bank Pink Sheet in the repository file "Commodities y recaudacion.xlsx". Political context as in the working note (Ellacuría, ECA 337, 1976; Pleitez, ch. 2; Library of Congress country study; Wikipedia; Dialnet; Redalyc; UES). Context and cross-checks: World Bank, *Economic Memorandum on El Salvador*, Report No. 2287-ES (7 May 1979), Tables 5.1, 5.2 and 9.1; World Bank, *El Salvador: Updating Economic Memorandum*, Report No. 4054-ES (21 January 1983), para. 81. The analytical framework follows the IMF Fiscal Transparency Code (2019) and the IMF Debt Sustainability Framework.*

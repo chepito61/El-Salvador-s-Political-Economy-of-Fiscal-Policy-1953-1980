@@ -18,7 +18,8 @@
 |:--|:--|:--|
 | 1976 | **Coffee price US$3.147/kg (+118%),** after the Brazilian frost of July 1975. **The coffee export duty yields ₡227.2M, almost three times 1975 (₡78.0M).** The sugar duty collapses to ₡3.3M (₡25.6M in 1975) | Pink Sheet; MH 1976, Estado II-1 |
 | 14 Mar 1976 | **Legislative elections.** The opposition boycotts them; the PCN wins all 52 seats | Wikipedia, "1976 Salvadoran legislative election" |
-| 29 Jun 1976 | **First Agrarian Transformation Project decreed** (under the ISTA law of June 1975): about 58,744 hectares in Usulután and San Miguel | Ellacuría, ECA 337 (1976); Dialnet 6521213 |
+| 19 Jan 1976 | Decree 448 turns CONAPLAN into the Ministry of Planning (hence the new Planificación ramo in the 1976 budget) | Pleitez, ch. 2, p. 200 |
+| 29 Jun 1976 | **First Agrarian Transformation Project decreed** (Decree 31, Diario Oficial 121, tomo 251), under the ISTA law of June 1975: 58,744 hectares, just under 4% of the country's farmland, in seven municipalities of Usulután and San Miguel. Holdings in the zone are limited to 3–35 hectares | Pleitez, ch. 2, p. 237; Ellacuría, ECA 337 (1976); Dialnet 6521213 |
 | 29 Jun 1976 | Decree 36 adds ₡31.6M to the budget, the excess of the end-1975 surplus over its estimate | MH 1976, p. 19 |
 | 1 Jul 1976 | Molina to the Assembly: "nothing and no one" will make the government step back on agrarian transformation; he commits the Armed Forces to it | Ellacuría, ECA 337 (1976) |
 | 8 Jul 1976 | **First ANEP communiqué against the project.** A press campaign follows, with FARO (eastern landowners) | UES thesis on the agrarian problem 1948–79; Dialnet 6521213 |
@@ -26,8 +27,8 @@
 | 7 Sep 1976 | Decree 71 adds ₡94.6M on an estimated 1976 surplus. **Among the year's additional credits: ₡25.0M for ISTA's extraordinary budget** | MH 1976, pp. 19–20 |
 | 15 Sep 1976 | Molina repeats "ni un paso atrás" (not one step back) | Ellacuría, ECA 337 (1976) |
 | Oct 1976 | El Salvador and Honduras agree to a mediation procedure | *Honduras: A Country Study*; ILM 15(6), 1976 |
-| **20 Oct 1976** | **The Assembly amends the ISTA law and the First Project (Decree 123).** Only land that does not fulfil its "social function" can be expropriated; the project is abandoned. The Minister of Planning (Atilio Vieytez) and the acting Minister of Agriculture (Salvador Arias) resign | Ellacuría, ECA 337 (1976); Redalyc 4964/496454146003; Dialnet 6521213 |
-| Late 1976 | **Ellacuría's editorial "A sus órdenes, mi capital"** reads the retreat as the State defeated "without great effort" by a minority class | ECA 337 (1976), pp. 637–643 |
+| **19–20 Oct 1976** | **The Assembly amends the ISTA law and the First Project (Decree 123; Diario Oficial 195, 22 October).** Pleitez dates the decree 19 October; Ellacuría dates the change 20 October. Only land that does not fulfil its "social function" can be expropriated; the project is abandoned. The Minister of Planning (Atilio Vieytez) and the acting Minister of Agriculture (Salvador Arias) resign | Pleitez, ch. 2, p. 237; Ellacuría, ECA 337 (1976); Redalyc 4964/496454146003; Dialnet 6521213 |
+| Late 1976 | **Ellacuría's editorial "A sus órdenes, mi capital"** reads the retreat as the State defeated "without great effort" by a minority class | *ECA* 31, no. 337 (1976), pp. 637–643 |
 | 1976 | **The PCN chooses General Romero,** the Minister of Defence and Public Security, as its candidate for February 1977 | Wikipedia, "Carlos Humberto Romero" |
 | 16 Dec 1976 | Decree 184 adds ₡75.0M "to provide financial resources to the public and private sectors" for investment projects | MH 1976, p. 20 |
 
@@ -38,6 +39,7 @@
 - **The agrarian project was fought and lost in four months.** The State funded ISTA with ₡36.8M in 1976, including the ₡25M voted in September. But the land bonds that were to pay for expropriations (₡60M direct and ₡50M through ISTA) were authorized and **never issued**, and the October amendment removed the power to expropriate. Track D now has its clearest case: reform announced, financed for the agency, and dropped for the land.
 - **Security spending moved again.** Defence and Seguridad Pública rose 28% after a flat 1975. The minister in charge of both was chosen as the next president.
 - **The Presidency spent more on itself.** Non-personal services in the Presidency's top units reached ₡17.0M; its top-level lump sum was ₡7.0M, against ₡2.8M in 1974. This was the year before the presidential election.
+- **The social backdrop was worsening** (context, not Memoria figures). Landless families rose to about 41% of rural families by 1975 (19.8% in 1961); the rural housing deficit reached 88% of families in 1976; and real agricultural minimum wages lost 14% of their purchasing power between 1965 and 1978 (Pleitez, ch. 2, Tables 2.12 and 2.17 and Figure 2.15). The World Bank's 1979 report attributes the slowdown of private investment in 1976–77 to "the uncertain political climate", and records that the 1976 land reform failed "because of strong resistance from large landowners".
 
 Currency: US$1.00 = ₡2.50.
 
@@ -92,10 +94,12 @@ So for 1976:
 *Source: MH 1976, Estado II-1 (PDF pp. 50–55), verified on the page images. The tax lines sum exactly to the printed ₡767,558,533.06 and current revenue to ₡810,536,846.85, which includes ₡553,801.54 of an IBRD loan for operating programmes; this series treats it as financing (₡809,983,045.31 net, as on p. 25 of the Memoria). The 1975 column is from the 1975 note.*
 
 - **The coffee duty almost tripled, to ₡227.2M: 28% of current revenue** (13.5% in 1975). The Memoria credits the price and the stocks held in the country, which allowed more to be exported.
-- **The sugar duty nearly disappeared** as the sugar boom ended. Coffee and sugar together were 28.5% of revenue (17.9% in 1975).
+- **The sugar duty nearly disappeared** as the sugar boom ended. The duty was created by Decree 135 of 19 November 1974: a progressive ad valorem tax levied only when the export price exceeded US$10 per quintal, at marginal rates of 5% to 30% on the excess (Pleitez, ch. 2, Table 2.3). It yielded ₡25.6M at the high prices of 1975 and almost nothing in 1976. Coffee and sugar together were 28.5% of revenue (17.9% in 1975).
 - **Income tax rose only 17%; company income tax 10%.** Company income tax fell from 61% to 23% of the coffee duty. **The boom was taxed at the border, not through profits.**
 - **The succession tax nearly tripled** (₡12.3M), and property taxes rose 35%.
 - **Import duties recovered** (+24%) as windfall incomes raised consumer imports. The Memoria notes that incentive-law exemptions had lowered duties to 8.0% of imports in 1975 (13.9% in 1972).
+
+**Cross-check.** The World Bank's May 1979 report (Statistical Appendix, Table 5.2) reproduces these 1976 figures exactly: current revenue ₡810.0M, tax revenue ₡767.6M, coffee ₡227.2M, sugar ₡3.3M, income tax ₡139.4M. It also credits better tax administration and a tax amnesty (Decree 248, allowing taxpayers to amend income and property declarations without penalty) for part of the rise in 1976–77.
 
 **Tax burden (Memoria, Cuadro 11): 14.1% of GDP** (estimated GDP ₡5,454.4M), against 11.9% in 1975. The Memoria's coefficient of tax to national income was 2.46 (1975 revised to 1.02). The Memoria itself adds that the rise "has not burdened domestic incomes more", but only the prices received abroad.
 
@@ -197,7 +201,7 @@ So for 1976:
 | Other ramos and Transferencias Generales | 44.72 | 6.3 | 59.39 | 5.8 | +32.8% |
 | **Total** | **709.61** | | **1,028.08** | | **+44.9%** |
 
-*Source: MH 1976, Cuadro 8 (pp. 26–27) and Cuadro 7 (Deuda Pública: gastos with no commitments); 1975 from MH 1975, Cuadro 8 (as corrected in the 1975 note on 11 November 2026). Cuadro 8 omits Deuda Pública, Transferencias Generales and four small offices (Consejo Central de Elecciones, Tribunal del Servicio Civil, Fiscalía, Procuraduría); the last line is the residual to the printed total (₡1,028,076.8 thousand). Each ramo's operating and capital parts sum exactly to its total.*
+*Source: MH 1976, Cuadro 8 (pp. 26–27) and Cuadro 7 (Deuda Pública: gastos with no commitments); 1975 from MH 1975, Cuadro 8 (as corrected in the 1975 note on 11 November 2026). Cuadro 8 omits Deuda Pública, Transferencias Generales and four small offices (Consejo Central de Elecciones, Tribunal del Servicio Civil, Fiscalía, Procuraduría); the last line is the residual to the printed total (₡1,028,076.8 thousand). Each ramo's operating and capital parts sum exactly to its total. The Ministerio de Planificación (₡9.55M, in "other ramos") is new in 1976: Decree 448 of 19 January 1976 created it from CONAPLAN (Pleitez, ch. 2, p. 200).*
 
 - **Public works led (+83%):** the road to the new airport, urban roads and the IDB and BCIE road loans.
 - **Hacienda's jump is the ₡75M financing programme,** committed at year-end and not spent.
@@ -244,8 +248,20 @@ So for 1976:
 
 *Checks: the Fuerza Armada line's four columns sum exactly to ₡32,759,742.03; the Presidency's units sum to its total (₡27,290,006.47); the Enseñanza Básica unit (₡102,766,185.02) sums across columns and across its sub-units; the Education transfers to the University and other bodies sum to ₡35,851,414.70; the Agriculture current transfers sum to ₡17,253,073.77.*
 
+- **In real terms** (national CPI, Central Reserve Bank, via the World Bank's 1979 report, Table 9.1: +19.0% in 1975 and +7.1% in 1976, so +27.4% over 1974–76):
+
+| Line | Nominal, 1974–76 | Real, 1974–76 |
+|:--|--:|--:|
+| Teachers, Enseñanza Básica | +42.7% | +12.0% |
+| University subsidy | +17.8% | **−7.6%** |
+| All remunerations (Cuadro 13) | +47.7% | +15.9% |
+| Fuerza Armada | +37.9% | +8.2% |
+| IRA (current + capital) | +81.0% | +42.0% |
+
+*Remunerations in 1976 alone: +30.6% nominal, about +21.9% real. These are wage bills, not wages per worker: the World Bank reports that government employment grew about 5.1% a year in 1972–77, while real payments for wages and salaries grew only 2.9% a year, so real pay per government worker fell over the period.*
+
 - **Teachers: +42.7% over two years,** slightly below all remunerations (+47.7% from 1974 to 1976). This volume does not split personal services into permanent and contract pay, so **the substitute-teacher question cannot be followed in 1976.**
-- **The University subsidy rose only 17.8% in two years,** while the Education ramo grew 61% (credits used) and all remunerations 48%. The University fell behind.
+- **The University subsidy rose only 17.8% in two years,** while the Education ramo grew 61% (credits used) and all remunerations 48%. **In real terms it fell about 8%.**
 - **The Fuerza Armada line rose 38% in two years,** with ₡13.7M of materials and supplies.
 - **The Presidency's lump sums grew fastest of all.** Non-personal services in its top-level unit were ₡7.0M (₡2.8M in 1974); in the Secretariat, ₡7.5M; in the Information Secretariat, ₡2.5M. The content of these lump sums is not stated.
 - **The IRA received ₡17.7M,** up from ₡9.8M in 1974. **ISTA received ₡36.8M,** a third of Agriculture's gastos (₡102.0M).
@@ -293,6 +309,20 @@ So for 1976:
 | **Superávit Financiero, 31 December** | **+101.60** | **+61.22** |
 
 **Revenue rose ₡233M; credits used rose ₡318M.** The comparable deficit widened from 10.3% to 11.2% of revenue in the year of the largest revenue increase in the Memoria's record. The operating saving more than doubled (₡193M, 24% of revenue), but the capital budget nearly doubled too. The D. 184 programme is treated like the CEL on-lending, as financing; if it is counted as spending, the deficit is a fifth of revenue.
+
+**The World Bank's cash accounts tell a different story, and the difference matters.**
+
+| ₡M (World Bank, May 1979, Table 5.1, cash basis) | 1975 | 1976 | 1977 | 1978 |
+|:--|--:|--:|--:|--:|
+| Current cash revenues | 564.2 | 807.9 | 1,191.7 | 1,036.8 |
+| Current expenditures | 458.1 | 560.1 | 680.1 | 842.8 |
+| Capital expenditures (excl. amortization) | 176.6 | 294.7 | 323.0 | 342.4 |
+| **Overall cash balance** | **−70.3** | **−46.7** | **+188.7** | **−148.3** |
+| — % of current revenue | −12.2% | −5.8% | +15.8% | −14.3% |
+| Net domestic financing | 33.6 | 45.2 | −145.6 | 23.4 |
+| Net foreign financing | 48.8 | 50.3 | 51.5 | 112.3 |
+
+On a cash basis the 1976 deficit **narrowed**; on the commitment basis used in this series it **widened**. The difference is timing. The cash accounts record spending when it is paid: they include payments on earlier years' commitments and leave out the ₡222M committed in 1976 and not yet paid, as well as ₡136.8M of legalized orders still unpaid at year-end. The World Bank read 1976–77 as a period of strengthened finances and "cautious" spending. **The commitment accounts show the bill being deferred.** In 1978, when coffee receipts fell, the cash deficit returned (−₡148M). *The World Bank figures are context; they are not used in this series' tables.*
 
 **The financial surplus fell to ₡61.2M, and it rests on more unsold bonds than before.** The accounts now carry **₡237.0M of investment-plan bonds as "accrued revenue receivable"**: ₡39.0M of 1974 bonds, ₡100.0M of 1975 bonds and ₡98.0M of 1976 bonds (₡5.0M of the 1974 issue was placed in 1976). **Without the unsold bonds, the financial position would be a deficit of about ₡176M** (about ₡42M at end-1975). Treasury cash, however, rose from ₡9.3M to ₡46.7M.
 
@@ -355,6 +385,7 @@ So for 1976:
 
 *The 1976 rows sum exactly to the printed ₡266,620,882.50. The 1975 rows, as printed in this volume, sum to ₡77.17M against a printed total of ₡77.14M (a ₡35 thousand difference not resolved).*
 
+- **The INSAFI guarantees later fell on the State.** The World Bank's 1983 memorandum reports that INSAFI made very poor equity investments, was insolvent in 1981, and that the Central Bank had to repay its foreign loans (para. 81).
 - **The agrarian bonds were never issued.** Estado III-9 lists "Bonos de Transformación Agraria" of ₡60.0M (direct) and ₡50.0M (guaranteed, ISTA) as authorized and wholly unused.
 - **Debt service** (Deuda Pública ramo, credits used) was ₡40.11M, 5.0% of current revenue: interest ₡16.07M, amortization ₡23.47M (internal ₡17.05M, external ₡6.42M). The Memoria puts direct debt service at 6.6% of current revenue.
 - **Total public debt was 16.6% of GDP** (18.0% with the non-guaranteed debt), on the Memoria's estimated GDP.
@@ -465,18 +496,18 @@ So for 1976:
 
 | Hypothesis | 1976 evidence | Verdict |
 |:--|:--|:--|
-| **H1** Education and the University squeezed | Education +36% (credits used); teachers' line +43% over 1974–76; **University subsidy +18% over 1974–76** | **The ministry was not squeezed; the University was,** relative to the rest of education |
-| **H2** Wage containment, especially teachers | Remunerations +30.6% in one year; teachers +42.7% over two years, against +47.7% for all remunerations | **No containment in money;** teachers slightly behind the average. Real terms need a CPI |
+| **H1** Education and the University squeezed | Education +36% (credits used); teachers' line +43% over 1974–76; **University subsidy +18% over 1974–76 (−8% real)** | **The ministry was not squeezed; the University was:** its subsidy fell in real terms |
+| **H2** Wage containment, especially teachers | Remunerations +30.6% in 1976 (about +22% real); teachers +42.7% over 1974–76 (+12% real), against +47.7% (+16% real) for all remunerations; World Bank: real pay per government worker fell in 1972–77 | **No containment of the wage bill; teachers slightly behind the average.** Per-worker real pay is a separate question the Memoria cannot answer |
 | **H3** Public investment cut first | Capital budget +90%; real investment +66%; public works +83% | **Investment surged** with the windfall |
-| **H4** Monetary policy | No Central Bank financing in the accounts; ₡98M of new bonds authorized and not sold; ₡12M of new short-term notes; Treasury cash up to ₡46.7M | **No visible monetary financing;** the creditor of the notes is to be identified |
+| **H4** Monetary policy | No Central Bank financing in the accounts; ₡98M of new bonds authorized and not sold; ₡12M of new short-term notes; unpaid orders up ₡58.2M; Treasury cash up to ₡46.7M. World Bank: net domestic financing ₡45.2M in 1976 (floating debt, Central Bank advances and bond sales); inflation 7.1% | **No visible monetary financing;** domestic financing came mostly through floating debt. The creditor of the notes is to be identified |
 | **H5** IRA food subsidies cut | IRA ₡17.7M (₡9.8M in 1974) | **Expanded** |
 | *Track A: tax bargain* | Coffee duty ×2.9; company income tax +10%; succession and property taxes up | **Coffee paid at the border during the boom;** profits were barely touched |
 | *Track B: safety valve* | Border flare-up (July); mediation agreed (October) | **Closed;** the dispute is diplomatic |
 | *Track C: protection bargain* | Security +28%; Fuerza Armada +38% (1974–76); Defence minister chosen as candidate; coffee company loan reduced | **The protection bargain grew with the windfall** |
-| *Track D: reform diluted* | First Project (June) → ANEP campaign → law amended (20 October); ISTA funded (₡36.8M) but ₡110M of land bonds never issued; two reform ministers resign | **The clearest case of the series: reform announced, financed for the agency, abandoned for the land** |
+| *Track D: reform diluted* | First Project (Decree 31, 29 June; 58,744 ha) → ANEP campaign → law amended (Decree 123, 19–20 October); World Bank (1979, 1983): failed because of large landowners' resistance; ISTA funded (₡36.8M) but ₡110M of land bonds never issued; two reform ministers resign | **The clearest case of the series: reform announced, financed for the agency, abandoned for the land** |
 
-**The story in one paragraph.** In 1976 the Brazilian frost doubled the coffee price and the coffee duty almost tripled. Revenue rose 40%, an increase the Memoria calls without precedent. The regime spent it: wages rose by almost a third, public works by four-fifths, a road to the new airport and the Central American Games were funded from the surplus, and ₡75M was set aside to lend. Spending still grew faster than revenue, and the comparable deficit widened to 11% of revenue; the paper surplus now rested on ₡237M of bonds that no one had bought. Coffee paid its windfall at the border, while company income tax barely moved. In June the government launched its first agrarian transformation project and swore before the Assembly that the Armed Forces would defend it; in October, after four months of attack led by ANEP, it amended the law so that almost no land could be taken. ISTA received ₡36.8M, but the land bonds were never issued. The security budget rose by more than a quarter, and the Minister of Defence and Public Security became the official candidate. **The pattern for 1976 is "spend the windfall, tax coffee only at the border, fund the reform agency but not the reform, and choose the general".**
+**The story in one paragraph.** In 1976 the Brazilian frost doubled the coffee price and the coffee duty almost tripled. Revenue rose 40%, an increase the Memoria calls without precedent. The regime spent it: wages rose by almost a third, public works by four-fifths, a road to the new airport and the Central American Games were funded from the surplus, and ₡75M was set aside to lend. Spending still grew faster than revenue, and the comparable deficit widened to 11% of revenue; the paper surplus now rested on ₡237M of bonds that no one had bought. On a cash basis the year looked prudent, because ₡222M of commitments were pushed into 1977. Coffee paid its windfall at the border, while company income tax barely moved. In June the government launched its first agrarian transformation project and swore before the Assembly that the Armed Forces would defend it; in October, after four months of attack led by ANEP, it amended the law so that almost no land could be taken. ISTA received ₡36.8M, but the land bonds were never issued. The security budget rose by more than a quarter, and the Minister of Defence and Public Security became the official candidate. **The pattern for 1976 is "spend the windfall, tax coffee only at the border, fund the reform agency but not the reform, and choose the general".**
 
 ---
 
-*Sources: Ministerio de Hacienda, Informe Complementario Constitucional, Ejercicio Fiscal 1976 (San Salvador, signed 16 March 1977), narrative pp. 17–47 (Cuadros 1–22) and Estados I-6 (1976 budget), II-1, III-9, III-10; Informes 1974 and 1975. Coffee prices: repository file "Commodities y recaudacion.xlsx". Political context: I. Ellacuría, "A sus órdenes, mi capital", editorial, ECA 337 (1976), pp. 637–643 (repository file); "1976 Salvadoran legislative election" and "Carlos Humberto Romero" (Wikipedia); U.S. Library of Congress, Honduras: A Country Study, ch. "El Salvador"; El Salvador–Honduras agreement for mediation procedure, ILM 15(6), 1976; Dialnet article 6521213 ("Reforma agraria y cooperativismo en El Salvador"); Redalyc 4964/496454146003; UES thesis "El problema agrario en El Salvador, 1948–1979". See the Political Economy Context note and the Bibliography.*
+*Sources: Ministerio de Hacienda, Informe Complementario Constitucional, Ejercicio Fiscal 1976 (San Salvador, signed 16 March 1977), narrative pp. 17–47 (Cuadros 1–22) and Estados I-6 (1976 budget), II-1, III-9, III-10; Informes 1974 and 1975. Coffee prices: repository file "Commodities y recaudacion.xlsx". Political context: I. Ellacuría, "A sus órdenes, mi capital", editorial, ECA 337 (1976), pp. 637–643 (repository file); "1976 Salvadoran legislative election" and "Carlos Humberto Romero" (Wikipedia); U.S. Library of Congress, Honduras: A Country Study, ch. "El Salvador"; El Salvador–Honduras agreement for mediation procedure, ILM 15(6), 1976; Dialnet article 6521213 ("Reforma agraria y cooperativismo en El Salvador"); Redalyc 4964/496454146003; UES thesis "El problema agrario en El Salvador, 1948–1979"; W. Pleitez, ch. 2 on the import-substitution model (repository folder "Pleites"), pp. 200, 205, 237, 251–263; World Bank, *Economic Memorandum on El Salvador*, Report No. 2287-ES (7 May 1979), paras. xi, 11–14 and Statistical Appendix Tables 5.1, 5.2, 9.1; World Bank, *El Salvador: Updating Economic Memorandum*, Report No. 4054-ES (21 January 1983), paras. 41, 81. The World Bank and Pleitez are used for context and cross-checks only. See the Political Economy Context note and the Bibliography.*
