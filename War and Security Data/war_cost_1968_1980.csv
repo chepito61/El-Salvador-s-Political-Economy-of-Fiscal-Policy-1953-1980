@@ -65,3 +65,9 @@ year,item,category,amount_colones,basis,financing,source,note
 1976,Security (Defensa + Seguridad Pública),security spending,66804300.00,credits used,,MH 1976 Cuadro 8,+27.8% on 1975
 1977,War bonds outstanding,debt stock,,end-1977,,MH 1977,Not available: no debt statement by instrument in MH 1977
 1977,Security (Defensa + Seguridad Pública),security spending,93666200.00,credits used,,MH 1977 Cuadro 9,+40.2% on 1976
+1977,War bonds outstanding (Dignidad + Defence 7%),debt stock,27307610.00,end-1977,,MH 1978 Estado III-9,Confirms the 1977 estimate; Dignidad 25807610.00 + Defence 7% 1500000.00
+1977,Interest on war bonds (estimated),interest,1430000.00,estimate,,Estimated: Dignidad 5% on 25.81M + Defence 7% on average balance,No service statement by instrument in MH 1977-78
+1978,War bonds outstanding (Dignidad only),debt stock,25807610.00,end-1978,,MH 1978 Estado III-9,Defence 7% bonds 1968-1978 fully repaid (1.5M in 1978); Dignidad unamortized since 1974
+1978,Amortization Defence 7% bonds,principal,1500000.00,year,,MH 1978 Estado III-9,Final repayment
+1978,Interest on war bonds (estimated),interest,1340000.00,estimate,,Estimated: Dignidad 5% on 25.81M + Defence 7% on average balance,No service statement by instrument in MH 1978
+1978,Security (Defensa + Seguridad Pública),security spending,123323000.00,credits used,,MH 1978 Cuadro 9,+31.7% on 1977; 9.24% of credits used
