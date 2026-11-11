@@ -203,3 +203,15 @@ year,project,legal_basis,lender_or_donor,instrument,item,amount_colones,source,v
 1974,Presupuesto de Capital,,General Fund,own funds,Capital commitments to be financed with local funds,30144500.00,MH 1974 p. 19,yes
 1974,Deuda directa externa,,Various,loan,Drawings in year (Cuadro 21),60096800.00,MH 1974 p. 41,yes
 1974,Deuda directa interna,,Domestic bondholders,bonds,Placements in year (Cuadro 21),22191700.00,MH 1974 p. 41,yes
+1975,"CENTA agricultural research (Programa 3.06, Agricultura)",,AID,loan,Loan used in year (accrued capital revenue),2522037.29,"MH 1975 pp. 17-18 (renta devengada, préstamos externos)",yes
+1975,"Grain storage and processing; technical assistance to the IRA (Programa 4.03, Agricultura)",,AID,loan,Loan used in year (accrued capital revenue),12670000.00,"MH 1975 pp. 17-18 (renta devengada, préstamos externos)",yes
+1975,"Postal equipment (Programa 3.02, Interior)",,BCIE,loan,Loan used in year (accrued capital revenue),2500000.00,"MH 1975 pp. 17-18 (renta devengada, préstamos externos)",yes
+1975,"Rural basic-education schools, teacher training (loan 1007-ES, Educación)",,IBRD,loan,Loan used in year (accrued capital revenue),8326266.71,"MH 1975 pp. 17-18 (renta devengada, préstamos externos)",yes
+1975,Hospitals and health centres (Salud),,IDB,loan,Loan used in year (accrued capital revenue),8939732.75,"MH 1975 pp. 17-18 (renta devengada, préstamos externos)",yes
+1975,"Cerrón Grande hydro, on-lent to CEL (Programa 6.01, Economía)",,IDB,loan,Loan used in year (accrued capital revenue),29350665.36,"MH 1975 pp. 17-18 (renta devengada, préstamos externos)",yes
+1975,"Irrigation, credit, land acquisition and distribution (Programa 3.09, Agricultura)",,IDB,loan,Loan used in year (accrued capital revenue),878826.48,"MH 1975 pp. 17-18 (renta devengada, préstamos externos)",yes
+1975,"Road maintenance and improvement (Programa 3.04, Obras Públicas)",,IDB,loan,Loan used in year (accrued capital revenue),6503330.00,"MH 1975 pp. 17-18 (renta devengada, préstamos externos)",yes
+1975,Presupuesto de Capital,,Foreign loans,loan,Capital commitments to be financed with foreign loans,43865300.00,MH 1975 p. 20,yes
+1975,Presupuesto de Capital,,General Fund,own funds,Capital commitments to be financed with local funds,44147700.00,MH 1975 p. 20,yes
+1975,Bonos Plan de Inversión Pública 1975,,Domestic bondholders,bonds,"Authorized, booked as accrued revenue, not sold",100000000.00,MH 1975 p. 42; Estado VI-1,yes
+1975,"Préstamo a la Compañía de Café, S.A.",,General Fund,loan (outflow),"Loan from the General Fund (balance sheet, off budget)",30000000.00,MH 1975 p. 41,yes

@@ -51,3 +51,9 @@ year,item,category,amount_colones,basis,financing,source,note
 1974,Interest on war bonds (estimate),carry-over (debt service),1640000.00,25.81M at 5% + ~5.0M at 7%,,computed,Cumulative interest since 1968 about 10.2M: now exceeds the emergency tax (9.59M)
 1974,Central Bank treasury notes outstanding,financing - Central Bank,1200700.00,end-1974,,MH 1974 p. 34,
 1974,Security (Defensa + Seguridad Pública),security spending,50273400.00,credits used,,MH 1974 Cuadro 8,+29.6% on 1973 credits used; Defensa +37.0%
+1975,Dignidad Nacional bonds outstanding,debt stock,25807610.00,end-1975,,MH 1975 Estado VI-1,Not amortized
+1975,Interest on Dignidad Nacional bonds,carry-over (debt service),1290380.50,paid in year,,MH 1975 Estado VI-2,Read from debt-service statement
+1975,Defence 7% bonds amortized,carry-over (debt service),1000000.00,paid in year,,MH 1975 Estado VI-2,Outstanding 3.50M
+1975,Interest on Defence 7% bonds,carry-over (debt service),297500.00,paid in year,,MH 1975 Estado VI-2,
+1975,War bonds outstanding (Dignidad + Defence 7%),debt stock,29307610.00,end-1975,,MH 1975 Estado VI-1,25% of direct internal debt (117.11M)
+1975,Security (Defensa + Seguridad Pública),security spending,52270500.00,credits used,,MH 1975 Cuadro 8,+4.0% on 1974; Defensa +1.1%

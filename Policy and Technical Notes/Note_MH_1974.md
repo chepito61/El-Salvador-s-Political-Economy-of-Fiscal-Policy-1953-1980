@@ -46,7 +46,26 @@ The 1974 Memoria (98 scanned pages, typewritten, poorly reproduced, most pages t
 So for 1974:
 
 - **ministries are compared on credits used** (Cuadro 8: gastos + commitments), against the same basis for 1973;
-- **unit lines are not available:** teachers, University, Fuerza Armada, Presidency lump sums and IRA. **[To fill from the 1975 Memoria or the budget law.]**
+- **unit lines are not in this volume:** teachers, University, Fuerza Armada, Presidency lump sums and IRA. They are now filled from the 1975 Memoria (see the update below).
+
+**Update (November 2026): the 1974 unit lines, from the 1975 Memoria.** The 1975 volume's Estado IV-2 reports the 1974 budget as liquidated at 31 December 1975. Verified on the page images:
+
+| Unit line (₡) | 1973 | 1974 | Change |
+|:--|--:|--:|--:|
+| Teachers: Enseñanza Básica | 57,114,528.44 | 70,303,018.19 | +23.1% |
+| — of which other personal services (contract, temporary) | | 1,550,109.70 | |
+| Universidad de El Salvador: subsidy | 18,383,130.00 | 26,383,130.00 | +43.5% |
+| Universidad de El Salvador: scholarships | 2,267,880.00 | 2,267,880.00 | 0.0% |
+| Defensa: Fuerza Armada (unit 105) | 17,433,231.30 | 23,762,578.12 | +36.3% |
+| Defensa: logistics services of the Fuerza Armada (new unit 106) | | 4,211,709.17 | |
+| Presidency: Administración Superior, non-personal services | ≈2.24M | 2,766,500.00 | +23.5% |
+| IRA: current subsidy | 3,055,571.00 | 5,341,410.00 | +74.8% |
+| IRA: capital transfer | | 4,422,500.00 | new |
+
+*1974 figures include commitments paid in 1975, so they are slightly larger than in-year gastos. Details in Note_MH_1975, section 2.5.*
+
+- **Teachers (+23.1%) gained more than the payroll as a whole (+18.6%):** the 1974 wage policy reached them.
+- **The University subsidy rose 44%,** the Fuerza Armada line 36%, and support to the IRA tripled.
 
 ---
 
@@ -371,8 +390,8 @@ So for 1974:
 
 | Hypothesis | 1974 evidence | Verdict |
 |:--|:--|:--|
-| **H1** Education and the University squeezed | Education +23% in credits used, but its share fell from 25.4% to 23.6%; social development fell to 39%; University line not available | **Relative squeeze:** education grew more slowly than the budget |
-| **H2** Wage containment, especially teachers | Remunerations +18.6% under the wage policy; teachers' line not available | **Not contained in money,** but probably eroded in real terms by inflation. Needs the unit data and a CPI |
+| **H1** Education and the University squeezed | Education +23% in credits used, but its share fell from 25.4% to 23.6%; social development fell to 39%; University subsidy +44% (1975 Memoria) | **Relative squeeze:** education grew more slowly than the budget |
+| **H2** Wage containment, especially teachers | Remunerations +18.6% under the wage policy; teachers +23.1% (1975 Memoria) | **Not contained in money;** teachers above average. Real terms need a CPI |
 | **H3** Public investment cut first | Capital +66%, commitments +76% | **Investment surged** on the boom and on external loans |
 | **H4** Monetary policy | Central Bank notes ₡1.2M; bonds authorized but not sold | **No monetary financing;** the surplus and commitments financed the deficit |
 | **H5** IRA food subsidies cut | AID grain-marketing loan for the IRA (₡2.4M); subsidy line not available | **Expanded through a loan** as grain prices rose |

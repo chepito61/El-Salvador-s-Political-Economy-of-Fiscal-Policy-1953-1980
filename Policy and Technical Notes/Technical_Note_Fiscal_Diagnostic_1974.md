@@ -176,7 +176,15 @@ Currency: US$1.00 = ₡2.50.
 | Development / security | 5.99x | 5.83x |
 | Social development, sectoral share (Cuadro 14) | 44.2% | 39.2% |
 
-**Unit lines** (teachers, University, Fuerza Armada, Presidency lump sums, IRA) are not available for 1974.
+**Unit lines, 1974** (added November 2026 from the 1975 Memoria's Estado IV-2, which reports the 1974 budget):
+
+| Unit line (₡M) | 1973 | 1974 | Change |
+|:--|--:|--:|--:|
+| Teachers, Enseñanza Básica | 57.11 | 70.30 | +23.1% |
+| Universidad de El Salvador, subsidy | 18.38 | 26.38 | +43.5% |
+| Fuerza Armada (unit 105) | 17.43 | 23.76 | +36.3% |
+| Presidency, Administración Superior: non-personal services | ≈2.24 | 2.77 | +23.5% |
+| IRA: current subsidy + capital transfer | 3.06 | 9.76 | ×3.2 |
 
 ---
 
@@ -207,7 +215,6 @@ Currency: US$1.00 = ₡2.50.
 | Imported inflation (oil shock) | HIGH | REALIZED | ↑ |
 | Surpluses that depend on unsold bonds and receivables | MODERATE (transparency) | REALIZED | ↑ |
 | Rural repression (La Cayetana) | HIGH (political) | REALIZED | NEW |
-| Missing unit-level spending data | — (data) | — | NEW |
 
 ---
 
@@ -241,7 +248,6 @@ Currency: US$1.00 = ₡2.50.
 
 | Gap | Source |
 |:--|:--|
-| 1974 unit-level spending (teachers, University, Fuerza Armada, Presidency, IRA) | MH 1975 (1974 budget liquidated to end-1975), or the 1974 budget law |
 | Wage policy of 1974: decree, scale, coverage | Diario Oficial, 1974 |
 | CPI and teachers' real pay | BCR / DIGESTYC |
 | Acquisition of Dignity bonds by the General Fund | MH 1975–76; Central Bank |
