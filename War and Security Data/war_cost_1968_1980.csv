@@ -44,3 +44,10 @@ year,item,category,amount_colones,basis,financing,source,note
 1973,Interest on war bonds (estimate),carry-over (debt service),1710000.00,25.81M at 5% + ~6.0M at 7%,,computed,Total interest 7.77M
 1973,Central Bank treasury notes outstanding,financing - Central Bank,667900.00,end-1973,,MH 1973 p. 52,Down from 17.44M: Central Bank advances repaid in the coffee boom
 1973,Security (Defensa + Seguridad Pública),security spending,37004800.00,gastos,,MH 1973 Cuadro 8,+10.6% on 1972; Defensa +18.0%; Seguridad Pública -3.1%
+1974,Bonos de la Dignidad Nacional 5% outstanding,debt stock,25807610.00,end-1974,,MH 1974 Estado VI-1,No amortization since issue
+1974,Dignity bonds held by the General Fund (short-term investments),debt stock (held by the State),16500000.00,end-1974,,MH 1974 p. 35,64% of the Dignity bonds outstanding are held by the Treasury's own General Fund
+1974,Bonos de Tesorería 7% 1978 (Defence) amortized,carry-over (repayment),1000000.00,amortization,,MH 1974 Estado VI-1,Outstanding end-1974: 4.50M
+1974,War bonds outstanding (Dignidad + Defence 7%),debt stock,30307610.00,end-1974,,MH 1974 Estado VI-1,33% of direct internal debt (91.48M)
+1974,Interest on war bonds (estimate),carry-over (debt service),1640000.00,25.81M at 5% + ~5.0M at 7%,,computed,Cumulative interest since 1968 about 10.2M: now exceeds the emergency tax (9.59M)
+1974,Central Bank treasury notes outstanding,financing - Central Bank,1200700.00,end-1974,,MH 1974 p. 34,
+1974,Security (Defensa + Seguridad Pública),security spending,50273400.00,credits used,,MH 1974 Cuadro 8,+29.6% on 1973 credits used; Defensa +37.0%
