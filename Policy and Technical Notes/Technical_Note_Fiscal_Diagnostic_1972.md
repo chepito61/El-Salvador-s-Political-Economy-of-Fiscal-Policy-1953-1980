@@ -24,7 +24,7 @@
   - Income tax +14.9% for a second year.
   - Tax / GDP 10.7% (the Memoria's first official series). The Treasury calls the system "inelastic" and blames exemptions, low property valuations and evasion.
 - **Spending.** Gastos +14.2% to ₡336.3M; +7.2% excluding two book-keeping operations (ANTEL assets ₡8.85M; IDA loan on-lent to CEL ₡11.59M). Credits used +7.8% to ₡383.7M.
-  - Teachers' pay +25.8%, after the 1971 strike.
+  - Teachers' pay +25.2%, after the 1971 strike.
   - University of El Salvador current funding −12.3%, in the year it was occupied.
   - Defensa +16.7%.
 - **Deficit.** Commitment basis −₡57.3M (−17.6%). **Underlying −₡15.4M (−4.7%),** down from −6.5% in 1971. The Memoria reports a ₡13.5M surplus.
@@ -144,11 +144,11 @@ The 1972 Memoria (pp. 40–41) gives the first official diagnosis of the tax sys
 | Growth | +6.0% | +7.7% | +10.4% | — |
 | Personal services / gastos | 53.3% | 52.5% | 50.8% | >50% |
 | Personal services / current revenue | 51.0% | 51.6% | 52.3% | >45% |
-| Teachers, basic education (₡M) | 40.48 | 43.12 | 54.25 | — |
+| Teachers, Enseñanza Básica (₡M) | 40.48 | 43.12 | 53.96 | — |
 | Interest (₡M) | 4.18 | 5.32 | 7.42 | — |
 | Operating saving (Memoria, ₡M) | 39.2 | 43.1 | 35.3 | — |
 
-**Rigidity rose.** Personal services grew faster than revenue for the second year. The teachers' raise (₡11.1M) is permanent. The operating saving fell 18%, which pushes investment further onto debt.
+**Rigidity rose.** Personal services grew faster than revenue for the second year. The teachers' raise (₡10.8M) is permanent. The operating saving fell 18%, which pushes investment further onto debt.
 
 ---
 
@@ -203,10 +203,10 @@ The 1972 Memoria (pp. 40–41) gives the first official diagnosis of the tax sys
 
 | Inside the pillars (gastos) | 1971 | 1972 | Change |
 |:--|--:|--:|--:|
-| Teachers, basic education (₡M) | 43.12 | 54.25 | **+25.8%** |
+| Teachers, Enseñanza Básica (₡M) | 43.12 | 53.96 | **+25.2%** |
 | University of El Salvador, current (₡M) | 14.82 | 13.00 | **−12.3%** |
 | University of El Salvador, capital (₡M) | 1.51 | — | −100% |
-| Defensa, "Administración Superior" (₡M) | — | 2.00 | new (₡1.85M other personal services) |
+| Defensa, "Administración Superior" (₡M) | — | 2.00 | new (₡1.85M non-personal services) |
 | Presidency, "Administración Superior" (₡M) | — | 1.47 | new; replaces the discretionary lines |
 | IRA support (₡M) | 1.52 | 1.55 | +1.8% |
 
@@ -245,7 +245,7 @@ The 1972 Memoria (pp. 40–41) gives the first official diagnosis of the tax sys
 | Unpaid orders (₡38.9M; ₡14.4M excluding book-keeping operations) | MODERATE | REALIZED | ↑ |
 | Wage bill growth after the teachers' settlement | MODERATE | REALIZED | ↑ |
 | Political closure: fraud, revolt, University occupied | HIGH (political) | REALIZED | ↑ |
-| Opaque top-level "other personal services" at Defence and the Presidency | MODERATE (transparency) | REALIZED | NEW |
+| Opaque top-level "non-personal services" at Defence and the Presidency | MODERATE (transparency) | REALIZED | NEW |
 
 ---
 
@@ -274,7 +274,7 @@ The 1972 Memoria (pp. 40–41) gives the first official diagnosis of the tax sys
 - **The coffee recovery narrowed the deficit.** Export duties rose 24% and the income tax 15%; the underlying deficit fell to 4.7% of revenue.
 - **Debt kept rising regardless.** Direct debt passed 60% of revenue. Service doubled to 5.7% of revenue. Central Bank credit rose by three-quarters. The Memoria's surplus rests on bonds not yet sold and loans not yet drawn.
 - **The Treasury diagnosed its own tax system** as low-yielding and inelastic, held down by exemptions, low property valuations and evasion. It proposed administrative remedies only.
-- **The budget recorded a political turn.** Teachers were paid (+26%) after the 1971 strike, but the University was occupied and lost 12% of its funding. Defensa grew faster than any large civilian ministry, and new opaque top-level lines appeared at Defence and the Presidency.
+- **The budget recorded a political turn.** Teachers were paid (+25%) after the 1971 strike, but the University was occupied and lost 12% of its funding. Defensa grew faster than any large civilian ministry, and new opaque top-level lines appeared at Defence and the Presidency.
 
 ### Data gaps
 

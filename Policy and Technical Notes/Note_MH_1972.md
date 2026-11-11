@@ -29,7 +29,7 @@
 **Political economy reading of 1972.**
 
 - **Coffee turned up again, and the budget breathed.** The price rose 12%, export duties 24% and tax revenue 9%. The comparable deficit fell from about 6.5% of revenue to under 5%.
-- **The teachers won their raise.** Pay for basic-education teachers rose 26% in 1972. This is the first budget after the 1971 strike and the salary-scale law that followed it, and it was an election year. **The regime repressed the strike and then paid part of what the strikers had asked for.**
+- **The teachers won their raise.** Pay for basic-education teachers rose 25% in 1972. This is the first budget after the 1971 strike and the salary-scale law that followed it, and it was an election year. **The regime repressed the strike and then paid part of what the strikers had asked for.**
 - **The University was punished.** It was occupied in July. Its subsidy and scholarship funds fell 12%, and its 1971 capital transfer was not repeated. The Memoria records the occupation only as lower transfers.
 - **The election closed the electoral road.** The 1972 fraud, the failed Mejía revolt and the University's occupation, all in five months, convinced much of the opposition that elections could not change the government. **In 1972 the fiscal system was not the trigger: coffee was up and teachers got paid.** The polarization of 1972 was political, and it came in a good fiscal year.
 
@@ -235,28 +235,28 @@ The Memoria lists the "tax exemptions" first among the causes of low elasticity.
 
 | Unit | 1971 | 1972 | Change |
 |:--|--:|--:|--:|
-| **Teachers, basic education¹** | 43,117,742.51 | **54,252,621.62** | **+25.8%** |
+| **Teachers: Enseñanza Básica¹** | 43,117,742.51 | **53,962,225.60** | **+25.2%** |
 | Educación Básica, unit 104 total | 44,818,537.68 | 55,610,241.80 | +24.1% |
 | **Universidad de El Salvador: subvención** | 12,929,770.00 | **11,294,608.33** | **−12.6%** |
 | **Universidad de El Salvador: becas** | 1,891,640.00 | **1,700,910.00** | **−10.1%** |
 | *University, current* | *14,821,410.00* | ***12,995,518.33*** | ***−12.3%*** |
 | University, capital transfer | 1,513,900.00 | — | |
 | Defensa: Fuerza Armada² | 8,660,741.57 | 13,287,863.67 | (reorganized) |
-| Defensa: Administración Superior (of which "other personal services" ₡1.85M)² | — | 1,995,742.61 | |
-| Presidency: Administración Superior (of which "other personal services" ₡1.26M)³ | — | 1,468,110.00 | |
+| Defensa: Administración Superior (of which "non-personal services" ₡1.85M)² | — | 1,995,742.61 | |
+| Presidency: Administración Superior (of which "non-personal services" ₡1.26M)³ | — | 1,468,110.00 | |
 | IRA: subvención (moved to Agricultura) + other transfer | 1,523,024.11 | 1,550,000.00 | +1.8% |
 
-¹ *1971: "Enseñanza Básica". 1972: "Supervisión Educativa" (₡53,962,225.60, almost all salaries) plus "Enseñanza Básica" (₡290,396.02). The programme budget renamed the teachers' line; the salary content is the same.*
+¹ *The same line, "Enseñanza Básica", in both years (unit 104, Educación Básica). It is almost all teachers' salaries. Corrected on 10 November 2026: an earlier version misaligned the rows of this unit and reported ₡54.25M (+25.8%), adding the experimental schools.*
 
-² *The Defence ramo was reorganized under the programme budget. The Fuerza Armada line absorbed staff from other units (the Dirección Técnica fell from ₡1.13M to ₡0.40M), so its 53% increase is not comparable. A new "Administración Superior" line puts ₡1.85M of "other personal services" (outside the salary law) at the top of the ministry.*
+² *The Defence ramo was reorganized under the programme budget. The Fuerza Armada line absorbed staff from other units (the Dirección Técnica fell from ₡1.13M to ₡0.40M), so its 53% increase is not comparable. A new "Administración Superior" line puts ₡1.85M of "non-personal services" (a lump sum, not salaries) at the top of the ministry. Corrected on 10 November 2026: an earlier version called this class "other personal services".*
 
-³ *The Presidency's "Administración Particular" and "Administración Privada" lines disappear in 1972. They are replaced by an "Administración Superior" of ₡1.47M, 86% of it "other personal services". The discretionary series is broken here.*
+³ *The Presidency's "Administración Particular" and "Administración Privada" lines disappear in 1972. They are replaced by an "Administración Superior" of ₡1.47M, 86% of it in the "non-personal services" class. The discretionary series is broken here.*
 
 *Source: MH 1972, Estado II-7 (PDF pp. 23, 28, 31, 32, 40, 42); MH 1971 (PDF p. 36), verified on the page images.*
 
 **The year's two strongest lines point in opposite directions:**
 
-- **Teachers' pay rose 26%.** That is ₡11.1M, more than three times the whole increase in Defensa and Seguridad Pública together (₡3.5M). It is the fiscal result of the 1971 strike and salary-scale law.
+- **Teachers' pay rose 25%.** That is ₡10.8M, more than three times the whole increase in Defensa and Seguridad Pública together (₡3.5M). It is the fiscal result of the 1971 strike and salary-scale law.
 - **The University lost 12% of its current funding** and all of its capital transfer, in the year it was occupied.
 
 ### 2.5 Security and development (gastos)
@@ -463,7 +463,7 @@ The Memoria lists the "tax exemptions" first among the causes of low elasticity.
 1. **Coffee recovered** (+12%), export duties rose 24% and tax revenue 9%.
 2. **The income tax grew 15% for a second year,** but direct taxes kept losing share to indirect ones.
 3. **The Treasury itself called the tax system inelastic** and blamed exemptions, low property valuations and evasion.
-4. **Teachers' pay rose 26%,** the fiscal settlement of the 1971 strike.
+4. **Teachers' pay rose 25%,** the fiscal settlement of the 1971 strike.
 5. **The University lost 12% of its current funding** and its capital transfer in the year it was occupied.
 6. **Defensa grew 17%,** faster than any large civilian ramo except Economía (inflated by the CEL loan).
 7. **The underlying deficit narrowed to about 5% of revenue;** direct debt rose 21%, and Central Bank credit rose to ₡17.4M.
@@ -476,13 +476,13 @@ The Memoria lists the "tax exemptions" first among the causes of low elasticity.
 | Hypothesis | 1972 evidence | Verdict |
 |:--|:--|:--|
 | **H1** Education and the University squeezed | Education +11.4%, but University current −12.3% and capital transfer withdrawn; occupation of 19 July | **Supported for the University,** in a good fiscal year. The squeeze was political, not cyclical |
-| **H2** Wage containment, especially teachers | Teachers +25.8%; payroll +10.4% | **Reversed in 1972.** The strike and the salary-scale law produced a large raise in the election year |
+| **H2** Wage containment, especially teachers | Teachers +25.2%; payroll +10.4% | **Reversed in 1972.** The strike and the salary-scale law produced a large raise in the election year |
 | **H3** Public investment cut first | Capital credits used −15.7%; but ₡46M of investment executed through earlier budgets | **Not a cut:** a shift from new commitments to executing the 1971 pipeline |
 | **H4** Monetary policy | Central Bank notes ₡10.0M → ₡17.4M; ANDA bonds issued to repay the Central Bank | **Accommodation increased** in a recovery year |
 | **H5** IRA food subsidies cut | ₡1.55M (moved to Agricultura); General Fund loans to the IRA | **Flat** |
 | *Track A: tax bargain* | The Ministry calls the system inelastic and blames exemptions, low property values and evasion; direct taxes fall to 22.8% of revenue; NIT law | **The Treasury names the problem;** no reform touches coffee incomes or property |
 | *Track B: safety valve* | No budget line for returnees; CACM still broken | **Closed** |
-| *Track C: protection bargain* | Defensa +16.7%; new "Administración Superior" lines with large "other personal services" at Defence and the Presidency; state of siege after the Mejía revolt | **Security grows; discretionary spending moves into the programme budget's top-level lines** |
+| *Track C: protection bargain* | Defensa +16.7%; new "Administración Superior" lines with large "non-personal services" at Defence and the Presidency; state of siege after the Mejía revolt | **Security grows; discretionary spending moves into the programme budget's top-level lines** |
 | *Track D: reform diluted* | University autonomy suspended (D.L. 41); electoral reform reversed by fraud | **The political opening of the 1960s is closed** |
 
 **The story in one paragraph.** In 1972 coffee recovered and the budget had room. The regime used some of it to pay the teachers, whose pay rose by a quarter after the 1971 strike, and more of it to keep investing, with debt. It did not use the recovery to reform taxes, although its own Treasury described the tax system as one of the least productive in the developing world. Politically the year was the turning point: the presidential election was stolen, a military revolt was put down with about a hundred dead, and the University was occupied and its funding cut. **The pattern for 1972 is "pay the teachers, punish the University, close the ballot box".** It shows that the fiscal hypothesis is not the whole story. Polarization accelerated in a good fiscal year, because the regime chose to close the political channels. The budget records the choice in small lines: the University's subsidy, the security ramos, and the top-level "other personal services" at Defence and the Presidency.

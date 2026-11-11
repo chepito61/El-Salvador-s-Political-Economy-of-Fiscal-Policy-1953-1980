@@ -1280,13 +1280,44 @@ year,ramo_as_printed,ramo_harmonized,unit,class_as_printed,class_harmonized,amou
 1972,Deuda de ejercicios anteriores,Deuda de ejercicios anteriores,TOTAL,Total (gastos),Total (gastos),9722039.86,"Memorias de Hacienda/MH 1972.pdf, PDF p. 45, Estado No. II-7 resumen (gastos)",yes
 1972,Seguro de vida empleados públicos,Seguro de vida empleados públicos,TOTAL,Total (gastos),Total (gastos),178730.24,"Memorias de Hacienda/MH 1972.pdf, PDF p. 45, Estado No. II-7 resumen (gastos)",yes
 1972,Defensa,Defensa,"Fuerza Armada (unit reorganized; not comparable with 1971)",Total (gastos),Total (gastos),13287863.67,"Memorias de Hacienda/MH 1972.pdf, Estado No. II-7 (gastos), unit lines, PDF p. 28",yes
-1972,Defensa,Defensa,"Administración Superior (of which 1849826.36 other personal services)",Total (gastos),Total (gastos),1995742.61,"Memorias de Hacienda/MH 1972.pdf, Estado No. II-7 (gastos), unit lines, PDF p. 28",yes
+1972,Defensa,Defensa,"Administración Superior (of which 1849826.36 non-personal services)",Total (gastos),Total (gastos),1995742.61,"Memorias de Hacienda/MH 1972.pdf, Estado No. II-7 (gastos), unit lines, PDF p. 28",yes
 1972,Educación,Educación,"Educación Básica (unit 104 total)",Total (gastos),Total (gastos),55610241.80,"Memorias de Hacienda/MH 1972.pdf, Estado No. II-7 (gastos), unit lines, PDF p. 31",yes
-1972,Educación,Educación,"Supervisión Educativa (basic-education teachers)",Total (gastos),Total (gastos),53962225.60,"Memorias de Hacienda/MH 1972.pdf, Estado No. II-7 (gastos), unit lines, PDF p. 31",yes
-1972,Educación,Educación,"Enseñanza Básica",Total (gastos),Total (gastos),290396.02,"Memorias de Hacienda/MH 1972.pdf, Estado No. II-7 (gastos), unit lines, PDF p. 31",yes
+1972,Educación,Educación,"Enseñanza Básica (basic-education teachers)",Total (gastos),Total (gastos),53962225.60,"Memorias de Hacienda/MH 1972.pdf, Estado No. II-7 (gastos), unit lines, PDF p. 31",yes
+1972,Educación,Educación,"Enseñanza Experimental",Total (gastos),Total (gastos),290396.02,"Memorias de Hacienda/MH 1972.pdf, Estado No. II-7 (gastos), unit lines, PDF p. 31",yes
 1972,Educación,Educación,"Universidad de El Salvador (subvención)",Total (gastos),Total (gastos),11294608.33,"Memorias de Hacienda/MH 1972.pdf, Estado No. II-7 (gastos), unit lines, PDF p. 32",yes
 1972,Educación,Educación,"Universidad de El Salvador (becas)",Total (gastos),Total (gastos),1700910.00,"Memorias de Hacienda/MH 1972.pdf, Estado No. II-7 (gastos), unit lines, PDF p. 32",yes
-1972,Presidencia,Presidencia,"Administración Superior (of which 1262100.00 other personal services; replaces Administración Particular/Privada)",Total (gastos),Total (gastos),1468110.00,"Memorias de Hacienda/MH 1972.pdf, Estado No. II-7 (gastos), unit lines, PDF p. 23",yes
+1972,Presidencia,Presidencia,"Administración Superior (of which 1262100.00 non-personal services; replaces Administración Particular/Privada)",Total (gastos),Total (gastos),1468110.00,"Memorias de Hacienda/MH 1972.pdf, Estado No. II-7 (gastos), unit lines, PDF p. 23",yes
 1972,Agricultura,Agricultura,"Instituto Regulador de Abastecimientos (subvención)",Total (gastos),Total (gastos),1500000.00,"Memorias de Hacienda/MH 1972.pdf, Estado No. II-7 (gastos), unit lines, PDF p. 40",yes
 1972,Agricultura,Agricultura,"Instituto Regulador de Abastecimientos (other transfer)",Total (gastos),Total (gastos),50000.00,"Memorias de Hacienda/MH 1972.pdf, Estado No. II-7 (gastos), unit lines, PDF p. 42",yes
 1971,Educación,Educación,Educación Básica (unit 104 total),Total (gastos),Total (gastos),44818537.68,"Memorias de Hacienda/MH 1971.pdf, Estado No. II-7 (gastos), unit lines, PDF p. 36",yes
+1973,Poder Legislativo,Poder Legislativo,TOTAL,Total (gastos),Total (gastos),1637800.00,"Memorias de Hacienda/MH 1973.pdf, Cuadro 8 (gastos, thousands to 1 dec.); Estado No. I-6",yes
+1973,Poder Judicial,Poder Judicial,TOTAL,Total (gastos),Total (gastos),6553800.00,"Memorias de Hacienda/MH 1973.pdf, Cuadro 8 (gastos, thousands to 1 dec.); Estado No. I-6",yes
+1973,Corte de Cuentas,Corte de Cuentas,TOTAL,Total (gastos),Total (gastos),2655900.00,"Memorias de Hacienda/MH 1973.pdf, Cuadro 8 (gastos, thousands to 1 dec.); Estado No. I-6",yes
+1973,Consejo Central de Elecciones,Consejo Central de Elecciones,TOTAL,Total (gastos),Total (gastos),390300.00,"Memorias de Hacienda/MH 1973.pdf, Cuadro 8 (gastos, thousands to 1 dec.); Estado No. I-6",yes
+1973,Tribunal de Servicio Civil,Tribunal de Servicio Civil,TOTAL,Total (gastos),Total (gastos),143400.00,"Memorias de Hacienda/MH 1973.pdf, Cuadro 8 (gastos, thousands to 1 dec.); Estado No. I-6",yes
+1973,Fiscalía General,Fiscalía General,TOTAL,Total (gastos),Total (gastos),861000.00,"Memorias de Hacienda/MH 1973.pdf, Cuadro 8 (gastos, thousands to 1 dec.); Estado No. I-6",yes
+1973,Procuraduría de Pobres,Procuraduría de Pobres,TOTAL,Total (gastos),Total (gastos),1391500.00,"Memorias de Hacienda/MH 1973.pdf, Cuadro 8 (gastos, thousands to 1 dec.); Estado No. I-6",yes
+1973,Presidencia,Presidencia,TOTAL,Total (gastos),Total (gastos),12453900.00,"Memorias de Hacienda/MH 1973.pdf, Cuadro 8 (gastos, thousands to 1 dec.); Estado No. I-6",yes
+1973,Hacienda,Hacienda,TOTAL,Total (gastos),Total (gastos),14140000.00,"Memorias de Hacienda/MH 1973.pdf, Cuadro 8 (gastos, thousands to 1 dec.); Estado No. I-6",yes
+1973,Relaciones Exteriores,Relaciones Exteriores,TOTAL,Total (gastos),Total (gastos),5357000.00,"Memorias de Hacienda/MH 1973.pdf, Cuadro 8 (gastos, thousands to 1 dec.); Estado No. I-6",yes
+1973,Interior,Interior,TOTAL,Total (gastos),Total (gastos),9254600.00,"Memorias de Hacienda/MH 1973.pdf, Cuadro 8 (gastos, thousands to 1 dec.); Estado No. I-6",yes
+1973,Defensa,Defensa,TOTAL,Total (gastos),Total (gastos),25546530.60,"Memorias de Hacienda/MH 1973.pdf, Cuadro 8 (gastos, thousands to 1 dec.); Estado No. I-6",yes
+1973,Seguridad Pública,Seguridad Pública,TOTAL,Total (gastos),Total (gastos),11458300.00,"Memorias de Hacienda/MH 1973.pdf, Cuadro 8 (gastos, thousands to 1 dec.); Estado No. I-6",yes
+1973,Justicia,Justicia,TOTAL,Total (gastos),Total (gastos),5769200.00,"Memorias de Hacienda/MH 1973.pdf, Cuadro 8 (gastos, thousands to 1 dec.); Estado No. I-6",yes
+1973,Educación,Educación,TOTAL,Total (gastos),Total (gastos),102494696.62,"Memorias de Hacienda/MH 1973.pdf, Cuadro 8 (gastos, thousands to 1 dec.); Estado No. I-6",yes
+1973,Salud Pública,Salud Pública,TOTAL,Total (gastos),Total (gastos),46383400.00,"Memorias de Hacienda/MH 1973.pdf, Cuadro 8 (gastos, thousands to 1 dec.); Estado No. I-6",yes
+1973,Trabajo,Trabajo,TOTAL,Total (gastos),Total (gastos),3292400.00,"Memorias de Hacienda/MH 1973.pdf, Cuadro 8 (gastos, thousands to 1 dec.); Estado No. I-6",yes
+1973,Economía,Economía,TOTAL,Total (gastos),Total (gastos),28047700.00,"Memorias de Hacienda/MH 1973.pdf, Cuadro 8 (gastos, thousands to 1 dec.); Estado No. I-6",yes
+1973,Agricultura,Agricultura,TOTAL,Total (gastos),Total (gastos),25537311.33,"Memorias de Hacienda/MH 1973.pdf, Cuadro 8 (gastos, thousands to 1 dec.); Estado No. I-6",yes
+1973,Obras Públicas,Obras Públicas,TOTAL,Total (gastos),Total (gastos),50671728.82,"Memorias de Hacienda/MH 1973.pdf, Cuadro 8 (gastos, thousands to 1 dec.); Estado No. I-6",yes
+1973,Transferencias Generales del Gobierno,Transferencias Generales del Gobierno,TOTAL,Total (gastos),Total (gastos),24229800.00,"Memorias de Hacienda/MH 1973.pdf, Cuadro 8 (gastos, thousands to 1 dec.); Estado No. I-6",yes
+1973,Deuda Pública,Deuda Pública,TOTAL,Total (gastos),Total (gastos),21665700.00,"Memorias de Hacienda/MH 1973.pdf, Cuadro 8 (gastos, thousands to 1 dec.); Estado No. I-6",yes
+1973,Deuda de ejercicios anteriores,Deuda de ejercicios anteriores,TOTAL,Total (gastos),Total (gastos),1683500.00,"Memorias de Hacienda/MH 1973.pdf, Cuadro 8 (gastos, thousands to 1 dec.); Estado No. I-6",yes
+1973,Defensa,Defensa,"Fuerza Armada",Total (gastos),Total (gastos),17433231.30,"Memorias de Hacienda/MH 1973.pdf, Estado No. I-6 (gastos), unit lines, PDF p. 41",yes
+1973,Defensa,Defensa,"Administración Superior (of which 1561581.73 non-personal services)",Total (gastos),Total (gastos),1715673.98,"Memorias de Hacienda/MH 1973.pdf, Estado No. I-6 (gastos), unit lines, PDF p. 41",yes
+1973,Educación,Educación,"Educación Básica (unit 104 total)",Total (gastos),Total (gastos),58508116.01,"Memorias de Hacienda/MH 1973.pdf, Estado No. I-6 (gastos), unit lines, PDF p. 44",yes
+1973,Educación,Educación,"Enseñanza Básica (basic-education teachers)",Total (gastos),Total (gastos),57114528.44,"Memorias de Hacienda/MH 1973.pdf, Estado No. I-6 (gastos), unit lines, PDF p. 44",yes
+1973,Educación,Educación,"Universidad de El Salvador (subvención)",Total (gastos),Total (gastos),18383130.00,"Memorias de Hacienda/MH 1973.pdf, Estado No. I-6 (gastos), unit lines, PDF p. 45",yes
+1973,Educación,Educación,"Universidad de El Salvador (becas)",Total (gastos),Total (gastos),2267880.00,"Memorias de Hacienda/MH 1973.pdf, Estado No. I-6 (gastos), unit lines, PDF p. 45",yes
+1973,Presidencia,Presidencia,"Administración Superior (of which 2235666.40 non-personal services)",Total (gastos),Total (gastos),2469440.92,"Memorias de Hacienda/MH 1973.pdf, Estado No. I-6 (gastos), unit lines, PDF p. 35",yes
+1973,Agricultura,Agricultura,"Instituto Regulador de Abastecimientos (subsidio)",Total (gastos),Total (gastos),3055571.00,"Memorias de Hacienda/MH 1973.pdf, Estado No. I-6 (gastos), unit lines, PDF p. 56",yes
