@@ -1080,7 +1080,7 @@ year,ramo_as_printed,ramo_harmonized,unit,class_as_printed,class_harmonized,amou
 1968,Presupuesto General (all ramos),All ramos,TOTAL,Materiales y Suministros,Materials,11880000.00,"Memorias de Hacienda/MH 1968.pdf, narrative pp. 32-33 (gastos, millions to 2 dec.)",yes
 1968,Presupuesto General (all ramos),All ramos,TOTAL,Maquinaria y Equipo,Machinery and equipment,1270000.00,"Memorias de Hacienda/MH 1968.pdf, narrative pp. 32-33 (gastos, millions to 2 dec.)",yes
 1968,Presupuesto General (all ramos),All ramos,TOTAL,Inmuebles y Equipo,Real estate,90000.00,"Memorias de Hacienda/MH 1968.pdf, narrative pp. 32-33 (gastos, millions to 2 dec.)",yes
-1968,Presupuesto General (all ramos),All ramos,TOTAL,Construcciones, Adiciones y Mejoras,Construction,1270000.00,"Memorias de Hacienda/MH 1968.pdf, narrative pp. 32-33 (gastos, millions to 2 dec.)",yes
+1968,Presupuesto General (all ramos),All ramos,TOTAL,"Construcciones, Adiciones y Mejoras",Construction,1270000.00,"Memorias de Hacienda/MH 1968.pdf, narrative pp. 32-33 (gastos, millions to 2 dec.)",yes
 1968,Presupuesto General (all ramos),All ramos,TOTAL,Transferencias Corrientes,Current transfers,53890000.00,"Memorias de Hacienda/MH 1968.pdf, narrative pp. 32-33 (gastos, millions to 2 dec.)",yes
 1968,Presupuesto General (all ramos),All ramos,TOTAL,Transferencias de Capital,Capital transfers,6180000.00,"Memorias de Hacienda/MH 1968.pdf, narrative pp. 32-33 (gastos, millions to 2 dec.)",yes
 1968,Presupuesto General (all ramos),All ramos,TOTAL,Desembolsos Financieros,Financial disbursements,5960000.00,"Memorias de Hacienda/MH 1968.pdf, narrative pp. 32-33 (gastos, millions to 2 dec.)",yes
@@ -1112,7 +1112,7 @@ year,ramo_as_printed,ramo_harmonized,unit,class_as_printed,class_harmonized,amou
 1969,Ramo de Defensa,Ramo de Defensa,TOTAL,Servicios no Personales,Servicios no Personales,4220409.75,"Memorias de Hacienda/MH 1969.pdf, PDF p. 64, Estado N° II-7 resumen (gastos)",yes
 1969,Ramo de Defensa,Ramo de Defensa,TOTAL,Materiales y Suministros,Materiales y Suministros,2337903.16,"Memorias de Hacienda/MH 1969.pdf, PDF p. 64, Estado N° II-7 resumen (gastos)",yes
 1969,Ramo de Defensa,Ramo de Defensa,TOTAL,Maquinaria y Equipo,Maquinaria y Equipo,91728.47,"Memorias de Hacienda/MH 1969.pdf, PDF p. 64, Estado N° II-7 resumen (gastos)",yes
-1969,Ramo de Defensa,Ramo de Defensa,TOTAL,Construcciones, Adiciones y Mejoras,Construcciones, Adiciones y Mejoras,125204.70,"Memorias de Hacienda/MH 1969.pdf, PDF p. 64, Estado N° II-7 resumen (gastos)",yes
+1969,Ramo de Defensa,Ramo de Defensa,TOTAL,"Construcciones, Adiciones y Mejoras","Construcciones, Adiciones y Mejoras",125204.70,"Memorias de Hacienda/MH 1969.pdf, PDF p. 64, Estado N° II-7 resumen (gastos)",yes
 1969,Ramo de Defensa,Ramo de Defensa,TOTAL,Transferencias Corrientes,Transferencias Corrientes,267981.32,"Memorias de Hacienda/MH 1969.pdf, PDF p. 64, Estado N° II-7 resumen (gastos)",yes
 1969,Ramo de Educación,Ramo de Educación,TOTAL,Total (gastos),Total (gastos),64533043.10,"Memorias de Hacienda/MH 1969.pdf, PDF p. 64, Estado N° II-7 resumen (gastos)",yes
 1969,Ramo de Educación,Ramo de Educación,TOTAL,Servicios Personales,Servicios Personales,47277054.34,"Memorias de Hacienda/MH 1969.pdf, PDF p. 64, Estado N° II-7 resumen (gastos)",yes
@@ -1127,19 +1127,19 @@ year,ramo_as_printed,ramo_harmonized,unit,class_as_printed,class_harmonized,amou
 1969,Presidencia de la República,Presidencia de la República,TOTAL,Materiales y Suministros,Materiales y Suministros,427052.14,"Memorias de Hacienda/MH 1969.pdf, PDF p. 64, Estado N° II-7 resumen (gastos)",yes
 1969,Presidencia de la República,Presidencia de la República,TOTAL,Maquinaria y Equipo,Maquinaria y Equipo,74392.04,"Memorias de Hacienda/MH 1969.pdf, PDF p. 64, Estado N° II-7 resumen (gastos)",yes
 1969,Presidencia de la República,Presidencia de la República,TOTAL,Transferencias Corrientes,Transferencias Corrientes,743747.94,"Memorias de Hacienda/MH 1969.pdf, PDF p. 64, Estado N° II-7 resumen (gastos)",yes
-1969,Provisión para Emergencias, Devoluciones y Obligaciones Diversas,Provisión para Emergencias, Devoluciones y Obligaciones Diversas,TOTAL,Total (gastos),Total (gastos),14112145.00,"Memorias de Hacienda/MH 1969.pdf, PDF p. 64, Estado N° II-7 resumen (gastos)",yes
-1969,Provisión para Emergencias, Devoluciones y Obligaciones Diversas,Provisión para Emergencias, Devoluciones y Obligaciones Diversas,TOTAL,Servicios Personales,Servicios Personales,247615.20,"Memorias de Hacienda/MH 1969.pdf, PDF p. 64, Estado N° II-7 resumen (gastos)",yes
-1969,Provisión para Emergencias, Devoluciones y Obligaciones Diversas,Provisión para Emergencias, Devoluciones y Obligaciones Diversas,TOTAL,Servicios no Personales,Servicios no Personales,206804.39,"Memorias de Hacienda/MH 1969.pdf, PDF p. 64, Estado N° II-7 resumen (gastos)",yes
-1969,Provisión para Emergencias, Devoluciones y Obligaciones Diversas,Provisión para Emergencias, Devoluciones y Obligaciones Diversas,TOTAL,Materiales y Suministros,Materiales y Suministros,678957.52,"Memorias de Hacienda/MH 1969.pdf, PDF p. 64, Estado N° II-7 resumen (gastos)",yes
-1969,Provisión para Emergencias, Devoluciones y Obligaciones Diversas,Provisión para Emergencias, Devoluciones y Obligaciones Diversas,TOTAL,Maquinaria y Equipo,Maquinaria y Equipo,12712203.09,"Memorias de Hacienda/MH 1969.pdf, PDF p. 64, Estado N° II-7 resumen (gastos)",yes
-1969,Provisión para Emergencias, Devoluciones y Obligaciones Diversas,Provisión para Emergencias, Devoluciones y Obligaciones Diversas,TOTAL,Transferencias Corrientes,Transferencias Corrientes,266564.80,"Memorias de Hacienda/MH 1969.pdf, PDF p. 64, Estado N° II-7 resumen (gastos)",yes
+1969,"Provisión para Emergencias, Devoluciones y Obligaciones Diversas","Provisión para Emergencias, Devoluciones y Obligaciones Diversas",TOTAL,Total (gastos),Total (gastos),14112145.00,"Memorias de Hacienda/MH 1969.pdf, PDF p. 64, Estado N° II-7 resumen (gastos)",yes
+1969,"Provisión para Emergencias, Devoluciones y Obligaciones Diversas","Provisión para Emergencias, Devoluciones y Obligaciones Diversas",TOTAL,Servicios Personales,Servicios Personales,247615.20,"Memorias de Hacienda/MH 1969.pdf, PDF p. 64, Estado N° II-7 resumen (gastos)",yes
+1969,"Provisión para Emergencias, Devoluciones y Obligaciones Diversas","Provisión para Emergencias, Devoluciones y Obligaciones Diversas",TOTAL,Servicios no Personales,Servicios no Personales,206804.39,"Memorias de Hacienda/MH 1969.pdf, PDF p. 64, Estado N° II-7 resumen (gastos)",yes
+1969,"Provisión para Emergencias, Devoluciones y Obligaciones Diversas","Provisión para Emergencias, Devoluciones y Obligaciones Diversas",TOTAL,Materiales y Suministros,Materiales y Suministros,678957.52,"Memorias de Hacienda/MH 1969.pdf, PDF p. 64, Estado N° II-7 resumen (gastos)",yes
+1969,"Provisión para Emergencias, Devoluciones y Obligaciones Diversas","Provisión para Emergencias, Devoluciones y Obligaciones Diversas",TOTAL,Maquinaria y Equipo,Maquinaria y Equipo,12712203.09,"Memorias de Hacienda/MH 1969.pdf, PDF p. 64, Estado N° II-7 resumen (gastos)",yes
+1969,"Provisión para Emergencias, Devoluciones y Obligaciones Diversas","Provisión para Emergencias, Devoluciones y Obligaciones Diversas",TOTAL,Transferencias Corrientes,Transferencias Corrientes,266564.80,"Memorias de Hacienda/MH 1969.pdf, PDF p. 64, Estado N° II-7 resumen (gastos)",yes
 1969,Ramo de Obras Públicas,Ramo de Obras Públicas,TOTAL,Total (gastos),Total (gastos),21606766.26,"Memorias de Hacienda/MH 1969.pdf, PDF p. 64, Estado N° II-7 resumen (gastos)",yes
 1969,Ramo de Obras Públicas,Ramo de Obras Públicas,TOTAL,Servicios Personales,Servicios Personales,13286244.51,"Memorias de Hacienda/MH 1969.pdf, PDF p. 64, Estado N° II-7 resumen (gastos)",yes
 1969,Ramo de Obras Públicas,Ramo de Obras Públicas,TOTAL,Servicios no Personales,Servicios no Personales,343665.71,"Memorias de Hacienda/MH 1969.pdf, PDF p. 64, Estado N° II-7 resumen (gastos)",yes
 1969,Ramo de Obras Públicas,Ramo de Obras Públicas,TOTAL,Materiales y Suministros,Materiales y Suministros,2861157.41,"Memorias de Hacienda/MH 1969.pdf, PDF p. 64, Estado N° II-7 resumen (gastos)",yes
 1969,Ramo de Obras Públicas,Ramo de Obras Públicas,TOTAL,Maquinaria y Equipo,Maquinaria y Equipo,271468.85,"Memorias de Hacienda/MH 1969.pdf, PDF p. 64, Estado N° II-7 resumen (gastos)",yes
 1969,Ramo de Obras Públicas,Ramo de Obras Públicas,TOTAL,Inmuebles y Equipos,Inmuebles y Equipos,67900.78,"Memorias de Hacienda/MH 1969.pdf, PDF p. 64, Estado N° II-7 resumen (gastos)",yes
-1969,Ramo de Obras Públicas,Ramo de Obras Públicas,TOTAL,Construcciones, Adiciones y Mejoras,Construcciones, Adiciones y Mejoras,629471.70,"Memorias de Hacienda/MH 1969.pdf, PDF p. 64, Estado N° II-7 resumen (gastos)",yes
+1969,Ramo de Obras Públicas,Ramo de Obras Públicas,TOTAL,"Construcciones, Adiciones y Mejoras","Construcciones, Adiciones y Mejoras",629471.70,"Memorias de Hacienda/MH 1969.pdf, PDF p. 64, Estado N° II-7 resumen (gastos)",yes
 1969,Ramo de Obras Públicas,Ramo de Obras Públicas,TOTAL,Transferencias Corrientes,Transferencias Corrientes,515651.66,"Memorias de Hacienda/MH 1969.pdf, PDF p. 64, Estado N° II-7 resumen (gastos)",yes
 1969,Ramo de Obras Públicas,Ramo de Obras Públicas,TOTAL,Transferencias de Capital,Transferencias de Capital,3631205.64,"Memorias de Hacienda/MH 1969.pdf, PDF p. 64, Estado N° II-7 resumen (gastos)",yes
 1969,Ramo de Defensa,Ramo de Defensa,Fuerza Armada,Total (gastos),Total (gastos),6914726.10,"Memorias de Hacienda/MH 1969.pdf, Estado N° II-7 (gastos), unit lines",yes
@@ -1212,4 +1212,43 @@ year,ramo_as_printed,ramo_harmonized,unit,class_as_printed,class_harmonized,amou
 1970,Presidencia,Presidencia,Administración Privada,Total (gastos),Total (gastos),785297.86,"Memorias de Hacienda/MH 1970.pdf, Estado No. II-7 (gastos), unit lines",yes
 1970,Economía,Economía,Instituto Regulador de Abastecimientos (subvención),Total (gastos),Total (gastos),1000000.00,"Memorias de Hacienda/MH 1970.pdf, Estado No. II-7 (gastos), unit lines",yes
 1970,Economía,Economía,Instituto Regulador de Abastecimientos (subsidio),Total (gastos),Total (gastos),400000.00,"Memorias de Hacienda/MH 1970.pdf, Estado No. II-7 (gastos), unit lines",yes
-1970,Economía,Economía,IRA bonds for past losses (D.L. 98/192), committed,Total (gastos),Total (gastos),7300000.00,"Memorias de Hacienda/MH 1970.pdf, Estado No. II-7 (gastos), unit lines",yes
+1970,Economía,Economía,"IRA bonds for past losses (D.L. 98/192), committed",Total (gastos),Total (gastos),7300000.00,"Memorias de Hacienda/MH 1970.pdf, Estado No. II-7 (gastos), unit lines",yes
+1971,Poder Legislativo,Poder Legislativo,TOTAL,Total (gastos),Total (gastos),1690964.20,"Memorias de Hacienda/MH 1971.pdf, PDF p. 54, Estado No. II-7 resumen (gastos)",yes
+1971,Poder Judicial,Poder Judicial,TOTAL,Total (gastos),Total (gastos),5779305.68,"Memorias de Hacienda/MH 1971.pdf, PDF p. 54, Estado No. II-7 resumen (gastos)",yes
+1971,Corte de Cuentas,Corte de Cuentas,TOTAL,Total (gastos),Total (gastos),2567754.75,"Memorias de Hacienda/MH 1971.pdf, PDF p. 54, Estado No. II-7 resumen (gastos)",yes
+1971,Consejo Central de Elecciones,Consejo Central de Elecciones,TOTAL,Total (gastos),Total (gastos),675394.76,"Memorias de Hacienda/MH 1971.pdf, PDF p. 54, Estado No. II-7 resumen (gastos)",yes
+1971,Tribunal de Servicio Civil,Tribunal de Servicio Civil,TOTAL,Total (gastos),Total (gastos),136826.41,"Memorias de Hacienda/MH 1971.pdf, PDF p. 54, Estado No. II-7 resumen (gastos)",yes
+1971,Fiscalía General,Fiscalía General,TOTAL,Total (gastos),Total (gastos),775689.01,"Memorias de Hacienda/MH 1971.pdf, PDF p. 54, Estado No. II-7 resumen (gastos)",yes
+1971,Presidencia,Presidencia,TOTAL,Total (gastos),Total (gastos),8487679.69,"Memorias de Hacienda/MH 1971.pdf, PDF p. 54, Estado No. II-7 resumen (gastos)",yes
+1971,Hacienda,Hacienda,TOTAL,Total (gastos),Total (gastos),12927551.61,"Memorias de Hacienda/MH 1971.pdf, PDF p. 54, Estado No. II-7 resumen (gastos)",yes
+1971,Relaciones Exteriores,Relaciones Exteriores,TOTAL,Total (gastos),Total (gastos),4865842.18,"Memorias de Hacienda/MH 1971.pdf, PDF p. 54, Estado No. II-7 resumen (gastos)",yes
+1971,Interior,Interior,TOTAL,Total (gastos),Total (gastos),8634732.18,"Memorias de Hacienda/MH 1971.pdf, PDF p. 54, Estado No. II-7 resumen (gastos)",yes
+1971,Defensa,Defensa,TOTAL,Total (gastos),Total (gastos),18546434.47,"Memorias de Hacienda/MH 1971.pdf, PDF p. 54, Estado No. II-7 resumen (gastos)",yes
+1971,Seguridad Pública,Seguridad Pública,TOTAL,Total (gastos),Total (gastos),11436315.55,"Memorias de Hacienda/MH 1971.pdf, PDF p. 54, Estado No. II-7 resumen (gastos)",yes
+1971,Justicia,Justicia,TOTAL,Total (gastos),Total (gastos),4797731.28,"Memorias de Hacienda/MH 1971.pdf, PDF p. 54, Estado No. II-7 resumen (gastos)",yes
+1971,Educación,Educación,TOTAL,Total (gastos),Total (gastos),80748078.54,"Memorias de Hacienda/MH 1971.pdf, PDF p. 54, Estado No. II-7 resumen (gastos)",yes
+1971,Salud Pública,Salud Pública,TOTAL,Total (gastos),Total (gastos),39240002.65,"Memorias de Hacienda/MH 1971.pdf, PDF p. 54, Estado No. II-7 resumen (gastos)",yes
+1971,Trabajo,Trabajo,TOTAL,Total (gastos),Total (gastos),3116723.39,"Memorias de Hacienda/MH 1971.pdf, PDF p. 54, Estado No. II-7 resumen (gastos)",yes
+1971,Procuraduría de Pobres,Procuraduría de Pobres,TOTAL,Total (gastos),Total (gastos),1140649.93,"Memorias de Hacienda/MH 1971.pdf, PDF p. 54, Estado No. II-7 resumen (gastos)",yes
+1971,Economía,Economía,TOTAL,Total (gastos),Total (gastos),10794698.12,"Memorias de Hacienda/MH 1971.pdf, PDF p. 54, Estado No. II-7 resumen (gastos)",yes
+1971,Agricultura,Agricultura,TOTAL,Total (gastos),Total (gastos),17987200.23,"Memorias de Hacienda/MH 1971.pdf, PDF p. 54, Estado No. II-7 resumen (gastos)",yes
+1971,Obras Públicas,Obras Públicas,TOTAL,Total (gastos),Total (gastos),26819584.89,"Memorias de Hacienda/MH 1971.pdf, PDF p. 54, Estado No. II-7 resumen (gastos)",yes
+1971,Deuda Pública,Deuda Pública,TOTAL,Total (gastos),Total (gastos),10237890.69,"Memorias de Hacienda/MH 1971.pdf, PDF p. 54, Estado No. II-7 resumen (gastos)",yes
+1971,Clases Pasivas,Clases Pasivas,TOTAL,Total (gastos),Total (gastos),16499802.23,"Memorias de Hacienda/MH 1971.pdf, PDF p. 54, Estado No. II-7 resumen (gastos)",yes
+1971,Cotizaciones ISSS,Cotizaciones ISSS,TOTAL,Total (gastos),Total (gastos),1368250.00,"Memorias de Hacienda/MH 1971.pdf, PDF p. 54, Estado No. II-7 resumen (gastos)",yes
+1971,Organismos Internacionales,Organismos Internacionales,TOTAL,Total (gastos),Total (gastos),2503737.27,"Memorias de Hacienda/MH 1971.pdf, PDF p. 54, Estado No. II-7 resumen (gastos)",yes
+1971,Provisión emergencias y devoluciones,Provisión emergencias y devoluciones,TOTAL,Total (gastos),Total (gastos),141951.64,"Memorias de Hacienda/MH 1971.pdf, PDF p. 54, Estado No. II-7 resumen (gastos)",yes
+1971,Deuda de ejercicios anteriores,Deuda de ejercicios anteriores,TOTAL,Total (gastos),Total (gastos),2472893.39,"Memorias de Hacienda/MH 1971.pdf, PDF p. 54, Estado No. II-7 resumen (gastos)",yes
+1971,Seguro de vida empleados públicos,Seguro de vida empleados públicos,TOTAL,Total (gastos),Total (gastos),151952.32,"Memorias de Hacienda/MH 1971.pdf, PDF p. 54, Estado No. II-7 resumen (gastos)",yes
+1971,Defensa,Defensa,Fuerza Armada,Total (gastos),Total (gastos),8660741.57,"Memorias de Hacienda/MH 1971.pdf, Estado No. II-7 (gastos), unit lines, PDF p. 33",yes
+1971,Educación,Educación,Enseñanza Básica (incl. former Enseñanza Primaria and Plan Básico),Total (gastos),Total (gastos),43117742.51,"Memorias de Hacienda/MH 1971.pdf, Estado No. II-7 (gastos), unit lines, PDF p. 36",yes
+1971,Educación,Educación,Universidad de El Salvador (subvención),Total (gastos),Total (gastos),12929770.00,"Memorias de Hacienda/MH 1971.pdf, Estado No. II-7 (gastos), unit lines, PDF p. 37",yes
+1971,Educación,Educación,Universidad de El Salvador (becas),Total (gastos),Total (gastos),1891640.00,"Memorias de Hacienda/MH 1971.pdf, Estado No. II-7 (gastos), unit lines, PDF p. 37",yes
+1971,Educación,Educación,Universidad de El Salvador (transferencia de capital),Total (gastos),Total (gastos),1513900.00,"Memorias de Hacienda/MH 1971.pdf, Estado No. II-7 (gastos), unit lines, PDF p. 38",yes
+1971,Educación,Educación,Universidad Centroamericana José Simeón Cañas (transferencia de capital),Total (gastos),Total (gastos),605000.00,"Memorias de Hacienda/MH 1971.pdf, Estado No. II-7 (gastos), unit lines, PDF p. 38",yes
+1971,Presidencia,Presidencia,Administración Particular,Total (gastos),Total (gastos),2060037.94,"Memorias de Hacienda/MH 1971.pdf, Estado No. II-7 (gastos), unit lines, PDF p. 25",yes
+1971,Presidencia,Presidencia,Administración Privada,Total (gastos),Total (gastos),916188.48,"Memorias de Hacienda/MH 1971.pdf, Estado No. II-7 (gastos), unit lines, PDF p. 25",yes
+1971,Economía,Economía,Instituto Regulador de Abastecimientos (subvención),Total (gastos),Total (gastos),1000000.00,"Memorias de Hacienda/MH 1971.pdf, Estado No. II-7 (gastos), unit lines, PDF p. 45",yes
+1971,Economía,Economía,Instituto Regulador de Abastecimientos (subsidio),Total (gastos),Total (gastos),373024.11,"Memorias de Hacienda/MH 1971.pdf, Estado No. II-7 (gastos), unit lines, PDF p. 45",yes
+1971,Economía,Economía,Instituto Regulador de Abastecimientos (transferencia de capital),Total (gastos),Total (gastos),150000.00,"Memorias de Hacienda/MH 1971.pdf, Estado No. II-7 (gastos), unit lines, PDF p. 46",yes
+1970,Educación,Educación,Enseñanza Básica (Plan Básico; Dirección de Educación Media y Superior),Total (gastos),Total (gastos),2929509.86,"Memorias de Hacienda/MH 1970.pdf, Estado No. II-7 (gastos), unit lines, PDF p. 44",yes

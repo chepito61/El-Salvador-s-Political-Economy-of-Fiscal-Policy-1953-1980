@@ -1,5 +1,5 @@
 year,project,legal_basis,lender_or_donor,instrument,item,amount_colones,source,verified
-1955,Carretera del Litoral,D.L. 1702 (DO 233, 20 Dec 1954),General Fund,counterpart,General Fund contribution,3000000.00,MH 1962 p. 53,yes
+1955,Carretera del Litoral,"D.L. 1702 (DO 233, 20 Dec 1954)",General Fund,counterpart,General Fund contribution,3000000.00,MH 1962 p. 53,yes
 1956,Carretera del Litoral,D.L. 1702,General Fund,counterpart,General Fund contribution,7890113.00,MH 1962 p. 53,yes
 1957,Carretera del Litoral,D.L. 1702,General Fund,counterpart,General Fund contribution,10504872.00,MH 1962 p. 53,yes
 1958,Carretera del Litoral,D.L. 1702,General Fund,counterpart,General Fund contribution,9734359.00,MH 1962 p. 53,yes
@@ -25,7 +25,7 @@ year,project,legal_basis,lender_or_donor,instrument,item,amount_colones,source,v
 1962,Carretera del Litoral,,IBRD,debt service,Interest paid (main road loan),797268.68,MH 1962 Estado 20,yes
 1961,Carretera del Litoral,,IBRD,debt service,Interest paid (access roads loan),139045.56,MH 1961 Estado 20,yes
 1962,Carretera del Litoral,,IBRD,debt service,Interest paid (access roads loan),370096.44,MH 1962 Estado 20,yes
-1962,Aeropuerto de Ilopango,D. 487 (DO 236, 22 Dec 1961),Eximbank (US$2.65M) + DLF (US$1.6M),loan,Loan proceeds budgeted,10625000.00,MH 1962 p. 54,yes
+1962,Aeropuerto de Ilopango,"D. 487 (DO 236, 22 Dec 1961)",Eximbank (US$2.65M) + DLF (US$1.6M),loan,Loan proceeds budgeted,10625000.00,MH 1962 p. 54,yes
 1962,Aeropuerto de Ilopango,D. 487,General Fund,counterpart,General Fund contribution received,125036.67,MH 1962 p. 54,yes
 1962,Aeropuerto de Ilopango,D. 487,,spending,Spending,352068.69,MH 1962 p. 55,yes
 1962,Aeropuerto de Ilopango,D. 487,,commitment,Commitments (contracts reserved),9708188.84,MH 1962 p. 55,yes
@@ -33,7 +33,7 @@ year,project,legal_basis,lender_or_donor,instrument,item,amount_colones,source,v
 1962,Edificios Escolares y Capacitación de Maestros,D.L. 81,US Government,grant,Grant received,1013524.50,MH 1962 p. 57,yes
 1962,Edificios Escolares y Capacitación de Maestros,D.L. 81,,spending,Spending (school construction),271079.44,MH 1962 p. 57,yes
 1962,Edificios Escolares y Capacitación de Maestros,D.L. 81,,commitment,Commitments (school construction),881218.29,MH 1962 p. 57,yes
-1962,Acuerdo sobre Productos Agrícolas (PL-480),D. 283 (DO 174, 25 Sep 1961); D. 58 (13 Apr 1962),US Government,loan,Loan proceeds from sale of farm products,1462146.82,MH 1962 p. 56,yes
+1962,Acuerdo sobre Productos Agrícolas (PL-480),"D. 283 (DO 174, 25 Sep 1961); D. 58 (13 Apr 1962)",US Government,loan,Loan proceeds from sale of farm products,1462146.82,MH 1962 p. 56,yes
 1962,Acuerdo sobre Productos Agrícolas (PL-480),D. 58,,spending,Lent to Administración de Bienestar Campesino,1635128.72,MH 1962 p. 56,yes
 1963,Carretera del Litoral,D.L. 1702,General Fund,counterpart,General Fund contribution,1650000.00,MH 1963 p. 55,yes
 1963,Carretera del Litoral,D.L. 1702,,spending,Total spending (operating + capital),4146012.13,MH 1963 p. 56,yes
@@ -115,8 +115,8 @@ year,project,legal_basis,lender_or_donor,instrument,item,amount_colones,source,v
 1967,Aeropuerto de Ilopango,D. 487,General Fund,counterpart,"Cumulative General Fund contribution (1962, 1963, 1966, 1967)",299000.00,MH 1967 p. 35,yes
 1968,Erradicación de la Malaria,AID 29 Oct 1966,AID,loan,Drawings in year (operating programmes),2000000.00,MH 1968 pp. 23 and 46,yes
 1968,Programa Nacional de Carreteras,D. 258,IDA,loan,Drawings in year,1280000.00,MH 1968 p. 46,yes
-1968,Unidades y Puestos de Salud,AID; D.L. 616 (DO 68, 5 Apr 1968),AID,loan,Drawings in year,420000.00,MH 1968 p. 46,yes
-1968,Crédito Industrial INSAFI,AID; D.L. 214 (DO 238, 18 Dec 1968),AID,loan,Drawings in year (debt table; capital revenue shows 702405.13),350000.00,MH 1968 pp. 23 and 46,yes
+1968,Unidades y Puestos de Salud,"AID; D.L. 616 (DO 68, 5 Apr 1968)",AID,loan,Drawings in year,420000.00,MH 1968 p. 46,yes
+1968,Crédito Industrial INSAFI,"AID; D.L. 214 (DO 238, 18 Dec 1968)",AID,loan,Drawings in year (debt table; capital revenue shows 702405.13),350000.00,MH 1968 pp. 23 and 46,yes
 1968,Desarrollo Agropecuario,AID,AID,loan,Drawings in year,70000.00,MH 1968 p. 46,yes
 1968,Programa Nacional de Carreteras,"D. 258; D.L. 161 (24 Oct 1968)",General Fund,counterpart,General Fund contributions committed 1968-1971,11100000.00,MH 1968 p. 38,yes
 1968,Programa Nacional de Carreteras,"D.L. 660 (DO 108, 12 Jun 1968)",IBRD,loan,Loan approved (contract 7 Dec 1967); undrawn at end-1968,7000000.00,MH 1968 p. 39,yes
@@ -151,3 +151,21 @@ year,project,legal_basis,lender_or_donor,instrument,item,amount_colones,source,v
 1970,Bonos Proyectos de Inversión Pública 7% 1983,D.L. 318 (1969),Domestic bondholders,bonds,Placed in 1970,3000000.00,MH 1970 p. 48,yes
 1970,Bonos Construcción Mercados de San Salvador,,Domestic bondholders,bonds,Placed in 1970,2000000.00,MH 1970 p. 48,yes
 1970,Subsidios Instituto Regulador de Abastecimientos,"D.L. 98 (DO 186, 13 Oct 1970); D.L. 192",Domestic bondholders,bonds,Authorized and committed to cover IRA losses and BCR interest,7300000.00,MH 1970 pp. 18 and 35,yes
+1971,Programa Regional de Carreteras (Interamericana),BCIE,CABEI,loan,Drawings in year,6564000.00,MH 1971 p. 54,yes
+1971,Construcción 3 Hospitales (Zacatecoluca Usulután Chalatenango),KfW,KfW,loan,Drawings in year,3861000.00,MH 1971 p. 54,yes
+1971,Programa Nacional de Carreteras Modificado,,IBRD,loan,Drawings in year,2778000.00,MH 1971 p. 54,yes
+1971,Construcción y Equipamiento Escuelas Secundarias (Institutos Nacionales Diversificados),,IBRD,loan,Drawings in year,437000.00,MH 1971 p. 54,yes
+1971,Mantenimiento y Mejoramiento de Caminos y Carreteras,,Eximbank,loan,Drawings in year,361000.00,MH 1971 p. 54,yes
+1971,Erradicación de la Malaria,,AID,loan,Drawings in year (last),350000.00,MH 1971 pp. 30 and 54,yes
+1971,Construcción y Equipamiento de Escuelas de Educación General,D.L. 247 (19 Feb 1971); D. 359 (3 Jun 1971),AID,loan,Loan contracted (up to); 10.8M added to 1971 budget,20500000.00,MH 1971 p. 20,yes
+1971,Préstamos externos devengados (capital commitments),Art. 141 Disp. Generales (D.L. 448 DO 224 8 Dec 1971),Various,loan,Accrued as capital revenue: AID TV 3.742; IBRD Institutos 5.981; AID schools 10.800; KfW 0.385; IBRD ENA 0.326; BCIE roads 8.796; Eximbank 5.896,35926000.00,MH 1971 pp. 33-34,yes
+1971,Bonos del 6% 1976 (Plan de Inversiones 1971),D. 238 (11 Feb 1971); D.L. 259 (4 Mar 1971),Domestic bondholders,bonds,Authorized 25.0M; sold 9.808M; accrued 10.147M,19955000.00,MH 1971 pp. 20 and 22-23,yes
+1971,Bonos Construcción Mercados de San Salvador,,Domestic bondholders,bonds,Placed in 1971,5000000.00,MH 1971 p. 54,yes
+1971,Bonos Proyectos de Inversión Pública 7% 1983,,Domestic bondholders,bonds,Placed in 1971,500000.00,MH 1971 p. 54,yes
+1971,Bonos IRA 2%,D.L. 98 / D.L. 192 (1970),Domestic bondholders,bonds,Issued in 1971 (IRA losses),7300000.00,MH 1971 p. 54,yes
+1971,Presupuesto de Capital,,Foreign loans,loan,Capital gastos financed with foreign loans,1656000.00,MH 1971 p. 41,yes
+1971,Presupuesto de Capital,,Domestic bonds,bonds,Capital gastos financed with 6% 1976 bonds,11292000.00,MH 1971 p. 41,yes
+1971,Presupuesto de Capital,,General Fund,own funds,Capital gastos financed with operating saving,30562000.00,MH 1971 p. 41,yes
+1971,Presupuesto de Capital,,Foreign loans,loan,Capital commitments to be financed with foreign loans,36900000.00,MH 1971 p. 42,yes
+1971,Presupuesto de Capital,,Domestic bonds,bonds,Capital commitments to be financed with 6% 1976 bonds,8662000.00,MH 1971 p. 42,yes
+1971,Presupuesto de Capital,,General Fund,own funds,Capital commitments to be financed with operating saving,9531000.00,MH 1971 p. 42,yes

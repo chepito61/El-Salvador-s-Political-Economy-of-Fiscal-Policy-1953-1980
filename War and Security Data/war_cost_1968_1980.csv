@@ -22,3 +22,12 @@ year,item,category,amount_colones,basis,financing,source,note
 1970,Interest on war bonds (estimate),carry-over (debt service),1850000.00,24.31M at 5% + ~9.0M at 7%,,computed,Total central government interest rose 1.05M in 1970
 1970,War bonds outstanding (Dignidad + Defence 7%),debt stock,32808000.00,end-1970,,MH 1970 p. 46,67% of direct internal debt
 1970,Security ordinary (Defensa + new Seguridad Pública),security spending,26243053.62,gastos,,MH 1970 Estado II-7,-4.8% on 1969 Defensa gastos (27.56M); -36% incl. 1969 emergency payments
+1971,Provisión para casos de emergencia y devoluciones,military spending,141951.64,gastos,,MH 1971 Estado II-7 p. 54,No war-related programme identifiable; line is refunds and minor items
+1971,Bonos de la Dignidad Nacional 5% outstanding,debt stock,24308000.00,end-1971,,MH 1971 p. 52,No amortization in 1971
+1971,Bonos de Tesorería 7% 1978 (Defence) amortized,carry-over (repayment),1000000.00,amortization,,MH 1971 p. 55,Outstanding end-1971: 7.50M
+1971,War bonds outstanding (Dignidad + Defence 7%),debt stock,31808000.00,end-1971,,MH 1971 pp. 52 and 55,46% of direct internal debt (69.44M)
+1971,Interest on war bonds (estimate),carry-over (debt service),1800000.00,24.31M at 5% + ~8.0M at 7%,,computed,Total interest and commissions 5.32M (+29%)
+1971,Central Bank 1969-70 treasury advance repaid,carry-over (repayment),10000000.00,paid 28 Sep 1971,,MH 1971 p. 23,Remainder of the 1969 war advances
+1971,New Central Bank treasury advance,financing - Central Bank,10000000.00,contracted 1971,,MH 1971 p. 23,Rollover: notes outstanding unchanged at 10.0M
+1971,Security ordinary (Defensa + Seguridad Pública),security spending,29982750.02,gastos,,MH 1971 Estado II-7,+14.2% on 1970; Defensa +19.5%; Fuerza Armada +15.6%
+1971,Defensa capital commitments (buildings),security spending,2138000.00,commitments at 31-12-1971,,MH 1971 p. 42,
