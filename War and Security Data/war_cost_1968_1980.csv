@@ -57,3 +57,9 @@ year,item,category,amount_colones,basis,financing,source,note
 1975,Interest on Defence 7% bonds,carry-over (debt service),297500.00,paid in year,,MH 1975 Estado VI-2,
 1975,War bonds outstanding (Dignidad + Defence 7%),debt stock,29307610.00,end-1975,,MH 1975 Estado VI-1,25% of direct internal debt (117.11M)
 1975,Security (Defensa + Seguridad Pública),security spending,52270500.00,credits used,,MH 1975 Cuadro 8,+4.0% on 1974; Defensa +1.1%
+1976,Dignidad Nacional bonds outstanding,debt stock,25807610.00,end-1976,,MH 1976 Estado III-9,Not amortized
+1976,Interest on Dignidad Nacional bonds,carry-over (debt service),1290380.50,paid in year,,MH 1976 Estado III-10,
+1976,Defence 7% bonds amortized,carry-over (debt service),1000000.00,paid in year,,MH 1976 Estado III-10,Outstanding 2.50M (Bonos de Tesorería del 7%)
+1976,Interest on Defence 7% bonds,carry-over (debt service),227500.00,paid in year,,MH 1976 Estado III-10,
+1976,War bonds outstanding (Dignidad + Defence 7%),debt stock,28307610.00,end-1976,,MH 1976 Estado III-9,27% of direct internal debt (105.06M)
+1976,Security (Defensa + Seguridad Pública),security spending,66804300.00,credits used,,MH 1976 Cuadro 8,+27.8% on 1975

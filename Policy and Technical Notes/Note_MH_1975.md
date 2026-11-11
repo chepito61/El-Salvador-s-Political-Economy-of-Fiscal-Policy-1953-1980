@@ -182,12 +182,14 @@ Production grew 44.5%, infrastructure only 5.7%.
 | Interior | 11.37 | 1.9 | 14.74 | 2.1 | +29.6% |
 | Justicia | 8.96 | 1.5 | 13.02 | 1.8 | +45.3% |
 | Poder Judicial | 8.40 | 1.4 | 10.98 | 1.5 | +30.7% |
-| Other ramos | 25.04 | 4.2 | 21.30 | 3.0 | −14.9% |
+| Other ramos | 21.67 | 3.6 | 20.67 | 2.9 | −4.6% |
 | Deuda Pública | 26.92 | 4.5 | 34.66 | 4.9 | +28.8% |
 | Transferencias Generales | 23.50 | 4.0 | 24.05 | 3.4 | +2.3% |
 | **Total** | **594.50** | | **709.61** | | **+19.4%** |
 
 *Source: MH 1975, Cuadro 8 (pp. 28–29); 1974 from MH 1974, Cuadro 8. The 1975 ramos sum exactly to the printed subtotal (₡650,892.7 thousand) and total (₡709,608.9 thousand).*
+
+*Correction (11 November 2026): "Other ramos" (Relaciones Exteriores, Trabajo, Poder Legislativo, Corte de Cuentas, Procuraduría, Consejo Central de Elecciones, Fiscalía, Tribunal del Servicio Civil) was shown as ₡25.04M for 1974 and ₡21.30M for 1975. Re-read on the MH 1975 Cuadro 8 image and summed from the 1974 note, the correct figures are ₡21.67M and ₡20.67M; the columns now sum to the printed totals. No other figure in the note changes.*
 
 - **Agriculture (+47%) and health (+32%) led.** Agriculture's capital budget (₡45.0M) carried the IDB irrigation and land project, the AID grain-storage programme for the IRA and the CENTA research programme.
 - **Defence was flat (+1.1%).** The Presidency grew 16%, its capital budget (₡11.1M) half of the total.

@@ -27,6 +27,11 @@
 | Stanley, William. *The Protection Racket State* (Temple, 1996), via T. D. Mason, *LARR* 34(3), 1999 | Cambridge Core (LARR) | Military protection of the agro-export elite in exchange for control of the State (Context note) |
 | Lindo-Fuentes, Héctor, and Erik Ching. *Modernizing Minds in El Salvador* (New Mexico, 2012; UCA, 2017), via UCA presentation | https://www.uca.edu.sv/mpe/wp-content/uploads/2018/05/PRESENTACION-LIBRO-HECTOR-Y-ERIK-150518.pdf | 1968 education reform; teachers turned into opposition (Context note) |
 | Durham, William H. *Scarcity and Survival in Central America* (Stanford, 1979), via National Research Council (1993), ch. 9 | https://www.nationalacademies.org/read/2211/chapter/9 | Land use, not population, behind migration to Honduras (Context note) |
+| Wikipedia. "1976 Salvadoran legislative election" | https://en.wikipedia.org/wiki/1976_Salvadoran_legislative_election | Opposition boycott; PCN wins all 52 seats (Note 1976) |
+| Wikipedia. "Carlos Humberto Romero" | https://en.wikipedia.org/wiki/Carlos_Humberto_Romero | Minister of Defence and Public Security 1972–77; chosen as PCN candidate (Note 1976) |
+| Library of Congress. *Honduras: A Country Study*, "El Salvador" (relations after 1969) | https://countrystudies.us/honduras/23.htm | July 1976 border flare-up; October 1976 agreement to mediation (Note 1976) |
+| "Reforma agraria y cooperativismo en El Salvador" (Dialnet article 6521213) | https://dialnet.unirioja.es/descarga/articulo/6521213.pdf | First Agrarian Transformation Project (58,744 ha, Usulután and San Miguel); FARO; Decree 123 of October 1976 (Note 1976) |
+| *El problema agrario en El Salvador: de la modernización a la Reforma Agraria, 1948–1979.* Thesis, Universidad de El Salvador | https://oldri.ues.edu.sv/id/eprint/5663/1/El%20problema%20agrario%20en%20El%20Salvador%20de%20la%20modernizaci%C3%B3n%20a%20la%20Reforma%20Agraria%2C%201948-1979.pdf | ANEP's first communiqué (8 July 1976); reforms of 20 October 1976 (Note 1976) |
 
 ### 1.2 Education
 
@@ -98,4 +103,5 @@ The project author asked for the external sources to be uploaded to the reposito
 | *Dada Hirezi* files (DH 1A, DH1B, DH1C1, DH1C2, "Dada Hirezi ISI El Salvador II") | Héctor Dada Hirezi, *La economía de El Salvador y la integración centroamericana, 1945–1960* (UCA Editores, 1978). Scanned without a text layer; OCR'd for the Context note |
 | *Pleites/* | William Pleitez, chapters 1 (agro-export model, pp. 57–186) and 2 (import substitution, pp. 187–270) of a book on El Salvador's development models; full title to be confirmed |
 | *determinants of growth el salvador IMF.pdf* | R. Armando Morales, "Determinants of Growth in an Error-Correction Model for El Salvador," IMF WP/98/104 (1998), covering 1970–1995 |
+| *A sus Ordenes Mi Capital 1976 Ellacuria.pdf* | Ignacio Ellacuría, "A sus órdenes, mi capital", editorial, *ECA* 337 (1976), pp. 637–643. Dates of the ISTA law (June 1975), the First Project (29 June 1976) and its reversal (20 October 1976); Molina's speeches of 1 July and 15 September 1976; resignations of Vieytez and Arias. Context only (Note 1976) |
 | *Revenue Data 1952-1990/* | Revenue database, coffee prices and extraction scripts |
