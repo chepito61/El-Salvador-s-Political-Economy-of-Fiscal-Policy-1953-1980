@@ -204,7 +204,36 @@ Currency: US$1.00 = ₡2.50.
 
 ---
 
-## 6. Vulnerability Matrix
+## 6. Cost of the War
+
+| ₡M | 1969 | % of ordinary revenue |
+|:--|--:|--:|
+| Ordinary result (without the war) | −8.24 | −3.4% |
+| Emergency tax | +9.30 | +3.8% |
+| Emergency spending | −41.00 | −16.9% |
+| **Net war cost** | **−31.70** | **−13.1%** |
+| **Recorded result** | **−39.94** | **−15.9%** |
+
+| Military spending linked to the war (credits used) | ₡M |
+|:--|--:|
+| 1968: extraordinary Defence budget (D.L. 609) | 9.84 |
+| 1969: further use of D.L. 609 | 0.16 |
+| 1969: emergency provision | 41.00 |
+| **Total 1968–69** | **51.00 (about 2% of GDP)** |
+| — financed by domestic bonds | 32.12 (63%) |
+| — financed by the emergency tax | 9.30 (18%) |
+| — financed from ordinary funds / Central Bank notes | 9.58 (19%) |
+| Carried into 1970: emergency commitments | 27.20 |
+| Carried into 1970: Central Bank notes due | 20.00 |
+| New annual interest on war bonds | about 1.77 |
+
+**Assessment.** Without the war, 1969 would have been a year of modest deficit (−3.4% of revenue). The war added about 13 points of revenue and was 80% debt-financed. Its cash cost falls largely on 1970, when ₡27.2M of commitments and ₡20M of Central Bank notes come due.
+
+*GDP shares are approximate, derived from the repository's tax/GDP ratio (definition pending). The series continues in each annual note and in War and Security Data/war_cost_1968_1980.csv.*
+
+---
+
+## 7. Vulnerability Matrix
 
 | Risk factor | Severity | Probability | Trend |
 |:--|:--:|:--:|:--:|
@@ -219,7 +248,7 @@ Currency: US$1.00 = ₡2.50.
 
 ---
 
-## 7. Dashboard
+## 8. Dashboard
 
 | Indicator | 1967 | 1968 | 1969 | Signal |
 |:--|:--:|:--:|:--:|:--:|
@@ -239,7 +268,7 @@ Currency: US$1.00 = ₡2.50.
 
 ---
 
-## 8. Assessment
+## 9. Assessment
 
 **Overall: rising debt, high stress, high vulnerability.**
 

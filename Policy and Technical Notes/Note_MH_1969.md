@@ -442,7 +442,76 @@ The rest was carried into 1970 as unpaid commitments (₡44.67M, of which ₡27.
 
 ---
 
-## 7. Comparative Perspective, 1960–1969
+## 7. The Cost of the War
+
+*This section starts a series that will continue in every annual note through 1980. The data are kept in War and Security Data/war_cost_1968_1980.csv in the repository.*
+
+### 7.1 The war and the 1969 deficit
+
+| ₡M, commitment basis | Amount | % of ordinary revenue |
+|:--|--:|--:|
+| Ordinary current revenue | 242.65 | 100.0 |
+| Ordinary spending (credits used excluding the emergency) | 250.89 | 103.4 |
+| **Ordinary result: the deficit without the war** | **−8.24** | **−3.4** |
+| Emergency tax (D.L. 421) | +9.30 | 3.8 |
+| Emergency spending (D.L. 423 provision) | −41.00 | 16.9 |
+| **Net cost of the war to the 1969 budget** | **−31.70** | **−13.1** |
+| **Recorded result** | **−39.94** | **−15.9¹** |
+
+¹ *As % of revenue including the emergency tax (₡251.96M).*
+
+**Without the war, the 1969 deficit would have been about 3% of revenue, near the 1967–68 level. With it, the deficit was about 16%,** the largest of the 1960s.
+
+**How big was ₡41.0M of war spending?** It was:
+
+- 1.5 times the ordinary Defence budget (₡28.2M);
+- 61% of the whole Education budget (₡66.8M);
+- 14% of all credits used.
+
+On the rough GDP implied by the repository's tax/GDP series (about ₡2,500M), the net cost was about **1.3% of GDP**. *The GDP figure is approximate until the tax/GDP definition is checked.*
+
+### 7.2 Military spending linked to the war, 1968–1969
+
+| ₡M | Credits used | Paid by end-1969 | Financing |
+|:--|--:|--:|:--|
+| 1968: extraordinary Defence budget (D.L. 609), equipment for the Fuerza Armada | 9.84 | 9.93 (by end-1969) | 7% Treasury bonds 1978 (D.L. 607), ₡10.0M |
+| 1969: further use of D.L. 609 | 0.16 | | Same |
+| 1969: emergency provision (D.L. 423) | 41.00 | 13.80 | Emergency tax ₡9.30M; Dignity bonds ₡22.12M; ordinary funds ₡9.58M |
+| **Total, 1968–69** | **51.00** | **23.73** | |
+| *Memo: increase in the ordinary Defence budget, 1969* | *+2.77* | | *Not counted as war cost* |
+
+**Including the 1968 rearmament, the military effort around the war was about ₡51M,** or roughly 2% of GDP. Of the ₡13.80M paid from the emergency provision in 1969, 90% was machinery and equipment.
+
+### 7.3 How it was financed
+
+| Source, 1968–69 | ₡M | % |
+|:--|--:|--:|
+| Domestic bonds: Defence 7% (1968) and Dignidad Nacional 5% (1969) | 32.12 | 63% |
+| One-time emergency tax on incomes, liquid capital and professions | 9.30 | 18% |
+| Ordinary funds, in practice Central Bank notes and the run-down of the Treasury's balance | 9.58 | 19% |
+| **Total** | **51.00** | **100%** |
+
+**Four-fifths of the war was financed by borrowing.** The only tax raised for it was a one-time levy on incomes and liquid capital. Companies, coffee exports and customs contributed nothing beyond their ordinary taxes.
+
+### 7.4 What the war leaves to later budgets
+
+| Item carried into 1970 and later | ₡M |
+|:--|--:|
+| Emergency commitments to be paid in 1970 | 27.20 |
+| Central Bank notes due August–September 1970 | 20.00 |
+| Annual interest on the war bonds (₡22.12M at 5% + ₡9.50M at 7%) | about 1.77 a year |
+| Principal: Dignity bonds ₡22.12M (terms to be confirmed); Defence bonds ₡9.50M (to 1978) | 31.62 |
+
+**Costs not in the budget.** Several costs of the war do not appear in the accounts, and later notes will track them where possible:
+
+- the 60,000–130,000 returnees;
+- the loss of the Honduran market and the paralysis of the Common Market;
+- the customs revenue lost on trade with Honduras;
+- war damage in the east of the country.
+
+---
+
+## 8. Comparative Perspective, 1960–1969
 
 | ₡ millions | 1960 | 1961 | 1962 | 1963 | 1964 | 1965 | 1966 | 1967 | 1968 | 1969 |
 |:--|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
@@ -464,7 +533,7 @@ The rest was carried into 1970 as unpaid commitments (₡44.67M, of which ₡27.
 
 ---
 
-## 8. Preliminary Observations
+## 9. Preliminary Observations
 
 1. **The coffee cycle bottomed out.** The price was flat at its low, yet ordinary revenue grew 5.1%, helped by the CACM stabilization tax (₡10.7M) and higher consumption taxes.
 2. **The war cost ₡41.0M in credits used (14% of the budget).** It was financed by a one-time emergency tax (₡9.3M), patriotic bonds (₡22.1M) and Central Bank notes (₡10M more). The recorded deficit (−₡39.9M) is the largest in the 1960s.
@@ -476,7 +545,7 @@ The rest was carried into 1970 as unpaid commitments (₡44.67M, of which ₡27.
 
 ---
 
-## 9. Reading 1969 Against the Hypotheses
+## 10. Reading 1969 Against the Hypotheses
 
 | Hypothesis | 1969 evidence | Verdict |
 |:--|:--|:--|

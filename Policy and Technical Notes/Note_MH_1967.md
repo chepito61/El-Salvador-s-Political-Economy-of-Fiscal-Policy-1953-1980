@@ -71,7 +71,9 @@ Current revenue (Estado II-5) was **₡226,905,099.56 (+1.5%)**. The narrative's
 
 *Source: MH 1967, Estado II-5 (PDF pp. 25–31); income tax verified on the page image.*
 
-**Customs fell to 39.6% of current revenue,** against 45.5% in 1964 (Memoria, p. 24). The coffee duty fell with the price (−7.4% against −7.3%). The Memoria attributes the gain in other taxes mainly to "measures to mobilize resources that, for lack of legal basis, had not been brought into the General Fund at the right time" (p. 26). Those measures are visible in the property and succession taxes (+25%).
+**Customs fell to 39.6% of current revenue,** against 45.5% in 1964 (Memoria, p. 24). The coffee duty fell with the price (−7.4% against −7.3%). The Memoria attributes the gain in other taxes mainly to "measures to mobilize resources that, for lack of legal basis, had not been brought into the General Fund at the right time" (p. 26).
+
+**Correction (from the 1969 Memoria).** The 1969 Memoria's revenue history (p. 30) states that 1967 current revenue "includes ₡4.50M of income tax withholdings transferred to the Fund". This one-off transfer is the main "mobilized resource". It explains most of the income tax gain (+₡3.95M), while property and succession taxes added ₡2.29M. **Excluding the transfer, current revenue would have been about ₡222.4M, −0.5% on 1966:** a second year of falling underlying revenue, not a small recovery.
 
 ### 1.2 The income tax
 
@@ -361,7 +363,7 @@ The end of Litoral debt service freed ₡5M a year. It was absorbed by the opera
 
 ## 8. Preliminary Observations
 
-1. **Second downturn year:** coffee −7%, revenue +1.5% only because of new property and succession measures and non-tax revenue. Customs fell to under 40% of revenue.
+1. **Second downturn year:** coffee −7%. Revenue rose 1.5% only because of a one-off transfer of ₡4.50M of income tax withholdings (MH 1969, p. 30); underlying revenue fell about 0.5%. Customs fell to under 40% of revenue.
 2. **The Memoria explicitly links customs erosion to integration and fiscal incentives.** Tax expenditures are now an acknowledged policy cost.
 3. **Spending was cut 2.4% (gastos) and 4.5% (final):** capital −17%, construction −40%, Agriculture −28%. Payroll still rose 3.7%.
 4. **School construction collapsed (−78%),** while primary salaries (+8.6%) and the University (+20%) were protected.

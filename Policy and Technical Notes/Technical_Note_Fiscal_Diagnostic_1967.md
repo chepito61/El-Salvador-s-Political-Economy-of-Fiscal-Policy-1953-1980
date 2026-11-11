@@ -12,7 +12,7 @@
 
 **The fiscal position is assessed as "moderate and rising debt, high stress, high vulnerability."** The deficit narrowed, but only by cutting investment. Liquidity worsened: arrears doubled, borrowing from other funds rose, and the Treasury issued ₡6M of notes again.
 
-- **Revenue +1.5% to ₡226.9M,** 10% below estimate. Coffee duty −7.4% (price −7.3%). Customs fell to 39.6% of revenue, which the Memoria attributes to regional integration and fiscal incentives.
+- **Revenue +1.5% to ₡226.9M,** 10% below estimate. *Correction (MH 1969, p. 30): this includes a one-off transfer of ₡4.50M of income tax withholdings; underlying revenue was about ₡222.4M (−0.5%).* Coffee duty −7.4% (price −7.3%). Customs fell to 39.6% of revenue, which the Memoria attributes to regional integration and fiscal incentives.
 - **Gastos −2.4%** to ₡226.4M; credits used −5.4% to ₡236.6M. Capital spending −16.6%; the operating budget +0.6%.
 - **Deficit −₡9.7M (−4.3% of revenue),** down from −11.9%.
 - **Superávit Financiero ₡0.02M.** Current liabilities nearly doubled to ₡29.8M, including ₡6M of Treasury notes.
@@ -203,7 +203,7 @@ Currency: US$1.00 = ₡2.50.
 **Overall: moderate and rising debt, high stress, high vulnerability.**
 
 - **The deficit was cut through investment.** Capital spending fell 17% and construction 40%. Within education, building fell 78% while salaries and the University grew.
-- **Revenue remained weak and its base was eroding.** Customs fell below 40% of revenue, which the Memoria itself links to integration and incentives. New property and succession measures provided the only gains.
+- **Revenue remained weak and its base was eroding.** Customs fell below 40% of revenue, which the Memoria itself links to integration and incentives. The only gains came from a one-off transfer of ₡4.50M of income tax withholdings (identified in the 1969 Memoria) and from property and succession taxes.
 - **The financing gap moved onto the Treasury.** Arrears, loans from other funds and Central Bank notes rose.
 - **The first cut to a social subsidy:** the IRA's subsidy fell 23%.
 

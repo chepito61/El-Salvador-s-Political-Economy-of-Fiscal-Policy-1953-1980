@@ -1,0 +1,15 @@
+year,item,category,amount_colones,basis,financing,source,note
+1968,Presupuesto Extraordinario Fuerza Armada (D.L. 609),military spending,9840000.00,credits used (gastos 5.25M + commitments 4.59M),7% Treasury bonds 1978 (D.L. 607),MH 1968 p. 39,Rearmament one year before the war
+1968,Bonos de Tesorería 7% 1978 (D.L. 607),financing - domestic bonds,10000000.00,issued and sold,,MH 1968 p. 45,
+1969,Presupuesto Extraordinario Fuerza Armada (D.L. 609),military spending,160000.00,credits used (incremental over 1968),7% Treasury bonds 1978,MH 1969 p. 48,Total used to end-1969: gastos 9.93M + commitments 0.07M
+1969,Provisión para Casos de Emergencia (D.L. 423),military spending,40998000.00,credits used (gastos 13.796M + commitments 27.202M),emergency tax + Dignity bonds + ordinary funds,MH 1969 pp. 43-44,War with Honduras 14-18 July 1969
+1969,Provisión para Casos de Emergencia - paid: machinery and equipment,military spending (composition),12712203.09,gastos,,MH 1969 Estado II-7 p. 64,90.1% of the provision's payments (incl. 0.32M refunds line)
+1969,Impuesto de Emergencia (D.L. 421),financing - tax,9301882.76,collected,,MH 1969 Estado II-5,One-time tax on personal incomes liquid capital and professions
+1969,Bonos de la Dignidad Nacional 5% (D.L. 431/434/446),financing - domestic bonds,22117000.00,placed,,MH 1969 pp. 22 and 56,
+1969,Ordinary funds used for the emergency,financing - ordinary/Central Bank,9580000.00,residual (41.00 - 31.42),,MH 1969 p. 44,In practice Central Bank notes (+10M) and the run-down of the Superavit Financiero
+1969,Budget result without the war,fiscal impact,-8240000.00,ordinary revenue - credits used excl. emergency,,computed,-3.4% of ordinary revenue
+1969,Net war cost to the budget,fiscal impact,-31700000.00,emergency tax - emergency credits used,,computed,-13.1% of ordinary revenue
+1969,Recorded budget result,fiscal impact,-39940000.00,revenue incl. emergency tax - credits used,,computed,-15.9% of revenue
+1969,Emergency commitments carried into 1970,carry-over,27202000.00,commitments at 31-12-1969,,MH 1969 p. 41,
+1969,Central Bank notes due Aug-Sep 1970,carry-over,20000000.00,outstanding at 31-12-1969,,MH 1969 p. 60,
+1969,Annual interest on war bonds (estimate),carry-over,1770000.00,22.12M at 5% + 9.50M at 7%,,computed,From 1970
