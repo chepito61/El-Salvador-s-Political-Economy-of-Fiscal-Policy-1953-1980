@@ -71,3 +71,6 @@ year,item,category,amount_colones,basis,financing,source,note
 1978,Amortization Defence 7% bonds,principal,1500000.00,year,,MH 1978 Estado III-9,Final repayment
 1978,Interest on war bonds (estimated),interest,1340000.00,estimate,,Estimated: Dignidad 5% on 25.81M + Defence 7% on average balance,No service statement by instrument in MH 1978
 1978,Security (Defensa + Seguridad Pública),security spending,123323000.00,credits used,,MH 1978 Cuadro 9,+31.7% on 1977; 9.24% of credits used
+1979,War bonds outstanding (Dignidad only),debt stock,25807610.00,end-1979,,MH 1979 Estado III-9,"Of 30.0M authorized, 25,807,610.00 used; nothing amortized"
+1979,Interest on war bonds (estimated),interest,1290000.00,estimate,,Estimated: Dignidad 5% on 25.81M,No service statement by instrument in MH 1979
+1979,Security (Defensa + Seguridad Pública),security spending,184983700.00,credits used,,MH 1979 Cuadro 10,+50.0% on 1978; 12.73% of credits used; Defensa appropriation +47.73M in the year (2.58M legislative)

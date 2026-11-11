@@ -269,3 +269,14 @@ year,project,legal_basis,lender_or_donor,instrument,item,amount_colones,source,v
 1978,Préstamo a la Compañía Salvadoreña de Café,,General Fund,loan (outflow),Balance at end-1978: repaid (30.0M at end-1977),0.00,MH 1978 balance sheet,yes
 1978,Préstamo a INPEP,,General Fund,loan (outflow),Balance at end-1978,18000000.00,MH 1978 balance sheet,yes
 1978,Bonos Plan de Inversión Pública (stock),,Domestic bondholders,bonds,"Unsold authorized bonds booked as accrued revenue receivable, end-1978 (2.0M sold in 1978)",235000000.00,MH 1978 balance sheet,yes
+1979,"Bonos para Plan de Inversión Pública 1979-1994, 8%",,Domestic bondholders,bonds,"Booked as revenue 200.0M; 100.0M placed, 100.0M unsold and booked as accrued revenue receivable",200000000.00,"MH 1979 Cuadros 6, 25; Estado III-9",yes
+1979,External loans used (all projects),,Various,loan,"Total direct external loan proceeds (capital), Estado I-4",122240998.50,MH 1979 Cuadro 6,yes
+1979,Programas de financiamiento (on-lending),,General Fund,loan (outflow),"Credits used 82.9M: 72.9M foreign loans (committed), 10.0M internal bonds (paid)",82900000.00,"MH 1979 Cuadros 9, 25",yes
+1979,Sistema de Irrigación para Pequeños Agricultores (Interior 3.03),D.L. 188 (22 May 1979),Agency for International Development,loan,"Additional credit, loan 519-T-021",974375.00,MH 1979 p. 17,yes
+1979,Desarrollo comunal zona norte,D.L. 242 (18 Sep 1979),Inter-American Development Bank,loan,"Additional credit, loan 561/SF-ES (contract 33.0M)",3373110.00,MH 1979 p. 17,yes
+1979,Obras de riego y créditos,D.L. 62 (19 Dec 1979),Inter-American Development Bank,loan,"Remaining balance of loan 369/SF-ES (contract 20.0M, 13 Dec 1973)",1568295.50,MH 1979 p. 17,yes
+1979,Préstamos negociados por percibir,,IBRD 42.0; IDB 150.2; BCIE 27.9; AID 15.6; OPEC 1.2; Eximbank 0.5,loan,"Loans negotiated, not yet received, end-1979",237377900.00,MH 1979 section 4.1,yes
+1979,Préstamo a INPEP,,General Fund,loan (outflow),Balance at end-1979,27000000.00,MH 1979 section 4.1,yes
+1979,"Bonos de Transformación Agraria (ISTA, guaranteed, 7% 1996)",,Domestic bondholders,bonds,"Used 43,179,100.00 of 50.0M; outstanding end-1979 (17,647,300.00 used at end-1978)",42568000.00,MH 1979 Estado III-9; MH 1978 Estado III-9,yes
+1979,Bonos para Adquisición de Tierras (COFINTA),,Domestic bondholders,bonds,"Authorized, unused at end-1979",200000000.00,MH 1979 Estado III-9,yes
+1979,Bonos Plan de Inversión Pública (stock unsold),,Domestic bondholders,bonds,"Unsold bonds booked as accrued revenue receivable: 1974 37.0, 1975 100.0, 1976 98.0, 1979 100.0",335000000.00,MH 1979 section 4.1,yes
