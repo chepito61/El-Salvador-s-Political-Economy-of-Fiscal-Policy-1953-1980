@@ -13,3 +13,12 @@ year,item,category,amount_colones,basis,financing,source,note
 1969,Emergency commitments carried into 1970,carry-over,27202000.00,commitments at 31-12-1969,,MH 1969 p. 41,
 1969,Central Bank notes due Aug-Sep 1970,carry-over,20000000.00,outstanding at 31-12-1969,,MH 1969 p. 60,
 1969,Annual interest on war bonds (estimate),carry-over,1770000.00,22.12M at 5% + 9.50M at 7%,,computed,From 1970
+1970,Provisión para Casos de Emergencia,military spending,447000.00,credits used (gastos 0.107M + commitments 0.340M),,MH 1970 pp. 35 and 38,Residual emergency programme
+1970,Impuesto de Emergencia (residual),financing - tax,288000.00,collected,,MH 1970 p. 38,
+1970,Bonos de la Dignidad Nacional 5%,financing - domestic bonds,2190000.00,placed in 1970,,MH 1970 pp. 29 and 48,Outstanding end-1970: 24.308M
+1970,Central Bank advances for 1969 emergency repaid,carry-over (repayment),10000000.00,paid 18 Aug 1970,coffee windfall / operating saving,MH 1970 p. 19,Remaining notes 10.0M at end-1970
+1970,Bonos de Tesorería 7% 1978 (Defence) amortized,carry-over (repayment),1000000.00,amortization,,MH 1970 p. 48,Outstanding end-1970: 8.50M
+1970,1969 financial deficit absorbed,carry-over (repayment),9909000.00,absorbed by 1970 operating saving,,MH 1970 pp. 20 and 39,
+1970,Interest on war bonds (estimate),carry-over (debt service),1850000.00,24.31M at 5% + ~9.0M at 7%,,computed,Total central government interest rose 1.05M in 1970
+1970,War bonds outstanding (Dignidad + Defence 7%),debt stock,32808000.00,end-1970,,MH 1970 p. 46,67% of direct internal debt
+1970,Security ordinary (Defensa + new Seguridad Pública),security spending,26243053.62,gastos,,MH 1970 Estado II-7,-4.8% on 1969 Defensa gastos (27.56M); -36% incl. 1969 emergency payments
