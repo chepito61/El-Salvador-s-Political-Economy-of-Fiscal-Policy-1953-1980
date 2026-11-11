@@ -101,7 +101,7 @@ So for 1976:
 
 **Cross-check.** The World Bank's May 1979 report (Statistical Appendix, Table 5.2) reproduces these 1976 figures exactly: current revenue ₡810.0M, tax revenue ₡767.6M, coffee ₡227.2M, sugar ₡3.3M, income tax ₡139.4M. It also credits better tax administration and a tax amnesty (Decree 248, allowing taxpayers to amend income and property declarations without penalty) for part of the rise in 1976–77.
 
-**Tax burden (Memoria, Cuadro 11): 14.1% of GDP** (estimated GDP ₡5,454.4M), against 11.9% in 1975. The Memoria's coefficient of tax to national income was 2.46 (1975 revised to 1.02). The Memoria itself adds that the rise "has not burdened domestic incomes more", but only the prices received abroad.
+**Tax burden (Memoria, Cuadro 11): 14.1% of GDP** (estimated GDP ₡5,454.4M), against 11.9% in 1975. **Revised in MH 1977 to 12.1%** (GDP ₡6,343.5M, provisional), and the coefficient to 1.09. The Memoria's coefficient of tax to national income was 2.46 (1975 revised to 1.02). The Memoria itself adds that the rise "has not burdened domestic incomes more", but only the prices received abroad.
 
 ### 1.2 Revenue and the business cycle
 
@@ -282,7 +282,7 @@ So for 1976:
 - **Unpaid legalized orders rose to ₡136.8M** (₡78.7M).
 - **Commitments from earlier years still open: ₡87.8M** (balance sheet provision).
 - **Taxes receivable** were ₡42.75M gross (income tax ₡24.5M), with a ₡10.7M bad-debt reserve.
-- **New short-term notes (pagarés) of ₡12.0M** appear among liabilities. The creditor is not stated.
+- **New short-term notes (pagarés) of ₡12.0M** appear among liabilities. **MH 1977 (Cuadro 20) shows they were Central Bank advances** (+₡11.98M in 1976), repaid in 1977.
 
 ---
 
@@ -468,7 +468,7 @@ On a cash basis the 1976 deficit **narrowed**; on the commitment basis used in t
 | Coffee duty | | | | | | 74.0 | 90.0 | 78.0 | **227.2** |
 | Income tax | | | | 45.3 | 52.1 | 62.6 | 80.0 | 118.9 | 139.4 |
 | Company income tax | 11.03 | 11.06 | 11.60 | n.a. | n.a. | 20.52 | 32.26 | 47.28 | 52.06 |
-| Tax / GDP (Memoria, latest revision) | 9.4% | 9.9% | 10.3% | 10.3% | 10.6% | 11.3% | 11.5% | 11.9% | 14.1% |
+| Tax / GDP (Memoria, latest revision) | 9.4% | 9.9% | 10.3% | 10.3% | 10.6% | 11.3% | 11.5% | 11.9% | 12.1% |
 | Total direct public debt | 99.7 | 125.6 | 137.6 | 170.2 | 205.7 | 258.3 | 323.2 | 397.3 | 435.5 |
 | Total public debt (incl. guarantees) | | | | | 403.4 | 459.9 | 548.3 | 663.8 | 906.0 |
 
@@ -499,7 +499,7 @@ On a cash basis the 1976 deficit **narrowed**; on the commitment basis used in t
 | **H1** Education and the University squeezed | Education +36% (credits used); teachers' line +43% over 1974–76; **University subsidy +18% over 1974–76 (−8% real)** | **The ministry was not squeezed; the University was:** its subsidy fell in real terms |
 | **H2** Wage containment, especially teachers | Remunerations +30.6% in 1976 (about +22% real); teachers +42.7% over 1974–76 (+12% real), against +47.7% (+16% real) for all remunerations; World Bank: real pay per government worker fell in 1972–77 | **No containment of the wage bill; teachers slightly behind the average.** Per-worker real pay is a separate question the Memoria cannot answer |
 | **H3** Public investment cut first | Capital budget +90%; real investment +66%; public works +83% | **Investment surged** with the windfall |
-| **H4** Monetary policy | No Central Bank financing in the accounts; ₡98M of new bonds authorized and not sold; ₡12M of new short-term notes; unpaid orders up ₡58.2M; Treasury cash up to ₡46.7M. World Bank: net domestic financing ₡45.2M in 1976 (floating debt, Central Bank advances and bond sales); inflation 7.1% | **No visible monetary financing;** domestic financing came mostly through floating debt. The creditor of the notes is to be identified |
+| **H4** Monetary policy | Central Bank advances ₡11.98M (identified in MH 1977); ₡98M of new bonds authorized and not sold; ₡12M of new short-term notes; unpaid orders up ₡58.2M; Treasury cash up to ₡46.7M. World Bank: net domestic financing ₡45.2M in 1976 (floating debt, Central Bank advances and bond sales); inflation 7.1% | **Small, temporary Central Bank financing:** the ₡12M notes were Central Bank advances (MH 1977, Cuadro 20), repaid in 1977. Domestic financing came mostly through floating debt (+₡58.2M) |
 | **H5** IRA food subsidies cut | IRA ₡17.7M (₡9.8M in 1974) | **Expanded** |
 | *Track A: tax bargain* | Coffee duty ×2.9; company income tax +10%; succession and property taxes up | **Coffee paid at the border during the boom;** profits were barely touched |
 | *Track B: safety valve* | Border flare-up (July); mediation agreed (October) | **Closed;** the dispute is diplomatic |
@@ -511,3 +511,5 @@ On a cash basis the 1976 deficit **narrowed**; on the commitment basis used in t
 ---
 
 *Sources: Ministerio de Hacienda, Informe Complementario Constitucional, Ejercicio Fiscal 1976 (San Salvador, signed 16 March 1977), narrative pp. 17–47 (Cuadros 1–22) and Estados I-6 (1976 budget), II-1, III-9, III-10; Informes 1974 and 1975. Coffee prices: repository file "Commodities y recaudacion.xlsx". Political context: I. Ellacuría, "A sus órdenes, mi capital", editorial, ECA 337 (1976), pp. 637–643 (repository file); "1976 Salvadoran legislative election" and "Carlos Humberto Romero" (Wikipedia); U.S. Library of Congress, Honduras: A Country Study, ch. "El Salvador"; El Salvador–Honduras agreement for mediation procedure, ILM 15(6), 1976; Dialnet article 6521213 ("Reforma agraria y cooperativismo en El Salvador"); Redalyc 4964/496454146003; UES thesis "El problema agrario en El Salvador, 1948–1979"; W. Pleitez, ch. 2 on the import-substitution model (repository folder "Pleites"), pp. 200, 205, 237, 251–263; World Bank, *Economic Memorandum on El Salvador*, Report No. 2287-ES (7 May 1979), paras. xi, 11–14 and Statistical Appendix Tables 5.1, 5.2, 9.1; World Bank, *El Salvador: Updating Economic Memorandum*, Report No. 4054-ES (21 January 1983), paras. 41, 81. The World Bank and Pleitez are used for context and cross-checks only. See the Political Economy Context note and the Bibliography.*
+
+*Correction (11 November 2026, from MH 1977): (1) the ₡12.0M short-term notes of 1976 were Central Bank advances, repaid in 1977 (Cuadro 20); the H4 row is corrected. (2) The 1976 tax burden is revised from 14.1% to 12.1% of GDP and the coefficient from 2.46 to 1.09 (Cuadros 13–14). (3) MH 1977, Estado IV-2, gives the 1976 unit lines liquidated at 31 December 1977: teachers (Enseñanza Básica) ₡102,585,757.24; Fuerza Armada ₡33,031,602.17; University subsidy, Presidency lump sum, IRA and ISTA unchanged. The final figures are used in the 1977 note.*

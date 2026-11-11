@@ -23,7 +23,7 @@
 - **Revenue.** Current revenue +40.4% to ₡810.0M, 30.4% above the final estimate.
   - Coffee duty ₡227.2M (×2.9), 28.0% of revenue; sugar duty ₡3.3M (−87%).
   - Income tax ₡139.4M (+17.2%); company income tax ₡52.1M (+10.1%).
-  - Tax / GDP 14.1% (Memoria, estimated GDP).
+  - Tax / GDP 14.1% (Memoria, estimated GDP); revised to 12.1% in MH 1977.
 - **Spending.** Credits used +44.9% to ₡1,028.1M (+34.3% without a ₡75.0M financing programme committed in December); gastos +34.4% to ₡806.0M.
   - Public works +83.0%; agriculture +48.4%; education +36.2%; health +28.2%; Defensa +26.6%; Seguridad Pública +30.9%.
   - Remunerations +30.6%.
@@ -75,8 +75,8 @@ Currency: US$1.00 = ₡2.50.
 | Income tax (₡M) | 80.00 | 118.92 | 139.40 |
 | — company income tax (₡M) | 32.26 | 47.28 | 52.06 |
 | Levies on legal acts and business (₡M) | 47.56 | 53.52 | 67.19 |
-| Tax / GDP (Memoria, Cuadro 11) | 11.5% | 11.9% | 14.1% |
-| Tax elasticity (Memoria, Cuadro 12, latest revision) | 1.09 | 1.02 | 2.46 |
+| Tax / GDP (Memoria, Cuadro 11; 1976 revised in MH 1977) | 11.5% | 11.9% | 12.1% |
+| Tax elasticity (Memoria, Cuadro 12; 1976 revised in MH 1977) | 1.09 | 1.02 | 1.09 |
 
 *The 1976 Memoria revises the 1975 national income and the 1975 coefficient (1.22 to 1.02).*
 
@@ -250,7 +250,7 @@ Currency: US$1.00 = ₡2.50.
 | Indicator | 1974 | 1975 | 1976 | Signal |
 |:--|:--:|:--:|:--:|:--:|
 | Current revenue growth | +20.3% | +19.1% | +40.4% | 🟢 (windfall) |
-| Tax / GDP (Memoria) | 11.5% | 11.9% | 14.1% | 🟡 (price-driven) |
+| Tax / GDP (Memoria) | 11.5% | 11.9% | 12.1% | 🟡 (price-driven) |
 | Direct taxes / revenue | 22.6% | 26.7% | 23.1% | 🟡 |
 | Coffee duty / revenue | 18.6% | 13.5% | 28.0% | 🔴 |
 | Credits used growth | +32.1% | +19.4% | +44.9% | 🔴 |
@@ -281,7 +281,7 @@ Currency: US$1.00 = ₡2.50.
 |:--|:--|
 | 1975 unit-level spending (teachers, University, Fuerza Armada, Presidency, IRA) | Not in MH 1975 or MH 1976; budget law 1975 and Diario Oficial |
 | Contract and substitute pay in the teachers' line (not split in the 1976 statement) | Ministry of Education payroll records |
-| Creditor of the ₡12.0M short-term notes (pagarés) | MH 1977; Central Bank |
+| ~~Creditor of the ₡12.0M short-term notes~~ — resolved: Central Bank advances (MH 1977, Cuadro 20) | |
 | Content of the ₡75.0M D. 184 financing programme (beneficiaries, terms) | Diario Oficial (D. 184, 16 Dec 1976); MH 1977 |
 | Repayment of ₡25M of the coffee company loan; terms of the ₡5M balance | MH 1977; company records |
 | Fate of the Dignity bonds held by the General Fund; content of the new short-term investments (₡29.8M) | MH 1977; Central Bank |
@@ -292,3 +292,5 @@ Currency: US$1.00 = ₡2.50.
 ---
 
 *Sources: Ministerio de Hacienda, Informe Complementario Constitucional 1976 (Cuadros 1–22; Estados I-6, II-1, III-9, III-10) and 1974–75. World Bank Pink Sheet in the repository file "Commodities y recaudacion.xlsx". Political context as in the working note (Ellacuría, ECA 337, 1976; Pleitez, ch. 2; Library of Congress country study; Wikipedia; Dialnet; Redalyc; UES). Context and cross-checks: World Bank, *Economic Memorandum on El Salvador*, Report No. 2287-ES (7 May 1979), Tables 5.1, 5.2 and 9.1; World Bank, *El Salvador: Updating Economic Memorandum*, Report No. 4054-ES (21 January 1983), para. 81. The analytical framework follows the IMF Fiscal Transparency Code (2019) and the IMF Debt Sustainability Framework.*
+
+*Correction (11 November 2026, from MH 1977): the 1976 tax burden is revised to 12.1% of GDP and the coefficient to 1.09; the ₡12.0M short-term notes were Central Bank advances, repaid in 1977.*
