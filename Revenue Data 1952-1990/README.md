@@ -124,3 +124,11 @@ source("merge_all_revenue.R")   # → All_revenue_1952_1990.csv + coffee_revenue
 - The 1952–1964 source reports values in units; the 1960–1990 source reports in millions — the extraction scripts normalise both to units before saving.
 - Spanish locale (`Sys.setlocale("LC_ALL", "Spanish")`) is set at the top of each script to handle accented characters correctly on Windows.
 - All output CSVs include a UTF-8 BOM (`EF BB BF`) prepended so that Excel on Windows renders Spanish characters (á, é, ñ, etc.) without corruption.
+
+## Revenue workbook from the Memorias (November 2026)
+
+- `El_Salvador_Revenue_Memorias_1952_1979.xlsx`: revenue by source 1952–1979 (Revenue_CM), detailed lines (Revenue_Detail), composition by government (Periods), indicators, tax-law checklist, mapping, reconciliation and charts.
+- `Note_Revenue_Series_Design_and_Discussion.md/.docx`: design, findings and pending decisions.
+- Rebuild (from this folder): `python3 build_revenue_workbook_1952_1979.py`; `python3 build_revenue_detail.py`; recalculate (LibreOffice); `python3 build_revenue_charts_png.py`; recalculate again.
+- Inputs: `revenue_1956_1963_checked.json`, `revenue_detail_1956_1963.json`, `revenue_detail_1974_1979.py` (other years are in the scripts, with sources).
+- `charts/`: images used in the Charts_Shaded sheet and in the note.
