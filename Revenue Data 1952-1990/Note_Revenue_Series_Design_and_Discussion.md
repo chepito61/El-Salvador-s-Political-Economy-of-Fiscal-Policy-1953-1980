@@ -283,9 +283,16 @@ The hypothesis is worth testing, but the Memorias do not measure tax expenditure
 - **A size:** registered exemptions by firm or sector (Ministerio de Economía; World Bank 1979 report).
 - **The link to ISI firms:** whether the beneficiaries were the firms hit by the loss of the Honduran market.
 
-### 7.5 A timing point for the periods
+### 7.5 A timing point for the periods (corrected 12 November 2026)
 
-The takeover of the University (July 1972) and the 1972 fraud fall in a year that the current rule assigns to Sánchez Hernández, because Molina took office on 1 July 1972. Under the rule, 1972 is Sánchez Hernández's last year and 1973 is Molina's first budget year. That fits the author's reading (the fraud closes the Sánchez Hernández period). It should still be stated in the note, and it bears on decision 2 in section 3.5.
+The 1972 events split across the change of government:
+
+- **Under Sánchez Hernández:** the fraudulent presidential election of 20 February 1972, which made Molina president, the contested legislative and municipal elections of 12 March, and the failed coup of 25 March.
+- **Under Molina:** he took office on 1 July 1972. The military takeover of the National University followed on 19 July 1972, three weeks later.
+
+Our rule assigns the fiscal year 1972 to Sánchez Hernández: its budget was enacted in December 1971, and he governed the first half of the year. The fraud is therefore inside his period, as the author's reading requires. The University takeover is Molina's act, although it happened in the 1972 fiscal year. It opens his period politically; in the revenue series, his period starts with the 1973 budget.
+
+*Sources: [1972 Salvadoran presidential election](https://en.wikipedia.org/wiki/1972_Salvadoran_presidential_election); [1972 Salvadoran coup attempt](https://en.wikipedia.org/wiki/1972_Salvadoran_coup_attempt); [The 1972 Elections, Library of Congress country study](https://countrystudies.us/el-salvador/11.htm); [50 años de la intervención militar del 19 de julio en la UES, El Diario de Hoy](https://www.elsalvador.com/?p=979065).*
 
 ---
 
