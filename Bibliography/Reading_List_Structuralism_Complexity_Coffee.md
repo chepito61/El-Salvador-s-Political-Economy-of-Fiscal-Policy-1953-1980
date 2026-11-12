@@ -91,7 +91,20 @@
 | 2 | Besley, Timothy, and Torsten Persson (2009). "The Origins of State Capacity: Property Rights, Taxation, and Politics." *American Economic Review* 99(4): 1218–1244 | Why some States build fiscal capacity and others do not | AER | `Besley_Persson_2009_AER.pdf` |
 | 2 | Wood, Elisabeth Jean (2000). *Forging Democracy from Below: Insurgent Transitions in South Africa and El Salvador*. Cambridge University Press | How insurgency changed the elite's economic interests and made the 1992 settlement possible; the end point of the project's story | Book | — |
 
-## 5. Already in the repository (for the same note)
+## 5. The political crisis, 1960–1989: Gordon and Turcios
+
+| Pri. | Work | Why it matters | Link | Suggested file |
+|:--:|:--|:--|:--|:--|
+| 1 | Gordon, Sara (Sara Gordon Rapoport, UNAM) (1989). *Crisis política y guerra en El Salvador*. Mexico: Siglo XXI, 347 pp. | From the economic structure and the regime of the 1930s through the crises of the 1940s and 1960, the 1969 war, the 1972 fraud, the modernization projects of the 1970s, popular mobilization, the 1979–80 crisis and the regime after 1980. Argument (per Benítez Manaut's review): a regime of political exclusion mediated by the army; the oligarchy's resistance to agrarian reform fractured the ruling bloc; the Common Market modernization exposed the limits of the accumulation model; the 1969 war began the economic and political deterioration; reformism failed to prevent the conflict. **The natural companion to Turcios for 1961–1980** | Review: https://journals.unam.mx/index.php/rel/article/download/47548/42786/128874 | — (book) |
+| 2 | Gordon Rapoport, Sara. Article on presidential elections in El Salvador (UNAM) | Elections and the regime; title and year to confirm | https://www.humanindex.unam.mx/humanindex/fichas_pdf/Articulo13985%20GordonRapoport%20Elecciones%20presidenciales.pdf | `Gordon_Elecciones_presidenciales.pdf` |
+| 2 | Turcios, Roberto. "El Salvador: una transición histórica y fundacional." *Nueva Sociedad* (1990s; issue to confirm) | The war-to-peace transition; Turcios's reading of the long period after 1960 | https://www.nuso.org/articulo/el-salvador-una-transicion-historica-y-fundacional/ | `Turcios_Transicion_NUSO.pdf` |
+| 2 | Turcios, Roberto. Paper on the State in El Salvador, Heinrich Böll Foundation (date to confirm) | Turcios on the Salvadoran State over the long run | https://sv.boell.org/sites/default/files/turntable/https___mx.boell.org_sites_default_files_documento_roberto_turcios_estado_el_salvador.pdf | `Turcios_Estado_El_Salvador_Boell.pdf` |
+| 3 | Turcios, Roberto, and Ricardo Córdova. "El Salvador", *Enciclopedia Latinoamericana* (Universidade de São Paulo), updated by F. Morotti | Overview from 1931 to the peace accords; brief on 1961–1979 | https://sites.usp.br/portalatinoamericano/es/espanol-el-salvador | — |
+| 3 | Lungo Uclés, Mario (1990). *El Salvador en los 80: contrainsurgencia y revolución*. FLACSO | The 1980s, for the end point | https://ia600206.us.archive.org/11/items/352810874-mario-lungo-ucles-el-salvador-en-los-80-contra-insurgencia-y-revolucio/352810874-Mario-Lungo-Ucles-El-Salvador-en-Los-80-Contra-Insurgencia-y-Revolucion-FLACSO-El-Salvador-1990.pdf | `Lungo_1990_El_Salvador_80.pdf` |
+
+*Finding on Turcios: no book by Turcios on 1961–1989 comparable to his two books on the 1950s turned up. His later work on the period appears to be shorter pieces (the* Nueva Sociedad *article, the Böll paper, the encyclopedia entry). Worth asking colleagues in San Salvador whether something more substantial exists.*
+
+## 6. Already in the repository (for the same note)
 
 - Turcios, *Autoritarismo y modernización, 1950–1960* and *Rebelión: San Salvador 1960*.
 - Pleitez, chapters 1–2.
