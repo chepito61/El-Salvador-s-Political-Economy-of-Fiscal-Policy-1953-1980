@@ -181,10 +181,64 @@ These follow the logic of the modern fiscal-risk tools (IMF, *Analyzing and Mana
 ## 5. Decisions for the author
 
 1. ~~One fiscal workbook or two?~~ **Decided: one workbook combining revenue, expenditure and interest on the debt.**
-2. Basis: credits used as the main basis, with gastos alongside?
-3. Extract 1957–59 ministry detail now, or accept the gap at first?
-4. National analysis only, or the Central American panel as well?
-5. MTFF dates: 1962, 1968, 1973 and 1977, or others?
+2. ~~Basis?~~ **Decided: credits used as the main basis, with gastos alongside.**
+3. ~~1957–59?~~ **Decided: extract.**
+4. ~~Panel?~~ **Decided: national analysis.**
+5. ~~MTFF dates~~ **Set aside.** This question was about which years to run the framework from, as if a ministry had prepared it then. It is not needed now. The present task is to build the data series and prepare the data the framework will need.
+
+
+---
+
+## 6. Work plan agreed (12 November 2026): the building blocks
+
+**Scope.** Build the expenditure series to mirror the revenue series: verified against printed totals, harmonized across years, documented, with periods by government and charts. Combine them with revenue and interest in one fiscal workbook. At the same time, assemble the series a medium-term fiscal framework will need. No econometrics and no framework model yet.
+
+### 6.1 Steps
+
+1. **Inventory and gap table.** A year-by-sheet grid showing what we already hold (from the CSVs and notes) and what is missing. We already know:
+   - ministry totals exist for every year;
+   - ministry-by-class detail is missing for 1957–59;
+   - 1955–56 is one combined volume (a 1955–56 fiscal period): this needs a rule (keep it as one observation, or split it).
+2. **Extract 1957–59** (MH 1957 A–C, 1958 A–D, 1959 A–D): spending by ministry and object class, credits used and gastos. Check against the printed totals, as for the other years.
+3. **Interest and debt service, 1952–79:** interest and amortization by creditor, from the public-debt lines of each Memoria. Debt stocks at year-end by creditor (domestic, external, war bonds).
+4. **Economic classification, 1952–79:**
+   - 1952–67: built from the object classes (wages, goods and services, transfers, capital), with interest taken from step 3;
+   - 1968–79: Cuadro 15.
+   - The overlap years are reconciled, as was done for revenue in 1962–63.
+5. **Assemble the fiscal workbook:**
+   - the fiscal accounts table (section 1.4);
+   - expenditure by ministry, by economic class and by pillar;
+   - unit lines;
+   - interest and debt;
+   - checks;
+   - periods by government;
+   - charts.
+6. **A Word note** on the expenditure series: design, first findings and decisions, like the revenue note.
+
+### 6.2 Data for the future framework: what each series needs and where it stands
+
+| Series | Status | To do |
+|:--|:--|:--|
+| Revenue by source, 1952–79 | Done | Link |
+| Coffee duty, and duty per unit of price | Done 1960–79 (1971–72 gap) | Fill 1971–72 |
+| Coffee price | Pink Sheet 1960–79 | 1950–59 (ICO; FAO; BCR) |
+| Coffee export volume and value | Not held | BCR, *Revista Mensual*; ICO |
+| Spending by economic class | Partial | Steps 2 and 4 |
+| Interest, amortization, debt stock by creditor | In the notes, scattered | Step 3 |
+| Terms of loans (rate, maturity, grace) | Partly in the loan register | Add from the loan contracts cited in the Memorias |
+| GDP, nominal and real | Memoria from 1968 | 1950–67 (CEPAL; BCR) |
+| Price index | 1974–79 only | 1950–73 (BCR; CEPAL) |
+| Population | Not held | Censuses 1950, 1961, 1971; CELADE |
+| Exchange rate | Fixed at ₡2.50 per US$ | — |
+
+### 6.3 Points of judgement to flag now
+
+- **The 1950s basis.** In the 1950s Memorias the concept of commitments may differ from the 1960s *créditos utilizados*. Each year's basis will be recorded in a Basis column, as in the revenue workbook.
+- **On-lending and loan money.** Spending financed by loans stays inside credits used (it is spending). Loan proceeds stay out of revenue (they are financing), consistent with the conventions.
+- **Interest inside the ministries.** Interest is paid from the Ramo de Hacienda (Deuda Pública). It is taken out of primary spending and shown on its own line, so the totals are not double-counted.
+- **Real terms.** Real values before 1974 wait for a deflator. Until then, the series are shown at current prices and as shares.
+
+**Suggested first step on your go-ahead:** step 1 (the inventory and gap table). It is quick, and it will show exactly how much new extraction steps 2 and 3 require.
 
 ---
 
