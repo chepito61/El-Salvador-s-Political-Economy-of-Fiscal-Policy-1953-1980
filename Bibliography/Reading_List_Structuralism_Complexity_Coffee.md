@@ -29,6 +29,7 @@
 - **Repression as the alternative.** When credible redistribution is too costly, elites choose repression, which requires an army. Acemoglu, Ticchi and Vindigni show that a military built for repression gains autonomy and can turn on the elite: a frame for Stanley's "protection racket" and for the young officers' coup of October 1979.
 - **De jure versus de facto power.** Formal reforms (1950, 1961) can be offset by the persistent de facto power of the coffee elite.
 - **Endowments are not fate.** Nugent and Robinson compare coffee economies: smallholder coffee in Costa Rica and Colombia, large estates in El Salvador and Guatemala. Same crop, different institutions and outcomes.
+- **Taxation and state formation in Central America.** Schneider (2012) explains tax regimes by the cohesion and dominance of elites; El Salvador's cohesive elite is his case of reform that raised revenue through consumption taxes rather than progressive ones. That is consistent with what the Memorias show for 1950–1979: a State financed at the border and through consumption, with direct taxation kept marginal.
 - **Fiscal capacity.** Besley and Persson link the State's capacity to tax to political cohesion: a useful lens on why El Salvador never built a direct-tax base.
 
 ---
@@ -73,7 +74,7 @@
 
 *Point to verify before drafting: the U.S. government's stance on coffee prices in 1949–53 (the 1950 Senate inquiry into high coffee prices and the Korean-War price ceilings). Working assumption: the 1950s boom was market-driven and the US tried to contain prices; oligopoly pricing with US participation began only with the 1962 ICA.*
 
-## 4. Institutions and political economy: Acemoglu, Robinson and related work
+## 4. Institutions, elites and taxation: Acemoglu, Robinson, Schneider and related work
 
 | Pri. | Work | Why it matters | Link | Suggested file |
 |:--:|:--|:--|:--|:--|
@@ -86,6 +87,7 @@
 | 2 | Acemoglu, Daron, and James A. Robinson (2012). *Why Nations Fail*. Crown | Extractive versus inclusive institutions; accessible framing for policy readers | Book | — |
 | 3 | Acemoglu, Daron, James A. Robinson and Rafael J. Santos (2013). "The Monopoly of Violence: Evidence from Colombia." *Journal of the European Economic Association* 11(s1): 5–44 | Paramilitaries and politics; a comparison for ORDEN and the death squads | JEEA / NBER | `Acemoglu_Robinson_Santos_2013.pdf` |
 | 3 | Acemoglu, Daron, and James A. Robinson (2019). *The Narrow Corridor*. Penguin | State capacity and society; the "despotic Leviathan" | Book | — |
+| 1 | Schneider, Aaron (2012). *State-Building and Tax Regimes in Central America*. Cambridge University Press (author then at Tulane University) | The closest work to this project: tax regimes as the outcome of elite cohesion and dominance in El Salvador, Guatemala and Honduras. El Salvador's "dominant and cohesive" elite produced reforms that raised revenue mainly through VAT and consumption taxes, at the expense of progressivity. Its case studies centre on the 1990s–2000s; how far it covers 1950–1980 needs checking. Review: Rodrigues-Silveira, *CROLAR* | https://www.cambridge.org/core/journals/perspectives-on-politics/article/statebuilding-and-tax-regimes-in-central-america-by-aaron-schneider-new-york-cambridge-university-press-2012-260p-9000/1C462F3A1C7993E2331C97BE5848892B ; review: https://crolar.org/index.php/crolar/article/download/116/html_58?inline=1 | — (book) |
 | 2 | Besley, Timothy, and Torsten Persson (2009). "The Origins of State Capacity: Property Rights, Taxation, and Politics." *American Economic Review* 99(4): 1218–1244 | Why some States build fiscal capacity and others do not | AER | `Besley_Persson_2009_AER.pdf` |
 | 2 | Wood, Elisabeth Jean (2000). *Forging Democracy from Below: Insurgent Transitions in South Africa and El Salvador*. Cambridge University Press | How insurgency changed the elite's economic interests and made the 1992 settlement possible; the end point of the project's story | Book | — |
 
