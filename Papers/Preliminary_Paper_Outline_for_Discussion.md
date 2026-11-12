@@ -1,6 +1,6 @@
 # Preliminary Research Paper: Proposed Outline for Discussion
 
-**Working note — 12 November 2026.** First step for the rough draft requested today: a preliminary academic report for a professor, summarizing this first research effort. Nothing is drafted yet. This note proposes the title, the argument, the structure and the evidence for each section, and asks the questions to settle before writing.
+**Working note — 12 November 2026 (updated the same day: the three pillars adopted as the organizing frame).** First step for the rough draft requested today: a preliminary academic report for a professor, summarizing this first research effort. Nothing is drafted yet. This note proposes the title, the argument, the structure and the evidence for each section, and asks the questions to settle before writing.
 
 ---
 
@@ -84,6 +84,12 @@ When the 1978 bust came, after the safety valve of emigration and the political 
   - Turcios on the 1950s;
   - Gordon on the crisis of the 1970s.
 - **The framework:** a fiscal bargain between the military, the coffee and industrial elite, and the new middle groups, tested through who paid, who was paid, and who was protected when money was scarce.
+- **The three pillars of the budget (author's decision, 12 November 2026),** the organizing frame of the paper:
+  - **Development** (Education, Health, Public Works) buys legitimacy and builds the new middle groups;
+  - **Security** (Defensa, Seguridad Pública) buys control;
+  - **Agro-export support** (Agricultura) serves the coalition.
+  - The balance among the pillars, and how it moves with the coffee cycle, is the budget's record of whom the regime served.
+  - **Long-run benchmark** (Pleitez): in the agro-export State (averages 1827–1948), security took 31.1% of spending, debt service 25.6% and development 20.5%. In 1948–1979 the shares were security 11.3%, debt 3.6% and development 45.6%. The 1950s were the shift from a security State to a development State.
 - **Hypotheses H1–H5 and Tracks A–D,** stated as in the project.
 
 ### 3. Historical context in three periods (3–4 pages)
@@ -151,7 +157,15 @@ The periodization is the author's, based on government periods:
   - the annual composition with governments shaded;
   - direct against border taxes.
 
-### 6. Results II: who was paid — spending, the cycle and debt (6 pages)
+### 6. Results II: who was paid — the three pillars, the cycle and debt (7 pages)
+
+- **The pillars over time (central figure: the three pillars, 1952–1979, against the 1827–1948 benchmark):**
+  - development rose from 38% (1952) to about half of spending in 1968–1973;
+  - education peaked at 27% in 1971 and fell to 20% by 1979;
+  - security fell from 16% (1954) to 6.5% (1976);
+  - agro-export support overtook security in 1974–1977;
+  - security doubled to 12.7% in 1979.
+- **The pillars in booms and busts:** the 1959 adjustment cut public works and Defence; the 1978 bust raised security and cut education.
 
 - **Spending followed revenue up and did not follow it down.** In booms, 94 centavos of each extra colón were spent. In busts, cuts in 1958–59, 1962 and 1968; deficit financing in 1971, 1975 and 1978.
 - **Debt took the strain from the late 1960s:**
@@ -170,8 +184,8 @@ The periodization is the author's, based on government periods:
   - the emergency tax;
   - the 1970 coffee windfall.
 - **Figures:**
+  - the three pillars, 1952–1979;
   - the underlying result and debt;
-  - spending shares;
   - the boom and bust table.
 
 ### 7. Reading the evidence against the hypotheses (3–4 pages)
@@ -193,7 +207,7 @@ A first assessment:
 | H5 IRA food subsidies cut | Untested |
 | A Tax bargain | Strongly supported (light taxation of capital; coffee exemption; reforms diluted) |
 | B Honduras safety valve | Supported qualitatively; the fiscal trace is small at the border; the economic cost is unestimated |
-| C Protection bargain | Supported from 1978–79 |
+| C Protection bargain | Supported from 1978–79 (security pillar doubles); not visible in the 1950s |
 | D Reforms announced, then diluted | Supported (1961 income tax; 1974 land law; 1976 agrarian transformation) |
 
 ### 8. Discussion: what the fiscal record adds (2 pages)
@@ -245,7 +259,18 @@ A first assessment:
 
 ---
 
-## 5. Questions for the author before drafting
+## 5. Decisions recorded (12 November 2026)
+
+| Question | Decision |
+|:--|:--|
+| Title | *Riding the Coffee Cycle: Fiscal Policy and the Road to Polarization in El Salvador, 1950–1979. A Preliminary Report* |
+| The 1950s | The 1948–1960 note is drafted first; the paper draws on it |
+| Literature review | Full, 5–6 pages |
+| Voice | "This study" |
+| Honduras | Included, as a case study |
+| Organizing frame | The three pillars of the budget (development, security, agro-export support), carried from 1952 to 1979 |
+
+## 6. Questions for the author before drafting (answered; kept for the record)
 
 1. **Title and tone:** which title, or another? Should the paper state the argument (section 2) as a thesis, or as a set of propositions to be tested?
 2. **Coverage of the 1950s:** the 1948–1960 note is not yet written. Should the paper cover the 1950s from the yearly notes and the revenue series only, or wait for that note?

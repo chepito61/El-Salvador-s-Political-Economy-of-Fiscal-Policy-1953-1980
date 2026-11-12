@@ -322,7 +322,44 @@ What the composition shows:
 
 **The exposure.** With the colón fixed at ₡2.50 per dollar since 1935, the coffee price passed directly into revenue. Turcios estimates that each dollar off the coffee price cost the State about ₡1.19M (*Autoritarismo*, p. 147). The coffee duty fell from ₡54.6M (1957) to ₡35.4M (1958) and ₡24.8M (1959), a loss of ₡29.8M, or 16% of 1957 revenue.
 
-### 5.2 Spending: a developmental State, with a modest security apparatus
+### 5.2 Spending: the three pillars of the regime's bargain
+
+**The frame (author's decision, 12 November 2026).** This study reads the budget as the three pillars of the bargain on which the military regime rested:
+
+- **Development** (Education, Health and Public Works) buys legitimacy and builds the new middle groups: teachers, students, State employees, professionals.
+- **Security** (Defensa and Seguridad Pública, the Defence-controlled apparatus) buys control.
+- **Agro-export support** (Agricultura y Ganadería) serves the coalition: research, extension and credit for coffee and cotton.
+
+The balance among the three pillars, and how it changes when coffee rises or falls, is the budget's record of whom the regime chose to serve.
+
+**The long-run benchmark: from a security State to a development State.** Pleitez's averages for the agro-export State, 1827–1948 (Tabla 1.15, p. 165), against the import-substitution model, 1948–1979 (Tabla 2.10, pp. 247–248):
+
+| Share of central-government spending | Agro-export State, 1827–1948 (average) | 1948–1979 (average) | This study, 1952–1960 (range) |
+|:--|--:|--:|--:|
+| Security (defence and security) | 31.1% | 11.3% | 12.6–15.9% |
+| Development (education + health + public works) | 20.5% | 45.6% | 37.7–45.7% |
+| — education | 6.1% | 20.2% | 13.2–19.5% |
+| — health | 4.2% | 10.8% | 9.4–11.0% |
+| — public works | 10.2% | 14.6% | 14.7–17.7% |
+| Agro-export support (agriculture) | 0.3% | 6.2% | 2.6–3.1% |
+| Debt service | 25.6% | 3.6% | about 2% (1958) |
+
+*Sources: Pleitez, as cited (his averages draw on the Memorias, the Diario Oficial and Wallich and Adler); this study, Table 3 below. The 1827–1948 figures are long-run averages, not the situation of 1948, and should be read as an order of magnitude.*
+
+The 1950s were the turning point. The old State spent close to six of every ten colones on security and debt. The new one spent more than four on schools, health and roads, and between 13% and 16% on security. **The budget changed its pillars in one decade.**
+
+The rest of the period (figure 5) shows when the balance turns again:
+
+- development peaks at about half of spending around 1968–1973;
+- education peaks at 27% in 1971;
+- agro-export support overtakes security in 1974–1977, the years of the ISTA and the agrarian programmes;
+- security doubles from 6.5% (1976) to 12.7% (1979), back to the level of the late 1950s.
+
+That is the subject of the preliminary paper.
+
+![The three pillars, 1952–1979](charts_1948_1960/fig5_three_pillars_1952_1979.png){width=6.5in}
+
+**The 1950s in detail.**
 
 ![Spending shares 1952–1960](charts_1948_1960/fig4_spending_shares_1952_1960.png){width=6.5in}
 
@@ -341,8 +378,8 @@ What the composition shows:
 
 - **Development dominated from the start.** It took about three times the share of security in every year (2.6–3.6 times), and rose with the boom.
 - **Education grew fastest**, from 14% to 19% of spending. Turcios gives the education budget as ₡20.8M in 1956 and ₡32.9M in 1960 (*Rebelión*, p. 168).
-- **Security drifted down,** from a peak of 15.9% (1954) to 12.6% (1960). This is close to Pleitez's average of 11.3% for the whole 1948–1979 model, and far below the 31.1% he gives for the pre-1948 agro-export State.
-- **Agriculture got little:** 3% of spending, in an agricultural country.
+- **Security drifted down,** from a peak of 15.9% (1954) to 12.6% (1960), already close to Pleitez's average of 11.3% for 1948–1979.
+- **Agro-export support got little:** 3% of spending, in an agricultural country. The coalition was served mainly on the revenue side (the coffee income-tax exemption, untaxed cotton), not through the budget.
 
 ### 5.3 The 1958–59 coffee fall: a managed adjustment
 
@@ -473,6 +510,8 @@ The protests demanded democracy, not an end to austerity. 1960 was a year of eco
 **Track A (the tax bargain): the starting point.** The fiscal system of the 1950s was designed to capture the coffee windfall at the border without touching the income or wealth of the coffee and commercial elite. That design left the State's finances hostage to the coffee price, and it made the next step (taxing capital) politically costly. The Directorio tried that step in 1961 and partly undid it within months.
 
 **H3 (investment adjusts first): confirmed early.** In the decade's only downturn, public works were cut first.
+
+**The three pillars in the 1950s.** Development rose, security fell and agro-export support stayed small. The bargain was paid for in legitimacy, not in control, and the coalition was served through the tax system.
 
 **The protection bargain (Track C) is not visible in the budget yet.** The army was the regime's political base, but it did not have a protected budget share. Repression was carried out by the regular police and the Guardia, at modest cost.
 
