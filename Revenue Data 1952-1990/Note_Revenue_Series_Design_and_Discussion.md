@@ -122,7 +122,7 @@ Shares of current revenue, weighted by revenue (period sum of each source over p
 
 ### 3.5 Decisions pending (the workbook uses the first option in each case)
 
-1. Treat Sánchez Hernández as a separate period? Keep the 1961 Junta/Directorio year apart or join it to Rivera?
+1. ~~Treat Sánchez Hernández as a separate period?~~ **Decided (12 November 2026): yes** — see section 7. Still open: keep the 1961 Junta/Directorio year apart or join it to Rivera?
 2. **Transition years.** Presidents took office on 1 July, but each year's budget was enacted the previous December by the outgoing government. Options:
    - the year after inauguration goes to the new president (used above);
    - split those years, or mark them as transition years.
@@ -231,6 +231,61 @@ Two corrections were found while checking the 1975–79 detail against the print
    - the selective consumption tax;
    - the "other merchandise" export duty;
    - the 1977 increase in the net wealth tax.
+
+
+---
+
+## 7. The Sánchez Hernández period (author's decision, 12 November 2026)
+
+### 7.1 The decision and the author's reasoning
+
+Sánchez Hernández (1967–1972) stays a period of its own. The author reads it as the **transition** between the modernization project with political opening (Osorio to Rivera) and the most authoritarian administration, General Romero's:
+
+- the war with Honduras (1969) unravels the import-substitution (ISI) experiment built on the Common Market;
+- coffee becomes less stable;
+- there is no programme to resettle the Salvadorans expelled from Honduras (recorded in the annual notes);
+- the opposition grows and the first guerrilla groups form;
+- the fiscal cost of the war is paid with coffee windfalls; its economic cost is significant but has not been estimated;
+- the 1972 electoral fraud is the official end of the political opening of the early 1960s, and Molina closes the phase with the military takeover of the National University.
+
+The author also suggests that the **tax expenditures of the Molina and Romero years** may have been designed to compensate the firms of the incipient ISI sector.
+
+### 7.2 What the series says about this reading
+
+**Coffee prices.** The data support "less stable than under Rivera", but not yet wild swings: those come in 1976–78.
+
+| Annual change in the coffee price (Pink Sheet) | Largest rise | Largest fall |
+|:--|--:|--:|
+| Rivera 1962–67 | +25% (1964) | −7% (1962, 1966) |
+| Sánchez Hernández 1968–72 | +31% (1970) | −13% (1971) |
+| Molina 1973–77 | +118% (1976) | −1% (1975) |
+| Romero 1978–79 | +7% (1979) | −31% (1978) |
+
+**The 1970 windfall.** The price rise of 1970 raised the coffee duty by 63% (from ₡26.5M to ₡43.1M). Together with the 1969 emergency tax, that is the money that paid for the war: the annual notes show that the war was financed with war bonds (₡34.3M sold in 1968–70) and the emergency tax (₡9.6M), and that the 1970 windfall wiped out the 1969 financial deficit and repaid ₡10M to the Central Bank (Note_MH_1970). **This fits the author's reading.**
+
+**Import duties.** They had already fallen before the war: ₡59.4M in 1967, ₡52.9M in 1968. Their share of current revenue went from 26% (1967) to 23% in 1968–71 and 22% in 1972. **The war does not show up as a break in import duties.** The reason is probably structural: trade with Honduras and the rest of the Common Market was mostly duty-free, so the war cut trade that paid little tax anyway. The 1968 fall comes first and needs its own explanation. A candidate is the 1968 San José Protocol of the Common Market (emergency measures for the balance of payments); this is to verify, not assumed.
+
+### 7.3 Estimating the loss of taxable imports: a proposal
+
+Three steps, from the simplest:
+
+1. **Counterfactual import duties.** Project the duties of 1969–72 with the 1960–67 relation between import duties and imports (or GDP), and compare with the actual figures. This needs annual imports by origin (BCR, *Revista Mensual*; SIECA) and the effective duty rate.
+2. **Split by origin.** Separate extra-regional imports (taxable) from Central American imports (duty-free). Only the first carry fiscal loss. The economic loss lies more in **exports** to Honduras and in transit across Honduras to Nicaragua and Costa Rica, closed from 1969.
+3. **Exemptions.** Industrial-promotion exemptions on imported inputs (Ley de Fomento Industrial) cut the tax base further. The Memorias do not report them, so the size of the taxable base after exemptions needs another source (CEPAL, World Bank 1974).
+
+**Expected result.** The direct loss of import duties is probably small. The large cost of the war is economic (exports, industrial employment, the returnees), not fiscal at the border. That itself supports the author's point that the war's economic cost was never accounted for.
+
+### 7.4 Tax expenditures as compensation (Molina and Romero): what is needed
+
+The hypothesis is worth testing, but the Memorias do not measure tax expenditures. We need:
+
+- **The laws:** the export-promotion and industrial-promotion laws of the 1970s, and any free zones, with dates and beneficiaries (Diario Oficial). These are added to the checklist; none is assumed here.
+- **A size:** registered exemptions by firm or sector (Ministerio de Economía; World Bank 1979 report).
+- **The link to ISI firms:** whether the beneficiaries were the firms hit by the loss of the Honduran market.
+
+### 7.5 A timing point for the periods
+
+The takeover of the University (July 1972) and the 1972 fraud fall in a year that the current rule assigns to Sánchez Hernández, because Molina took office on 1 July 1972. Under the rule, 1972 is Sánchez Hernández's last year and 1973 is Molina's first budget year. That fits the author's reading (the fraud closes the Sánchez Hernández period). It should still be stated in the note, and it bears on decision 2 in section 3.5.
 
 ---
 
