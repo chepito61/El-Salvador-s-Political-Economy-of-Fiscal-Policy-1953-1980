@@ -89,6 +89,7 @@ When the 1978 bust came, after the safety valve of emigration and the political 
   - **Security** (Defensa, Seguridad Pública) buys control;
   - **Agro-export support** (Agricultura) serves the coalition.
   - The balance among the pillars, and how it moves with the coffee cycle, is the budget's record of whom the regime served.
+  - **Provisional:** the pillars are ministry-based. The paper states their limits and treats the 1970s turning points with care until they are validated with Diario Oficial and other micro data (Note on Validating the Three Pillars).
   - **Long-run benchmark** (Pleitez): in the agro-export State (averages 1827–1948), security took 31.1% of spending, debt service 25.6% and development 20.5%. In 1948–1979 the shares were security 11.3%, debt 3.6% and development 45.6%. The 1950s were the shift from a security State to a development State.
 - **Hypotheses H1–H5 and Tracks A–D,** stated as in the project.
 

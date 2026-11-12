@@ -332,6 +332,8 @@ What the composition shows:
 
 The balance among the three pillars, and how it changes when coffee rises or falls, is the budget's record of whom the regime chose to serve.
 
+*The pillars are measured here from ministry totals and are provisional. They are to be validated with unit-level and off-budget data from the Diario Oficial and other sources (see* Note on Validating the Three Pillars*).*
+
 **The long-run benchmark: from a security State to a development State.** Pleitez's averages for the agro-export State, 1827–1948 (Tabla 1.15, p. 165), against the import-substitution model, 1948–1979 (Tabla 2.10, pp. 247–248):
 
 | Share of central-government spending | Agro-export State, 1827–1948 (average) | 1948–1979 (average) | This study, 1952–1960 (range) |
