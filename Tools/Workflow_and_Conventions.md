@@ -57,6 +57,8 @@ A **synthesis note on the cost of the war** (1969 war with Honduras), built from
 - **Unit lines come one year late.** From the 1974 volume on, Estado IV-2 in the Memoria for year Y reports the budget of year **Y−1**, liquidated at the end of Y. (MH 1975 gave the 1974 unit lines; MH 1976 should give 1975.) Earlier volumes (e.g., MH 1973) report the same year. Always check the year in the IV-2 header and the debt line.
 - **Coffee prices:** World Bank Pink Sheet, "Graficas" sheet of *Commodities y recaudacion.xlsx* (US$/kg): 1971 0.992; 1972 1.110; 1973 1.373; 1974 1.452; 1975 1.442; 1976 3.147; 1977 5.169; 1978 3.590; 1979 3.826; 1980 3.466. The other columns are **sugar** and **cotton**, not oil.
 - Currency: US$1.00 = ₡2.50.
+- **Terminology (author's decision, 11 November 2026):** write **"corporate income tax"**, not "company income tax" or "company taxes" (Memoria: *impuesto sobre la renta de empresas / sociedades*). Personal income tax stays "personal income tax". Notes issued before this date use "company"; correct them when they are next revised.
+- **Revenue classification across periods (author's decision, 11 November 2026):** the 1950s Memorias classify revenue by *Títulos* (patrimonial rights, official enterprises, taxes, etc.). For long series, map them into the modern categories (income, property, imports, exports, consumption, stamps and legal acts, non-tax) and explain the mapping in a footnote or methods note.
 
 ## 5. Verification rules
 
