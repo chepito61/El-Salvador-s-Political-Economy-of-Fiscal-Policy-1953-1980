@@ -258,7 +258,7 @@ ANDES was founded in June 1965; its first national strike came in 1968, and the 
 
 **1959.** A second deficit (about ₡19M), financed from the cushion, which fell to ₡18.0M. Export duties fell another 30%, all of it coffee. Spending was cut only 4%, and capital spending carried the adjustment while the wage bill (about half of credits used) held. Development took 41.7%, security 12.7%. The fixed exchange rate passed the fall in world prices fully into colón revenue.
 
-**1960.** *(No yearly note yet: the 1960 Memoria is in the repository but has not been processed; figures from the 1961 note and the 1948–1960 note.)* Revenue recovered to ₡170.5M and the deficit narrowed to 2.2% of revenue; the Superávit Financiero rose to ₡20.3M. The fiscal record does not show exhaustion before the coup: the crisis of 1960 was political. Lemus's opening of 1956–57 had been reversed by repression, the University was sacked by the police, and on 26 October Lemus was deposed.
+**1960.** Revenue recovered to ₡170.5M and the deficit narrowed to 2.2% of revenue; the Superávit Financiero rose to ₡20.3M. The fiscal record does not show exhaustion before the coup: the crisis of 1960 was political. Lemus's opening of 1956–57 had been reversed by repression, the University was sacked by the police, and on 26 October Lemus was deposed.
 
 ## The Junta and the Directorio, 1961
 
@@ -415,7 +415,7 @@ ANDES was founded in June 1965; its first national strike came in 1968, and the 
 
 - 1952–53; 1954; 1955; 1955–56; 1957; 1958; 1959 (Word files only for 1954–59);
 - 1961 to 1979, one pair per year;
-- no note yet for 1960.
+- the 1960 notes were revised on 21 November 2026 (political context from Turcios, monetary section, hypotheses).
 
 **Thematic notes.**
 
