@@ -33,9 +33,15 @@ Secondary sources for *El Salvador's Political Economy of Fiscal Policy, 1953–
 
 Reading note: Reading_Note_Complexity_Framework (all four papers).
 
-## ECLA/
+## ECLA_and_Development_Theory/
 
-CEPAL articles and reports, to be added.
+| File | Source |
+|:--|:--|
+| Prebisch_1950_Economic_Development_of_Latin_America_ECLA.pdf | ECLA (Prebisch), *The Economic Development of Latin America and its Principal Problems* (1950) |
+| Singer_1950_Distribution_of_Gains_AER.pdf | Singer, "The Distribution of Gains between Investing and Borrowing Countries", *AER* 40(2) (1950) |
+| Hirschman_1958_Strategy_of_Economic_Development.pdf | Hirschman, *The Strategy of Economic Development* (Yale, 1958) |
+
+Reading note: Reading_Note_Development_Theory_Prebisch_Singer_Hirschman. Further CEPAL articles go here.
 
 ## Ellacuria_ECA_Editorials/
 
@@ -67,3 +73,4 @@ Editorials by Ignacio Ellacuría in *Estudios Centroamericanos* (ECA):
 | Reading_Note_Acevedo_2003_Growth | Acevedo (2003) |
 | Review_of_Background_Readings_Ching_Turcios_Acevedo | The three notes above, combined |
 | Reading_Note_Complexity_Framework | The four complexity papers |
+| Reading_Note_Development_Theory_Prebisch_Singer_Hirschman | Prebisch (1950), Singer (1950), Hirschman (1958) |
