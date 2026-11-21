@@ -53,7 +53,7 @@ The book's annex tables cover only 1897–1927, not our period.
 - **A check on our figures:** Walter's long series for education, security and the Presidency.
 - **A source to obtain:** Walter (2014), which has the full annual series behind these shares. It could fill our gaps before 1952 and in 1957–59.
 
-**The author.** Rubén Zamora (b. 1942) is a political scientist: law degree, University of El Salvador (1968); graduate studies in political science at the University of Essex from 1969. He taught political science at the UES, the UCA, Essex and Stanford. He was also a political actor: co-founder of the FDR (1980), presidential candidate in 1994, and ambassador to the United States (2013–14) and the United Nations (2014–19) (Encyclopedia.com; Wikipedia). The author of this study regards him as a credible source. The point to keep in mind is only that the essay has few citations for 1948–1979, so dates and figures are checked before use, as with any secondary source.
+**The author.** Rubén Zamora (b. 1942) is a political scientist: law degree, University of El Salvador (1968); graduate studies in political science at the University of Essex from 1969. He taught political science at the UES, the UCA, Essex and Stanford. He was also a political actor: co-founder of the FDR (1980), presidential candidate in 1994, and ambassador to the United States (2013–14) and the United Nations (2014–19) (Encyclopedia.com; Wikipedia).
 
 **The strikes of 1967, 1968 and 1971, checked (21 November 2026).**
 
