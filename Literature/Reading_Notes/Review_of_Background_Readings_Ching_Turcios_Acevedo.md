@@ -14,7 +14,7 @@ This note brings together the reviews of three background readings, prepared for
 
 # 1. Ching, "El Salvador" (2020)
 
-**Reference.** Ching, Erik (2020). "El Salvador." In Robert H. Holden (ed.), *The Oxford Handbook of Central American History*, ch. 20, pp. 545–566. New York: Oxford University Press. https://doi.org/10.1093/oxfordhb/9780190928360.013.20 . File: *Historical Background/Ching_2020_El_Salvador_Oxford_Handbook.pdf*.
+**Reference.** Ching, Erik (2020). "El Salvador." In Robert H. Holden (ed.), *The Oxford Handbook of Central American History*, ch. 20, pp. 545–566. New York: Oxford University Press. https://doi.org/10.1093/oxfordhb/9780190928360.013.20 . File: *Literature/History_and_Politics/Ching_2020_El_Salvador_Oxford_Handbook.pdf*.
 
 **What it is.** A survey chapter on El Salvador from independence to 2019, with a historiographic slant: for each period it sets out the scholarly debate and where new archival work has moved it. The period 1931–1979 takes about three pages (pp. 552–554), and the origins of the war about two (pp. 554–556). The notes (pp. 561–566) are a good guide to the recent literature.
 
@@ -76,7 +76,7 @@ This note brings together the reviews of three background readings, prepared for
 
 # 2. Turcios, *Larga dictadura* (2021)
 
-**Reference.** Turcios, Roberto (2021). *Larga dictadura*, 2º fascículo. San Salvador: Editorial Universidad Evangélica de El Salvador (UEES). 22 pp. ISBN 978-99961-331-7-6. Part of the UEES research project "Evolución constitucional salvadoreña en el siglo XX". File: *Turcios/Turcios_2021_Larga_Dictadura.pdf*.
+**Reference.** Turcios, Roberto (2021). *Larga dictadura*, 2º fascículo. San Salvador: Editorial Universidad Evangélica de El Salvador (UEES). 22 pp. ISBN 978-99961-331-7-6. Part of the UEES research project "Evolución constitucional salvadoreña en el siglo XX". File: *Literature/History_and_Politics/Turcios/Turcios_2021_Larga_Dictadura.pdf*.
 
 **What it is.** A short essay on the transition of 1944: the fall of Martínez in May, the constitutional debate over the 1886 and 1939 texts, and the "reversal" of the transition by the dictatorship's heirs, ending with Osmín Aguirre's coup in October. It is built on the press of the time (*La Prensa Gráfica*, *El Diario de Hoy*), the Diario Oficial and memoirs. Its argument is in the title: the dictatorship left a "solid sediment" in the army and the Assembly that renewed it and stopped the democratic wave with repression (p. 4).
 
@@ -124,7 +124,7 @@ This is the most useful part for the project, and it comes from primary sources 
 
 # 3. Acevedo, Growth in El Salvador, 1950–2000 (2003)
 
-**Reference.** Acevedo, Carlos (2003). *El crecimiento económico en El Salvador durante la segunda mitad del siglo XX*. Discussion paper, Inter-American Development Bank, Regional Operations Department II, Washington, D.C., August 2003. Part of a regional project on the determinants of growth in Central America and the Dominican Republic, coordinated by Manuel R. Agosin, Roberto Machado and Paulina Nazal. The author was then director of macroeconomics at FUSADES. File: *Historical Background/Acevedo_2003_Crecimiento_El_Salvador_Siglo_XX.pdf*.
+**Reference.** Acevedo, Carlos (2003). *El crecimiento económico en El Salvador durante la segunda mitad del siglo XX*. Discussion paper, Inter-American Development Bank, Regional Operations Department II, Washington, D.C., August 2003. Part of a regional project on the determinants of growth in Central America and the Dominican Republic, coordinated by Manuel R. Agosin, Roberto Machado and Paulina Nazal. The author was then director of macroeconomics at FUSADES. File: *Literature/Development_Models/Acevedo_2003_Crecimiento_El_Salvador_Siglo_XX.pdf*.
 
 **What it is.** An economic history of growth, 1950–2000, in two parts: a periodization of the economy (pp. 3–10), and a growth-accounting and error-correction analysis of total factor productivity (TFP) (pp. 10–24). For our project the first part supplies the macroeconomic setting, and the second part has two results that bear on the research question.
 

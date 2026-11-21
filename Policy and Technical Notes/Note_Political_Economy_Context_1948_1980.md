@@ -326,7 +326,7 @@ The five hypotheses stand. The sources suggest four additions to track, not new 
 
 **In the repository**
 
-- Pleitez, William. Chapters 1, "El modelo agroexportador: la riqueza entendida como producto del aprovechamiento de los mercados internacionales" (pp. 57–186), and 2, "El modelo de industrialización por sustitución de importaciones: la riqueza como difusión del progreso técnico" (pp. 187–270), of a book on El Salvador's development models (full title and publisher to be confirmed). Repository files Pleites/Chapter 1 A, 1B, 2 A, 2 B. Both chapters draw on his contributions to the UNDP *Informes sobre Desarrollo Humano de El Salvador* (2007, 2009/2010, 2013).
+- Pleitez, William. Chapters 1, "El modelo agroexportador: la riqueza entendida como producto del aprovechamiento de los mercados internacionales" (pp. 57–186), and 2, "El modelo de industrialización por sustitución de importaciones: la riqueza como difusión del progreso técnico" (pp. 187–270), of a book on El Salvador's development models (full title and publisher to be confirmed). Repository files Literature/Development_Models/Pleitez/Chapter 1 A, 1B, 2 A, 2 B. Both chapters draw on his contributions to the UNDP *Informes sobre Desarrollo Humano de El Salvador* (2007, 2009/2010, 2013).
 - Dada Hirezi, Héctor. *La economía de El Salvador y la integración centroamericana, 1945–1960.* San Salvador: UCA Editores, 1978 (files DH 1A, DH1B, DH1C1, DH1C2, "Dada Hirezi ISI El Salvador II").
 - Morales, R. Armando. "Determinants of Growth in an Error-Correction Model for El Salvador." IMF Working Paper WP/98/104, July 1998.
 - Turcios, Roberto. *Autoritarismo y modernización, 1950–1960*; *Rebelión: San Salvador 1960*.

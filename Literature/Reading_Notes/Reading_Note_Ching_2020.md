@@ -2,7 +2,7 @@
 
 **Working note — 21 November 2026.** Background for the narrative briefing for the research assistants.
 
-**Reference.** Ching, Erik (2020). "El Salvador." In Robert H. Holden (ed.), *The Oxford Handbook of Central American History*, ch. 20, pp. 545–566. New York: Oxford University Press. https://doi.org/10.1093/oxfordhb/9780190928360.013.20 . File: *Historical Background/Ching_2020_El_Salvador_Oxford_Handbook.pdf*.
+**Reference.** Ching, Erik (2020). "El Salvador." In Robert H. Holden (ed.), *The Oxford Handbook of Central American History*, ch. 20, pp. 545–566. New York: Oxford University Press. https://doi.org/10.1093/oxfordhb/9780190928360.013.20 . File: *Literature/History_and_Politics/Ching_2020_El_Salvador_Oxford_Handbook.pdf*.
 
 **What it is.** A survey chapter on El Salvador from independence to 2019, with a historiographic slant: for each period it sets out the scholarly debate and where new archival work has moved it. The period 1931–1979 takes about three pages (pp. 552–554), and the origins of the war about two (pp. 554–556). The notes (pp. 561–566) are a good guide to the recent literature.
 

@@ -2,7 +2,7 @@
 
 **Working note — 21 November 2026.** Background for the narrative briefing for the research assistants.
 
-**Reference.** Turcios, Roberto (2021). *Larga dictadura*, 2º fascículo. San Salvador: Editorial Universidad Evangélica de El Salvador (UEES). 22 pp. ISBN 978-99961-331-7-6. Part of the UEES research project "Evolución constitucional salvadoreña en el siglo XX". File: *Turcios/Turcios_2021_Larga_Dictadura.pdf*.
+**Reference.** Turcios, Roberto (2021). *Larga dictadura*, 2º fascículo. San Salvador: Editorial Universidad Evangélica de El Salvador (UEES). 22 pp. ISBN 978-99961-331-7-6. Part of the UEES research project "Evolución constitucional salvadoreña en el siglo XX". File: *Literature/History_and_Politics/Turcios/Turcios_2021_Larga_Dictadura.pdf*.
 
 **What it is.** A short essay on the transition of 1944: the fall of Martínez in May, the constitutional debate over the 1886 and 1939 texts, and the "reversal" of the transition by the dictatorship's heirs, ending with Osmín Aguirre's coup in October. It is built on the press of the time (*La Prensa Gráfica*, *El Diario de Hoy*), the Diario Oficial and memoirs. Its argument is in the title: the dictatorship left a "solid sediment" in the army and the Assembly that renewed it and stopped the democratic wave with repression (p. 4).
 

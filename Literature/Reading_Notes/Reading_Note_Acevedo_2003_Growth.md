@@ -2,7 +2,7 @@
 
 **Working note — 21 November 2026.** Background for the narrative briefing for the research assistants.
 
-**Reference.** Acevedo, Carlos (2003). *El crecimiento económico en El Salvador durante la segunda mitad del siglo XX*. Discussion paper, Inter-American Development Bank, Regional Operations Department II, Washington, D.C., August 2003. Part of a regional project on the determinants of growth in Central America and the Dominican Republic, coordinated by Manuel R. Agosin, Roberto Machado and Paulina Nazal. The author was then director of macroeconomics at FUSADES. File: *Historical Background/Acevedo_2003_Crecimiento_El_Salvador_Siglo_XX.pdf*.
+**Reference.** Acevedo, Carlos (2003). *El crecimiento económico en El Salvador durante la segunda mitad del siglo XX*. Discussion paper, Inter-American Development Bank, Regional Operations Department II, Washington, D.C., August 2003. Part of a regional project on the determinants of growth in Central America and the Dominican Republic, coordinated by Manuel R. Agosin, Roberto Machado and Paulina Nazal. The author was then director of macroeconomics at FUSADES. File: *Literature/Development_Models/Acevedo_2003_Crecimiento_El_Salvador_Siglo_XX.pdf*.
 
 **What it is.** An economic history of growth, 1950–2000, in two parts: a periodization of the economy (pp. 3–10), and a growth-accounting and error-correction analysis of total factor productivity (TFP) (pp. 10–24). For our project the first part supplies the macroeconomic setting, and the second part has two results that bear on the research question.
 

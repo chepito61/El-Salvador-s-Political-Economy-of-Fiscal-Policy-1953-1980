@@ -2,7 +2,7 @@
 
 **Working note — 21 November 2026.** Background for the narrative briefing for the research assistants. Context only: figures in our notes still come from the Memorias de Hacienda.
 
-**Reference.** Zamora, Rubén (2019). *Siglo XX. Sociedad y Estado* (Colección Bicentenario, 3). San Salvador: Instituto Nacional de Formación Docente (INFOD). 86 pp. File: *Historical Background/Zamora_2019_Siglo_XX_Sociedad_y_Estado.pdf*.
+**Reference.** Zamora, Rubén (2019). *Siglo XX. Sociedad y Estado* (Colección Bicentenario, 3). San Salvador: Instituto Nacional de Formación Docente (INFOD). 86 pp. File: *Literature/History_and_Politics/Zamora_2019_Siglo_XX_Sociedad_y_Estado.pdf*.
 
 **What it is.** A short interpretive essay on the Salvadoran State in the twentieth century, written for public-school teachers. It reads the State on three levels: economy and politics, the State apparatus, and the actors. Chapter III (pp. 41–61) covers our period, 1948–1979, which Zamora calls "organic militarism" and "the militarist, social and developmentalist model". The spending figures are his own calculations from Knut Walter (2014), *Las políticas culturales del Estado salvadoreño, 1900–2012*.
 

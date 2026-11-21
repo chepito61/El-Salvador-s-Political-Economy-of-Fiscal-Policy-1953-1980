@@ -12,7 +12,7 @@ This note reviews four papers from the growth-diagnostics and economic-complexit
 | **Hidalgo, Klinger, Barabási and Hausmann (2007)**, "The Product Space Conditions the Development of Nations" | Tropical agriculture and garments sit in the sparse periphery of the product space, far from the core; countries move to products near what they already make |
 | **Hausmann, Hwang and Rodrik (2007)**, "What You Export Matters" | The income level of a country's exports (EXPY) predicts its growth; trade data from 1962 make it computable for our period |
 
-Files: *Complexity Framework/* in the repository.
+Files: *Literature/Complexity_Framework/* in the repository.
 
 # 1. Hausmann and Rodrik (2005), "Self-Discovery in a Development Strategy for El Salvador"
 
