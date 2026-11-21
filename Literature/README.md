@@ -43,6 +43,10 @@ Reading note: Reading_Note_Complexity_Framework (all four papers).
 
 Reading note: Reading_Note_Development_Theory_Prebisch_Singer_Hirschman. Further CEPAL articles go here.
 
+## Political_Economy_Theory/
+
+Seven papers by Acemoglu, Robinson and co-authors, Nugent and Robinson, and Besley and Persson, on elites, the military, regime transitions, paramilitaries and state capacity; see the folder's README. Reading note: Reading_Note_Political_Economy_Theory.
+
 ## Ellacuria_ECA_Editorials/
 
 Editorials by Ignacio Ellacuría in *Estudios Centroamericanos* (ECA):
@@ -74,3 +78,4 @@ Editorials by Ignacio Ellacuría in *Estudios Centroamericanos* (ECA):
 | Review_of_Background_Readings_Ching_Turcios_Acevedo | The three notes above, combined |
 | Reading_Note_Complexity_Framework | The four complexity papers |
 | Reading_Note_Development_Theory_Prebisch_Singer_Hirschman | Prebisch (1950), Singer (1950), Hirschman (1958) |
+| Reading_Note_Political_Economy_Theory | The seven political-economy papers |
